@@ -1,0 +1,1898 @@
+[
+    {
+      "title": "Chuyển đổi vận mệnh",
+      "id": "01",
+      "description": "",
+      "img": "https://lh3.googleusercontent.com/pw/AM-JKLWKX7EzOAgwo4_OqzZTOtp2E_FqjoAeAwwscNZcoqbVXyKof5xSAsuHTkGu06VOtbu4Al5BrMAK9Hv6QQ8L3GQjY1gvVVIVPJeILNgLxYUwvTkYo-yqSu3dalrjzMYn6JNOJLja9ng5GxvSACqJ_M3a=s1024-no?authuser=0",
+      "code": "",
+      "price": "0",
+      "apple": "2",
+      "require": [
+        "2"
+      ],
+      "type": "audio",
+      "media": [
+        {
+          "id": "00",
+          "title": "Lời tựa: Lời chia sẻ từ các bạn học viên",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556823755.m3u8?s=ec66fe9d9a5c47b3e195558cffed9c5a5324593a&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "01",
+          "title": "B1: Bạn là ai?",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556823781.m3u8?s=e988dcd3236a3d5323dd8c105bd7dc1d81a1b7c4&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "02",
+          "title": "B2: Cái tên của bạn có ý nghĩa gì",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556823802.m3u8?s=6c12ea6534434069456f76eb57afc0661575db99&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "03",
+          "title": "B3: Ba từ khóa nói về bạn",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556823823.m3u8?s=2c3a525a0870e22314ffc6266589e53a06a276c1&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "04",
+          "title": "B4: Thứ gì là quan trọng nhất trong cuộc sống của bạn?",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556823845.m3u8?s=ce35595b50fb1d0b20e2c77eaa984484172f6d99&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "05",
+          "title": "B5: Bạn sống trên đời để làm gì?",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556823861.m3u8?s=caea630509e96066e710a7aa608d9f57a71ce988&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "06",
+          "title": "B6: Bánh xe cuộc đời - Bạn cần tập trung cho điều gì?",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556823880.m3u8?s=6df79ced2bad199d590724c3943b08c117663065&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "07",
+          "title": "B7: Cuộc sống trong 3 năm tới.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556823902.m3u8?s=35addc0161ad27f53dcc9520552fdca36db4a39b&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "08",
+          "title": "B8: 100 việc cần làm trong đời.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556823935.m3u8?s=923330ef1873402318494516984f44142a416bb2&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "09",
+          "title": "B9: Ai là người bạn mô phỏng?",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556823957.m3u8?s=38056bf699b6b3e298badcadc3c8449f03b2fbc9&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "10",
+          "title": "B10: Bạn có giá trị gì",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556823977.m3u8?s=f9bf8427b0e384851f5b97c9c5f35bf35c840a56&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "11",
+          "title": "B11: Bạn muốn làm việc với ai.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556823992.m3u8?s=a1bbb94b18096c129f652357c7803ed70857327b&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "12",
+          "title": "B12: Be-do-have hay Have-do-be.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824024.m3u8?s=28a179fdf5d7db2aefb75962adb2e6748c1d2696&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "13",
+          "title": "B13: Cái gì trong đầu sẽ có trong tay.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824049.m3u8?s=868eaa98c251729c12f9ed47e9a47b75d5e10ff9&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "14",
+          "title": "B14: Thành công nuôi dưỡng thành công.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824069.m3u8?s=13b8b432b93c2e9b97e70599767911537b702410&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "15",
+          "title": "B15: 4 chiếc lọ thần kì mang đến thịnh vượng.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824095.m3u8?s=8521fb0705f1fc3ea8cbce5a071b215c4e5023b9&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "16",
+          "title": "B16: Mài kim cương.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824132.m3u8?s=f377f8f0e2d0906d1665fff4738a3ef960b53696&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "17",
+          "title": "B17: Đập tan sự trì hoãn và thúc đẩy bản thân hành động.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824149.m3u8?s=6dd16523f64e58e82918ef791c3aceefd24d56c0&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "18",
+          "title": "B18: Tập thể dục.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824167.m3u8?s=29fc0b9604bbe4f49eda2530e1944fe8bac8ae15&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "19",
+          "title": "B19: Con số thần kì - Sự rõ ràng của ý định.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824190.m3u8?s=960dbdd3e8c5f52647eddd42343bbe7e40d6ce48&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "20",
+          "title": "B20: Niềm tin.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824210.m3u8?s=8be88b02c0bbf4cc98be47e3eadec78cd1813e55&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "21",
+          "title": "B21: Bạn có thấy mình xứng đáng không?",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824234.m3u8?s=6b7115abc6063fdd327b401e06e712342f5fe0f5&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "22",
+          "title": "B22: Liên tục làm mới mình để bứt phá.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824253.m3u8?s=7e588598dc4de2b8880fefa5a9755ee98ffaf165&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "23",
+          "title": "B23: Hành động vượt qua nỗi sợ.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824272.m3u8?s=78f7de1a6eff58c6092d08962806998b34dcd9ab&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "24",
+          "title": "B24: Mục đích sử dụng tiền.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824297.m3u8?s=a2c7db97c8bbaa5f2ae460ba4ef5a6d76e0cc8f2&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "25",
+          "title": "B25: Làm sao để xóa đám mây tiêu cực?",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824318.m3u8?s=9f52eb55a10b8552dd0af6b63c392bfc113e44b0&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "26",
+          "title": "B26: Trân trọng và biết ơn những gì bạn có.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824342.m3u8?s=4d557f83c677137503cf1ac9fa008162d0006e75&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "27",
+          "title": "B27: Khế ước thành công.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556824364.m3u8?s=62c73721bc1696ca49daefadf579768fe6069711&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        }
+      ]
+    },
+    {
+      "title": "Bí mật con trẻ",
+      "id": "02",
+      "description": "",
+      "img": "https://lh3.googleusercontent.com/pw/AM-JKLWj4aIBRqO3ACikn8mD-_dERM6WodZZk4_ZMwo3UYy5iO9E2aH3PgY0Prd6zaI_oUcRAnLSEMIP-gCbth68e3xF-0yuVl-JRx24R7uToLMl-_9wXarKUOLp0s02hAzPLEi4gnjY9NKied7RtBzJXFFW=s1000-no?authuser=0",
+      "code": "",
+      "price": "0",
+      "apple": "2",
+      "require": [
+        "2"
+      ],
+      "type": "audio",
+      "media": [
+        {
+          "id": "00",
+          "title": "Lời tựa: Vì sao tôi viết quyển sách này.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513539.m3u8?s=81140439861b4c72aa952af16ef6886e39bc88e7&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "01",
+          "title": "B1: Trải nghiệm cảnh giới \"Yêu thương con vô điều kiện\".",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513559.m3u8?s=2c77c0c21fd8ed7083374810e3171d418979fd34&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "02",
+          "title": "B2: Xây dựng nền tảng tính cách con trẻ.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513641.m3u8?s=a2c8bd87cbaf4a4345d65a8618df5dfb571c9c0b&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "03",
+          "title": "B3: Trao niềm tin, dẫn lỗi cuộc đời.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513667.m3u8?s=11539f8ef74480e84ed3e3207228dd0cc372f796&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "04",
+          "title": "B4: Cho con cái cần chứ không phải cho con cái muốn.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513697.m3u8?s=e0b58b37998bbac2938c24121efc28276c6cace2&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "05",
+          "title": "B5: Đào kim cương TAPE - Khai sáng chất liệu thành công",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513711.m3u8?s=e418baa885fbfc3728f7cf74059413ec8bed1d1e&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "06",
+          "title": "B6: Giao tiếp thông minh.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513737.m3u8?s=a2796fd92a0969467bf606992d8efd52f6779df1&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "07",
+          "title": "B7: Tìm người thầy dẫn dắt tinh thần cho bạn và con.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513763.m3u8?s=8d4d3380f1b6df66051efd714a8c51a7e4d156bf&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "08",
+          "title": "B8: Cho con môi trường trải nghiệm tri thức thành công.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513775.m3u8?s=bb1c0bdffaefa2567e89169e4c90c797898629fa&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "09",
+          "title": "B9: Con ơi bố về rồi nè - Mang thiên đàng về cho con.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513793.m3u8?s=e237ade3a3993fa58ef74f3d0df38c0770fb20d4&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "10",
+          "title": "B10: No Pain No Gain. Người thành công mới nhận thành quả.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513805.m3u8?s=fa80fea22269b5b02c8bad857923924ca6207a51&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "11",
+          "title": "B11: Đọc lời khẳng định, cài đặt tâm trí. Xây dựng tinh thần tự tin, làm chủ cuộc sống.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513820.m3u8?s=d54975f381e73b483340548d68f523e354534d12&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "12",
+          "title": "B12: 5 phút 8s - Mang điều tốt đẹp nhất đến cho con.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513839.m3u8?s=d11f69a2fe46b7744beaf625cfa85ad71874f263&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "13",
+          "title": "B13: Lòng biết ơn - Chìa khóa giúp con hạnh phúc, giàu có và nhân ái.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513854.m3u8?s=224e3c9cf788fbfa483418f352b78ccebd2de185&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "14",
+          "title": "B14: Thực hành VAK - Phép màu truyền cảm hứng.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513868.m3u8?s=ac16f26f57aee0811a70a8f082a9373bf841b497&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "15",
+          "title": "B15: Bí quyết giúp con trở thành \"ngôi sao\" ở trường.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513894.m3u8?s=5f09a12418126ad7f20ff0df0ebfd5a923bfac2b&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "16",
+          "title": "B16: Nguyên tắc 80/20.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513926.m3u8?s=a143c15aeb1613dbf79b37aa6e92aef8ce57fed9&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "17",
+          "title": "B17: Kì thi thật nhẹ nhàng.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513961.m3u8?s=d5a338d1cb40df9a54863438eee5e8a23d5e20eb&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "18",
+          "title": "B18: Bạn hay \"bè\".",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513980.m3u8?s=f9504e61b202e700f3bc3e83f03bf35a26662276&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "19",
+          "title": "B19: Phương pháp để trẻ hợp tác với ba mẹ.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556513996.m3u8?s=316a0391424edaa40f160cd53a9c7e4acbe407f5&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "20",
+          "title": "B20: Kỷ luật và yêu thương trong gia đình là nền tảng cho con.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556514014.m3u8?s=a99af79a64bea754bb4f66ae80d24e3d88b92bcc&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "21",
+          "title": "B21: 5 Bài học giúp con trưởng thành từ bức tranh Vườn Tâm Hồn.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/556514042.m3u8?s=4ac56642e10de33d649b865d1baedcfec281ccd0&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        }
+      ]
+    },
+    {
+      "title": "21 ngày cùng con trưởng thành.",
+      "id": "03",
+      "description": "",
+      "img": "https://lh3.googleusercontent.com/pw/AM-JKLUEeybTYPTwQA7pXsJ4ahzDRbEXlyNt5kWTYyxdVAiDtyW4XGq52mn1zXKIg5O_9q9oYH1Xcl_7tGHPi379sGX3QBWt2nJGzLciGRNdB8VS9oFCl40KjeFebZD61Ei_sWO15Zwq_n2ZoBHzKyf50qXP=s1000-no?authuser=0",
+      "code": "",
+      "price": "0",
+      "apple": "3",
+      "require": [
+        "1",
+        "2"
+      ],
+      "type": "video",
+      "media": [
+        {
+          "id": "00",
+          "title": "Mở đầu chuỗi 21 ngày.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509154.m3u8?s=73ab7832d34b6c30500c60364e3e0ce3a56ab261&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "01",
+          "title": "Tập 01: Cha mẹ ơi hãy cho con quyền được lớn.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509174.m3u8?s=c411dc43709c1b09d01f995bf47d43a243488728&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "02",
+          "title": "Tập 02: 7 Bài học cha mẹ nhất định phải dạy cho con về tình yêu.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509215.m3u8?s=b7e4259810b60e8e0a6d0825a3f01b5e11f66559&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "03",
+          "title": "Tập 03: Con viết bằng tay trái có sao không.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509284.m3u8?s=2e60d06603f799b8ef16f492801af690511f654a&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "04",
+          "title": "Tập 04: Nếu ba mẹ ly hôn con ở với ai.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509315.m3u8?s=88318d54592329689171669c7ead4817824a2d43&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "05",
+          "title": "Tập 05: Sai lầm lớn nhất của cha mẹ khi nuôi dạy con.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509355.m3u8?s=5a141427622f154fc07c33f380d13153b0258b3d&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "06",
+          "title": "Tập 06: 4 bí quyết dạy con tiết kiệm từ bé.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509383.m3u8?s=ecc282931d50932fdffa9495bbb912a6552ee0ae&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "07",
+          "title": "Tập 07: 8 điều cha mẹ nhất quyết phải dạy con cái.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509439.m3u8?s=e6b8865b302228682ba4d9ed8fc6d317bd5725ae&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "08",
+          "title": "Tập 08: Cái ghế không có tội, đừng dạy con đổ lỗi.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509504.m3u8?s=9a7b622246c0f6e60d1c64a878f5f00fff271212&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "09",
+          "title": "Tập 09: Bận cỡ nào cũng đừng bỏ bê con.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509557.m3u8?s=6060533e05ff973c124b9221f5351550a84ace30&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "10",
+          "title": "Tập 10: Con biết rồi mà nói mãi con không nghe.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509593.m3u8?s=9a12021218b5a07a086254f6a6ab3bc991c1ecff&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "11",
+          "title": "Tập 11: Thiên tài thay đổi cả thế giới.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509646.m3u8?s=ef74202ddb3612f64c1fca1898d4944d58992a78&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "12",
+          "title": "Tập 12: Tại sao con gái thích cha con trai thích mẹ.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509672.m3u8?s=80602cf9e24e78787621575e865b9bba361889d4&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "13",
+          "title": "Tập 13: Con hư tại mẹ hay tại cha.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509703.m3u8?s=28f407b0b29ba7878accf8a6cc90c8c8850aaa37&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "14",
+          "title": "Tập 14: Làm gì khi phát hiện con yêu sớm.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509737.m3u8?s=348c978159afaebf21cf1b9dff3b3736f8b41e58&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "15",
+          "title": "Tập 15: Chê bai con trước mặt người khác để làm gì.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509783.m3u8?s=45d1f8b9ea993410140b213ab6e89999cb08ff95&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "16",
+          "title": "Tập 16: 7 nguyên tắc vàng bảo vệ con trên mạng xã hội.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509819.m3u8?s=c5cd1c73ac23a7328ea67bf0aa86140a4671ae50&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "17",
+          "title": "Tập 16: 7 hậu quả nặng nề khi dạy con bằng đòn roi.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509868.m3u8?s=0c48a6cbcc0ffcdfc3bcaf829e712eae1a115e3d&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "18",
+          "title": "Tập 18: Mẹ ôm điện thoại hay là ôm con.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509934.m3u8?s=76ba210e4650438e74b6128cd6bf01dc262b9d0d&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "19",
+          "title": "Tập 19: Con không đi học cho ăn đòn là đúng.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556509989.m3u8?s=c3385a8af314a8c20568dcc7e9a89af35c5ba8b1&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "20",
+          "title": "Tập 20: Sự thật đằng sau một đứa trẻ ngoan.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556510046.m3u8?s=cf0bcb160689be6079992462150798cf2fdfa986&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "21",
+          "title": "Tập 21: Cha mẹ không biết đừng nói con NGU.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556510092.m3u8?s=2785c5b813dd3101e44fbe7391659650ddefbe7a&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "22",
+          "title": "Tập đặc biệt: Hồi ức làm cha của Trần Quốc Phúc.",
+          "description": "",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/556510158.m3u8?s=c0e8434d95288be8a5a015b1c8bdd5358f38d728&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        }
+      ]
+    },
+    {
+      "title": "Quy trình đánh thức năng lượng tích cực",
+      "id": "04",
+      "description": "",
+      "img": "https://lh3.googleusercontent.com/pw/AM-JKLXlUQesH_3xlERv2Fp1fo6w7RGvGm5eHjxiSvZNFTiLVjqvqTcGepszQpBBMgtDS83dQebNnOSfI6dVcdwlaPdtvRu6Sho5BeAkiH3lqGscmKKW28g5l-OBEpeMvEyOoMEcJzMYpOPhvJTXTC90g9iz=s1000-no?authuser=0",
+      "code": "",
+      "price": "0",
+      "apple": "3",
+      "require": [
+        "1",
+        "2"
+      ],
+      "type": "audio",
+      "media": [
+        {
+          "id": "01",
+          "title": "B1: Thư giãn.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559802252.m3u8?s=2ae7613d79a9b5a418e416c94e4f7c53bee80dda&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "02",
+          "title": "B2: Kết nối với nguồn hướng dẫn bên trong bạn.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559802289.m3u8?s=7887eed937a0b6107f5c8c471af60d442d341b3a&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "03",
+          "title": "B3: Khám phá chốn linh thiêng trong nội tâm bạn.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559802314.m3u8?s=32d041197357eb8e0a88feb4da2c64b734e22674&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "04",
+          "title": "B4: Kết nối với con người khôn ngoan bên trong bạn.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559802377.m3u8?s=5d9c7c7b4a086707a6fe9b05feb7622e79145c14&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "05",
+          "title": "B5: Kết nối với trí sáng tạo của mình.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559802414.m3u8?s=9da10431fcec1cc1ef067f889bacf9fdedabf5aa&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "06",
+          "title": "B6: Cảm nghiệm lòng biết ơn.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559802453.m3u8?s=1b4f2cc27c2591a3f185075e38ad3d49baa41a56&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "07",
+          "title": "B7: Khám phá và hình dung những điều bạn đang cần và muốn.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559802504.m3u8?s=50f0ae60cb1e420302cf542f5d1e77f814060721&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "08",
+          "title": "B8: Thái độ quyết đoán trong kinh doanh.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803156.m3u8?s=8532900d921db5b4a85130a748ab9a917ceae118&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "09",
+          "title": "B9: Thành công.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803203.m3u8?s=4c76a86d018c5327a9051e4fc60ff75d86df9622&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "10",
+          "title": "B10: Nói chuyện trước công chúng.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803248.m3u8?s=dee3d51edd6c3e4a4e9ed8fb9d89660eff1c0e66&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "11",
+          "title": "B11: Sự tập trung cao độ.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803277.m3u8?s=33f45b74947fef79e5e9a0f79183d1a4d8ab2c4b&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "12",
+          "title": "B12: Tạm biệt thói quen xấu.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803302.m3u8?s=59f21514363eafa97763ee8b71e8c5a0c0e4a577&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "13",
+          "title": "B13: Trở nên kiên định.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803348.m3u8?s=b83d51020a448f22662c359c3c706c98d78678ad&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "14",
+          "title": "B14: Siêu động lực hướng đến mục tiêu.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803372.m3u8?s=781343fc370889a466a50007ed6d8be34328ed09&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "15",
+          "title": "B15: Đi vào giấc ngủ ngon.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803406.m3u8?s=0cdfa1ea55ce2dc43b21e2f4b894505d49c41bac&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "16",
+          "title": "B16: Để tình dục thú vị hơn.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803429.m3u8?s=9739328648563fa7c013cc985edd0eeae4b26886&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "17",
+          "title": "B17: Giảm cân.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803451.m3u8?s=c69aa81e2f71ff11e288e6e939bbd3125b1d506f&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "18",
+          "title": "B18: Ăn uống lành mạnh và hợp lý.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803488.m3u8?s=6730e8f8461b1b7cbd0aae3fcc676e3c1c709bac&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "19",
+          "title": "B19: Không còn trì hoãn chần chừ.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803512.m3u8?s=053c6d353cfd8be4419ee6c1267ee4806e00def1&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "20",
+          "title": "B20: Rời bỏ thuốc lá.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803523.m3u8?s=e441a6c3efd430eec3402904427f86faab83c9d2&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "21",
+          "title": "B21: Tiếp tục hành trình rời bỏ thuốc lá.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803552.m3u8?s=e87035c7293fbdcd04b4c0edb99b30b9187852e2&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "22",
+          "title": "B22: Tự tin hết mình.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803586.m3u8?s=42ecac12b693b0d2ad2440691d8cf7817afdef25&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "23",
+          "title": "B23: Làn da trắng sạch và khỏe mạnh.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803613.m3u8?s=015156bbb7325bbea08cfe48105e8a75b9eb859e&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "24",
+          "title": "B24: Vô địch trong thi cử.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803643.m3u8?s=c3b9f9d1a503ab52ed153a3502d040375da1bdad&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "25",
+          "title": "B25: Trí nhớ sắc sảo.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803675.m3u8?s=56c03560696f0f4a365a5f2deae90393d0a71e13&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "26",
+          "title": "B26: Hệ miễn dịch khỏe mạnh.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803698.m3u8?s=f679089e27e3557c267a2cb28914f5b508111b89&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "27",
+          "title": "B27: Chữa lành nhanh chóng.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803722.m3u8?s=be1ec01deac1105b98916a7c7db55c7f445d5ae1&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "28",
+          "title": "B28: Giải quyết vấn đề theo cách sáng tạo.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803751.m3u8?s=7ff6352f8cf263a72089fb2571980421c79ef8fc&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "29",
+          "title": "B29: Khai thông sức sáng tạo thiên tài của bạn.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803784.m3u8?s=233219c7a06b26805ba677ce2279115cdf449c6a&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "30",
+          "title": "B30: Kiếm nhiều tiền hơn.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/559803811.m3u8?s=a1bf91c76313c2228f11f394c55065c9f815b978&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        }
+      ]
+    },
+    {
+      "title": "Bộ công cụ chuyển đổi: Cảm xúc, Tâm Thức và Hành Vi",
+      "id": "05",
+      "description": "",
+      "img": "https://lh3.googleusercontent.com/pw/AM-JKLWNgnmniJuBacL-ZiJUxYgksFPOc5RaMLMnmc9Ehmkv0JnagCG1QmXciSiMzBFjigMTOO-cKuv7YvC4i32BZOXr3uEhe9a7yriD9oa8RN2c5s4cz2xUQZ7jO1OF1ZfLYqee-OZiSnBsLQ82eFNtCYCP=s1080-no?authuser=0",
+      "code": "",
+      "price": "0",
+      "apple": "2",
+      "require": [
+        "2"
+      ],
+      "type": "audio",
+      "media": [
+        {
+          "id": "01",
+          "title": "B1: Công cụ đảo chiều.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268307.m3u8?s=b2b426a1878b469d85c504f49b1639e29e6c47d9&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "02",
+          "title": "B2: Công cụ tình yêu lan tỏa.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268344.m3u8?s=65cf2f49bdf499f80d34262a582f3eef383d1206&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "03",
+          "title": "B3: Công cụ sức mạnh bên trong.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268388.m3u8?s=9b7c53510a4f1e235d332fc698bfd26e1abcb70a&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "04",
+          "title": "B4: Công cụ dòng chảy biết ơn",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268406.m3u8?s=d46bca3eb89d8095dff747e680c923f0e739d896&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "05",
+          "title": "B5: Thoải mái với mọi người.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268432.m3u8?s=331a8ebe1827b58a9db3b18319a2bc2e95ab2a0c&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "06",
+          "title": "B6: Làm sao để cảm thấy thú vị.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268451.m3u8?s=6c965fb94cbe470611a1f68c50b943c07144c4d5&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "07",
+          "title": "B7: Thay đổi cảm xúc tiêu cực.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268475.m3u8?s=0e2eaa24836e88125bb34e7da8732ce30babd410&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "08",
+          "title": "B8: Vượt qua những ám thị tiêu cực.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268497.m3u8?s=f1b3985d5c06106ecbb8fa9ed36440eaa443a3c1&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "09",
+          "title": "B9: Tạo ra những ám thị tích cực hơn.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268523.m3u8?s=3b7206da010d2baa0d1b1b97b2594e8256d1c77a&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "10",
+          "title": "B10: Giải quyết một nỗi ám ảnh.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268542.m3u8?s=504d0355132b00abd1303a87ab3111124c819c92&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "11",
+          "title": "B11: Xoay quanh nỗi lo lắng.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268560.m3u8?s=ae8a8057a0cbdd3979e0509a1853843e0bb2189e&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "12",
+          "title": "B12: Thay đổi những ký ức không hay.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268591.m3u8?s=b940f6b01014b79365a93db35f6ba2ba6a591ef9&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "13",
+          "title": "B13: Loại bỏ những ý nghĩ xấu.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268611.m3u8?s=db47dc01f70470a6dc1adc6126a093bc598c9105&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "14",
+          "title": "B14: Thay đổi tâm trạng.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268639.m3u8?s=4ae131642dd1780bb021477358a97fc39aca7eaa&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "15",
+          "title": "B15: Xoay quanh điều mình đang thèm khát.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268673.m3u8?s=4a9fdc891b184c03262fb52234543e9c1ad858d6&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "16",
+          "title": "B16: Kiên quyết vượt qua khó khăn.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268712.m3u8?s=82a3177d032b4a76544018bed4c243511f98cc79&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "17",
+          "title": "B17: Để có thói quen tập thể dục đều đặn.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268747.m3u8?s=993ffac5ed419936abf7841eff0d48d48e724386&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "18",
+          "title": "B18: Tối ưu hóa sự tự tin.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268801.m3u8?s=b6dc1d09ecd6af408f097272302e75df540492f8&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "19",
+          "title": "B19: Neo điềm tĩnh.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268827.m3u8?s=a8adaa5129fe108cca199f60441a33ca53ea03f3&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "20",
+          "title": "B20: Dồn cơn đau vào đường cùng.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268853.m3u8?s=ca9b91891351ea1a6b691439c5db8df2395edc19&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "21",
+          "title": "B21: Neo giàu có.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268883.m3u8?s=fa60e51574b9ed33e84d0486b8940b4261025ef5&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "22",
+          "title": "B22: Vận hành niềm tin mới.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268939.m3u8?s=28d74324f4e0e2f67ac70aba74db76e78d39ec68&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        },
+        {
+          "id": "23",
+          "title": "B23: Giải phóng Endorphin.",
+          "description": "",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/560268976.m3u8?s=f9e7ccef8ae734b173dcdffd7b0ff96eb757317d&oauth2_token_id=1520642928",
+          "img_before": "",
+          "img_after": "",
+          "invisibled": "0",
+          "created_at": "1522206074"
+        }
+      ]
+    },
+    {
+      "title": "Trò chuyện cùng chuyên gia",
+      "id": "06",
+      "description": "Chữa lành đứa trẻ bên trong bạn.",
+      "img": "https://lh3.googleusercontent.com/pw/AM-JKLX6Pxbw9fY_OHUAAJYF7MMt4zdrsOapkFDH80Tgp7fIjrDQ5PJqfeKEV4zVu9ZNrn9XZ0M8z01tAqAerOqPGbZqVICWInNvJ2NkFVOrZ5TKgzBVXUbCsXY-7nrqAHRLIqRko3Ct0eV6y5lSxJ4tKajy=s1024-no?authuser=0",
+      "code": "",
+      "price": "0",
+      "type": "video",
+      "apple": "2",
+      "require": [
+        "2"
+      ],
+      "media": [
+        {
+          "id": "01",
+          "title": "Hãy cho tôi biết vì sao bạn ở đây",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/561160629.m3u8?s=f6104562ed9f3640f4c0f7054f59656526ca0a60&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "02",
+          "title": "Rõ ràng mới huy hoàng",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/561160979.m3u8?s=9798c5fe584bc7b6119bd0dbe274b27a0278fc9f&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "03",
+          "title": "5 Câu hỏi vượt qua sự cố",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/561161438.m3u8?s=53e05660b92be3fcbdf7dc6d2c906508a3e23ff6&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "04",
+          "title": "Giảm nhiệt cơn giận, tha thứ",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/561161750.m3u8?s=d718c220e673419a9e7243aeed259c688fc8b636&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "05",
+          "title": "Xoa dịu nỗi đau do mâu thuẫn",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/561161994.m3u8?s=b6e763356d3738575426dcdc53b5e34ec3e54238&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "06",
+          "title": "Làm sao bớt lo lắng",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/561162447.m3u8?s=567cd5961e8baaaba68befb8d0b63bcbdc5a1be9&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "07",
+          "title": "Thấy kết quả trước khi bắt đầu",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/561162669.m3u8?s=e43220122794242d287e801195c1ed8fbf44867e&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        }
+      ]
+    },
+    {
+      "title": "14 bài học làm người làm giàu",
+      "id": "07",
+      "description": "",
+      "img": "https://lh3.googleusercontent.com/pw/AM-JKLVddzNZOBwpdJIhl_VfyySNkN9OjTTtZ9Cx8kSH_9y75xicHMS-UqODCyIkCmFqR-0W_PfEGh6ZYjea0Wvoo9peIptV847ogs4PkL5ft3Tz95dz20mL67Mzmd_QiCfsXCNY0H6_HrJjs-ZvC5rFlUhx=s900-no?authuser=0",
+      "code": "",
+      "price": "5",
+      "type": "video",
+      "require": [
+        "2"
+      ],
+      "media": [
+        {
+          "id": "00",
+          "title": "Giới thiệu chuỗi video 14 ngày.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/565162681.m3u8?s=f8273b42224179c3a50831a9bc0a008e6e0fd4ee&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "01",
+          "title": "Tập 01: 5 Kiểu bạn càng chơi càng thụt lùi.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/564432743.m3u8?s=f52079e9c708c029db35c67a304f359279e497c8&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "02",
+          "title": "Tập 02: Tôi không rảnh để quan tâm đến những người ghét mình.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/564432955.m3u8?s=e1ded562f6fe46ac8d8a9c494efac282a74bbde8&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "03",
+          "title": "Tập 03: Muốn làm chuyện lớn phải dám nghĩ lớn.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/564433170.m3u8?s=a695e8f712ea7ca670e14b7865dc0e22a0f7034d&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "04",
+          "title": "Tập 04: Niềm tin kiến tạo cuộc đời",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/564433300.m3u8?s=beda35869d7f87be43d761a8999d1bcb82eb8f69&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "05",
+          "title": "Tập 05: Một cái đầu chứa đầy sợ hãi thì làm gì có chỗ cho khát vọng lớn.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/564433512.m3u8?s=c401d03fa948abe22dcbef1d77238e780f7d90b9&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "06",
+          "title": "Tập 06: 7 Bước thay thói quen - đổi cuộc đời.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/564433662.m3u8?s=4af99e8a7c2c87292c3f06c06bce3f70f83c432a&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "07",
+          "title": "Tập 07: Nhiều chuyện, nói xấu người khác thì mình được gì.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/564433889.m3u8?s=8aec56ce0dc3a47c627439b64bcec1ed57aeaf22&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "08",
+          "title": "Tập 08: Hãy trân trọng những gì mình đang có.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/564434000.m3u8?s=70439bba93f8ac06a87fb9090bb3e1f7c2363d79&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "09",
+          "title": "Tập 09: Bí quyết quản lý tài chính cá nhân.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/564434109.m3u8?s=1ebbc40d14d1598aba3478b27987912616ee72ff&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "10",
+          "title": "Tập 10: 3 câu hỏi giúp bạn hiểu ý nghĩa thực sự của đời mình.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/564434399.m3u8?s=6e2206f5b9b931493cd8b232bdb6b11c2d0e6e32&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "11",
+          "title": "Tập 11: Bí quyết làm chủ thời gian cuộc đời.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/564434557.m3u8?s=ea0f45227db1aa5fdf3d5d5224220804b62dba9d&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "12",
+          "title": "Tập 12: Làm thế nào để ngừng đổ lỗi (Người thành công không đổ lỗi).",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/564434725.m3u8?s=0c0ef7bb35b3ac18f17df982cdb5b388e56c6844&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "13",
+          "title": "Tập 13: Bạn đang lãnh đạo theo phong cách nào.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/564434987.m3u8?s=146cb9a0c7f7b6e516ba3fb60556c5bd3166b343&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "14",
+          "title": "Tập 14: 5 Bí quyết để có một cuộc đời như ý.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/564435290.m3u8?s=e46cc5a575ebfa5c33345d2dbffe5c16877e6dc0&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        }
+      ]
+    },
+    {
+      "title": "Lời vàng cho con",
+      "id": "08",
+      "description": "",
+      "img": "https://lh3.googleusercontent.com/pw/AM-JKLU4znyqOEMAFbBDlm6ni-vWt2NDZsXuJXVr3ugPSskfOD1fDwyZFrep5f83lNB09DZfcRp3ucGeS-t09kku3tHowhvrYp9E85HSqYhmei0_1txUYIie9kADlkCalkONEhLiTmSWN1CaVsHLC22LHJn-=w1336-h1346-no?authuser=0",
+      "code": "",
+      "price": "5",
+      "type": "video",
+      "require": [
+        "2"
+      ],
+      "media": [
+        {
+          "id": "01",
+          "title": "Tập 01: Ý chí mạnh mẽ.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/565894255.m3u8?s=e225acc1bb8489cb2eb092b6edac406fbe7a26fa&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "02",
+          "title": "Tập 02: Suy nghĩ và thói quen tích cực.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/565894568.m3u8?s=9f73b144428ebca1fda07e07e070f35f690bbd92&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "03",
+          "title": "Tập 03: Trái tim yêu thương.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/565894708.m3u8?s=8b90d9ae7714bcb9de21bd2f31677eb53f7e611b&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "04",
+          "title": "Tập 04: Niềm tin vào giá trị bản thân và cuộc sống.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/565894942.m3u8?s=1316e3e8a633516386e20574fa8b8427d6a5749b&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "05",
+          "title": "Tập 05: Biết cho đi và mang lại giá trị cho người khác.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/565895160.m3u8?s=63a11a9dca8d602a69cdbed3c05cafd97ada0e78&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "06",
+          "title": "Tập 06: Tình mẫu tử.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/565895415.m3u8?s=529e497e74f18f142640b19eaa698459498d5023&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "07",
+          "title": "Tập 07: Hiếu thảo.",
+          "media_type": "2",
+          "url": "https://player.vimeo.com/external/565895753.m3u8?s=ef60e920ee436c232730ae0046d9f23c04601296&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        }
+      ]
+    },
+    {
+      "title": "Thủ lĩnh thông thái, nhân ái, và tự tin",
+      "id": "09",
+      "description": "",
+      "img": "https://lh3.googleusercontent.com/pw/AM-JKLU2LR8EQ6wkFkYzuMb3EFqfnwDmrMF1lTebe1ziyCCtC5GiEzcz0dE7OLsB264OLRSCRzUu-nmhCGdCY9rLqFK6IXONFAdNXQQqQMAFrmw0zqh4Q4IPG9SNHB-vpvtnkax8vmGqVgHpYnvCsMGLCN2N=s1024-no?authuser=0",
+      "code": "",
+      "price": "1000",
+      "type": "audio",
+      "require": [
+        "2"
+      ],
+      "media": [
+        {
+          "id": "01",
+          "title": "Tập 01: Thủ lĩnh thành nhân chạm thành công.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/597549237.m3u8?s=52174da0021377d1a5131640d3909fbf826fba69&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "02",
+          "title": "Tập 02: Tâm sự cùng con.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/597549257.m3u8?s=16a26379875d5a803629e6d14217de34ed134544&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "03",
+          "title": "Tập 03: Ăn uống lành mạnh và hợp lý.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263160.m3u8?s=2d31ada3b7b6f233e431fe6d87fd15b1dadfdd04&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "04",
+          "title": "Tập 04: Đánh thức bác sĩ trong bạn.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263241.m3u8?s=e37244f0d9731cab5c342cb876f60fc20c5002da&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "05",
+          "title": "Tập 05: Để có giấc ngủ ngon.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263245.m3u8?s=a9469a431291144a23dc1e42596ebd7358a2a44c&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "06",
+          "title": "Tập 06: Khai thông sáng tạo trong bạn.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263294.m3u8?s=e1e9fc12643d5587004c0b9f32a3dc2c255c9b12&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "07",
+          "title": "Tập 07: Không còn trì hoãn.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263346.m3u8?s=ef5d9e9c1873527c24a7150858b6126aa6305907&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "08",
+          "title": "Tập 08: Làn da trắng và khỏe mạnh.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263385.m3u8?s=8f485cf16a547a318aa33cb60198dbb079b04431&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "09",
+          "title": "Tập 09: Siêu động lực hướng tới mục tiêu.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263434.m3u8?s=137565b5ebecbe0bdbb1ec7a88abceec78bda085&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "10",
+          "title": "Tập 10: Tăng cường miễn dịch cơ thể.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263475.m3u8?s=a794435a5cd2e1232e428495b93a2e8c999d90ce&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "11",
+          "title": "Tập 11: Tập trung.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263513.m3u8?s=033f0762e658afe8931d6f7a256fceead46ab97e&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "12",
+          "title": "Tập 12: Tôi kiên định tôi thành công.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263548.m3u8?s=8207691c5b2653bc157e74fd3c2f6bd33f17f168&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "13",
+          "title": "Tập 13: Tôi sáng tạo tôi thành công.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263641.m3u8?s=a3066dc715712e556ad2f192206a64b900e9fde0&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "14",
+          "title": "Tập 14: Trí nhớ sắc sảo.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263675.m3u8?s=5c2a1344b03e05ef47a13b7b786116d0a0dd9c7f&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "15",
+          "title": "Tập 15: Từ bỏ thói quen xấu.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263725.m3u8?s=22888b3884728593b12e9e5d406b16631fe978c7&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "16",
+          "title": "Tập 16: Tự tin hết mình.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263793.m3u8?s=a92baa779c8347d72ba20feed44e9c4d35cdd691&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "17",
+          "title": "Tập 17: Tự tin trước công chúng.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263832.m3u8?s=d08c1a87a8ae713b2278d7f5b38197a699e418c9&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        },
+        {
+          "id": "18",
+          "title": "Tập 18: Vô địch thi cử.",
+          "media_type": "1",
+          "url": "https://player.vimeo.com/external/575263860.m3u8?s=759e5cf25a691ea6d70276a469e340effab4678b&oauth2_token_id=1520642928",
+          "invisibled": "0",
+          "created_at": "1501052383"
+        }
+      ]
+    }
+]
