@@ -380,183 +380,244 @@
     "data": [
       {
         "name": "Tập 01",
-        "url": "https://player.vimeo.com/external/594507761.m3u8?s=610177bcb4fa161e35823f224d9c4859ebef92f2&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671157157/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=622d69735f0c17aefb4531fbfa53bc0a0d6547fcdb1ed4d139dbdbfe498da74e",
         "thumbnail": "https://i.vimeocdn.com/video/1228022402_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671157157"
       },
       {
         "name": "Tập 02",
-        "url": "https://player.vimeo.com/external/594507945.m3u8?s=f04f404741e8f641d6ebfc0fa81e1766f355204a&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671157325/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=d0e2aeb71eda29c2ee6ac14e6083c999cce6036d8839a849c4e5b1c11e76927b",
         "thumbnail": "https://i.vimeocdn.com/video/1228022493_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671157325"
       },
       {
         "name": "Tập 03",
-        "url": "https://player.vimeo.com/external/594508101.m3u8?s=33dc2a5a33070f89040959604385a8ca38976e8d&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671157493/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=c801c27ce45b8e8895169e08cd665254e766df7c20315bce39bc5f9c30502c98",
         "thumbnail": "https://i.vimeocdn.com/video/1228022759_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671157493"
       },
       {
         "name": "Tập 04",
-        "url": "https://player.vimeo.com/external/594508227.m3u8?s=e1ada5ac4299dd5811fc27a4ec7af16a57470753&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671157665/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=e05373f76947c921a4874f64c70b41ac41e1b07ea7a0ac1d2ea3f1222d2b1124",
         "thumbnail": "https://i.vimeocdn.com/video/1228022937_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671157665"
       },
       {
         "name": "Tập 05",
-        "url": "https://player.vimeo.com/external/594508411.m3u8?s=27c309b81cf3685e4fa52d1ffef3551941be9f62&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671157851/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=9d7cb14799f0b62613643606d8a5089fe55e12e4b16e620e8f8e40deb1c8f850",
         "thumbnail": "https://i.vimeocdn.com/video/1228023254_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671157851"
       },
       {
         "name": "Tập 06",
-        "url": "https://player.vimeo.com/external/594508517.m3u8?s=7273825c5d98f0b6e5e69b4e50d74651491d95fb&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671158091/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=e97fa2043240e5bc8540d58fb4ced19efe458a90dc5bb9bc6ed2a404b4ecf372",
         "thumbnail": "https://i.vimeocdn.com/video/1228023661_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671158091"
       },
       {
         "name": "Tập 07",
-        "url": "https://player.vimeo.com/external/594508662.m3u8?s=6e3114c6969f04ff11726bd6eba07baf762f05af&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671158218/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=d44f2ae2349fdda5cd1d67c814b1576236ced59a1862d16ca4021de3b79f5568",
         "thumbnail": "https://i.vimeocdn.com/video/1228023502_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671158218"
       },
       {
         "name": "Tập 08",
-        "url": "https://player.vimeo.com/external/594508753.m3u8?s=076970938f49c3f339c3b776c3c5a342134a5879&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671158375/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=f3b8ebce57b78102ab236e0efc81abad417c92f60716ac0cdb4308c4d77bf5ab",
         "thumbnail": "https://i.vimeocdn.com/video/1228023656_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671158375"
       },
       {
         "name": "Tập 09",
-        "url": "https://player.vimeo.com/external/594508880.m3u8?s=3598c9abd416ad98e55335afc22c7e846076d0d9&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671158524/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=1c88811a0db6e8bd6ab45e32901b5de4cb4054c8561474f694ebee3567a89a79",
         "thumbnail": "https://i.vimeocdn.com/video/1228023842_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671158524"
       },
       {
         "name": "Tập 10",
-        "url": "https://player.vimeo.com/external/594508967.m3u8?s=7ecaf4f6dc2da3258228731ba0c2a44eacff1b72&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671158733/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=58e6924c88683fa7843f854bd8659e108486ae6fa9968411497f5f3c19e630ed",
         "thumbnail": "https://i.vimeocdn.com/video/1228023965_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671158733"
       },
       {
         "name": "Tập 11",
-        "url": "https://player.vimeo.com/external/594509120.m3u8?s=295dbb22e3bdfb71839ab940b471f6cdb85c22bf&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671158925/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=0122781e03f9ccda34b4b8ea1a181fc8732cfdfd6762bb29ce12461ba31a6ae2",
         "thumbnail": "https://i.vimeocdn.com/video/1228024142_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671158925"
       },
       {
         "name": "Tập 12",
-        "url": "https://player.vimeo.com/external/594509203.m3u8?s=2a257bbe051c72a9e4116155f7ab9789bac045ca&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671159026/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=d672daee5607011b8e433a696b339419256fdbcdbefda8bccca2750112008c99",
         "thumbnail": "https://i.vimeocdn.com/video/1228024309_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671159026"
       },
       {
         "name": "Tập 13",
-        "url": "https://player.vimeo.com/external/594509350.m3u8?s=e18aec51c1ec74c31cab1ec75fd622fe44aa3f76&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671159172/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=11cbb3dc0b0a6d43d89765395344155c42e8e80520c376c4b0ab185b64aa4636",
         "thumbnail": "https://i.vimeocdn.com/video/1228024419_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": ""
       },
       {
         "name": "Tập 14",
-        "url": "https://player.vimeo.com/external/594509406.m3u8?s=df9fd4e3d677343f72aacabcdd20516d40141671&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671159312/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=5b9b93931cd56c7050ad0fa3f0099ea2b579557a1e3fe6e6a0047a0bc3ce05ec",
         "thumbnail": "https://i.vimeocdn.com/video/1228024672_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671159312"
       },
       {
         "name": "Tập 15",
-        "url": "https://player.vimeo.com/external/594509546.m3u8?s=2dcdf7b53fe8cd0d2edb530a99f39ad9b48de066&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671159423/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=e742077b7fce65f35f532777f7630a205ff56e0eac484df19eec48ae90df0621",
         "thumbnail": "https://i.vimeocdn.com/video/1228024997_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671159423"
       },
+
       {
         "name": "Tập 16",
-        "url": "https://player.vimeo.com/external/594509653.m3u8?s=2b25286825bf091d4e27335a4f249a4508ace0fe&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228025220_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671157157/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=622d69735f0c17aefb4531fbfa53bc0a0d6547fcdb1ed4d139dbdbfe498da74e",
+        "thumbnail": "https://i.vimeocdn.com/video/1228022402_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": "671157157"
       },
       {
         "name": "Tập 17",
-        "url": "https://player.vimeo.com/external/594509791.m3u8?s=d0d35ba8bf9a6fe35816d886decaa10fe26ceb21&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228025126_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671157325/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=d0e2aeb71eda29c2ee6ac14e6083c999cce6036d8839a849c4e5b1c11e76927b",
+        "thumbnail": "https://i.vimeocdn.com/video/1228022493_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": "671157325"
       },
       {
         "name": "Tập 18",
-        "url": "https://player.vimeo.com/external/594509856.m3u8?s=d466561a553fe8325331dbe6b794771366e37178&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228026087_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671157493/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=c801c27ce45b8e8895169e08cd665254e766df7c20315bce39bc5f9c30502c98",
+        "thumbnail": "https://i.vimeocdn.com/video/1228022759_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": "671157493"
       },
       {
         "name": "Tập 19",
-        "url": "https://player.vimeo.com/external/594509987.m3u8?s=c1d5a3b97b2e7fc32b54cfd9549b10065290b615&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228025913_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671157665/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=e05373f76947c921a4874f64c70b41ac41e1b07ea7a0ac1d2ea3f1222d2b1124",
+        "thumbnail": "https://i.vimeocdn.com/video/1228022937_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": "671157665"
       },
       {
         "name": "Tập 20",
-        "url": "https://player.vimeo.com/external/594510124.m3u8?s=6f1a96330ad2670de32ad331004ed754ca47a972&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228026313_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671157851/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=9d7cb14799f0b62613643606d8a5089fe55e12e4b16e620e8f8e40deb1c8f850",
+        "thumbnail": "https://i.vimeocdn.com/video/1228023254_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": "671157851"
       },
       {
         "name": "Tập 21",
-        "url": "https://player.vimeo.com/external/594510265.m3u8?s=1b126fe5cafe767312bdd51e8f9b4b195c16359e&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228026301_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671158091/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=e97fa2043240e5bc8540d58fb4ced19efe458a90dc5bb9bc6ed2a404b4ecf372",
+        "thumbnail": "https://i.vimeocdn.com/video/1228023661_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": "671158091"
       },
       {
         "name": "Tập 22",
-        "url": "https://player.vimeo.com/external/594510456.m3u8?s=08e0625bb0edd12cf2adc1f58be0379a84bcc3e5&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228026368_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671158218/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=d44f2ae2349fdda5cd1d67c814b1576236ced59a1862d16ca4021de3b79f5568",
+        "thumbnail": "https://i.vimeocdn.com/video/1228023502_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": "671158218"
       },
       {
         "name": "Tập 23",
-        "url": "https://player.vimeo.com/external/594510555.m3u8?s=ad591588ba4954a976721cba7fb029bcb7c2fc1a&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228026553_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671158375/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=f3b8ebce57b78102ab236e0efc81abad417c92f60716ac0cdb4308c4d77bf5ab",
+        "thumbnail": "https://i.vimeocdn.com/video/1228023656_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": "671158375"
       },
       {
         "name": "Tập 24",
-        "url": "https://player.vimeo.com/external/594510719.m3u8?s=d78cf99e7d4d235ab9efaf00f6aab18ac5d5dc0c&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228026741_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671158524/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=1c88811a0db6e8bd6ab45e32901b5de4cb4054c8561474f694ebee3567a89a79",
+        "thumbnail": "https://i.vimeocdn.com/video/1228023842_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": "671158524"
       },
       {
         "name": "Tập 25",
-        "url": "https://player.vimeo.com/external/594510785.m3u8?s=90e57d4ccc4c8b2e586004130e7820cc38ebba31&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228027051_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671158733/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=58e6924c88683fa7843f854bd8659e108486ae6fa9968411497f5f3c19e630ed",
+        "thumbnail": "https://i.vimeocdn.com/video/1228023965_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": "671158733"
       },
       {
         "name": "Tập 26",
-        "url": "https://player.vimeo.com/external/594510944.m3u8?s=39caf0a5918650c87875d495a9c9c731b93ef2f9&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228027058_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671158925/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=0122781e03f9ccda34b4b8ea1a181fc8732cfdfd6762bb29ce12461ba31a6ae2",
+        "thumbnail": "https://i.vimeocdn.com/video/1228024142_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": "671158925"
       },
       {
         "name": "Tập 27",
-        "url": "https://player.vimeo.com/external/594511012.m3u8?s=88f2c4998dadb5b97c5bf97e282daa6c27c627b9&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228027357_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671159026/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=d672daee5607011b8e433a696b339419256fdbcdbefda8bccca2750112008c99",
+        "thumbnail": "https://i.vimeocdn.com/video/1228024309_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": "671159026"
       },
       {
         "name": "Tập 28",
-        "url": "https://player.vimeo.com/external/594511074.m3u8?s=02ca395553e9a45ad00a4b03a3761134e1fff164&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228027285_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671159172/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=11cbb3dc0b0a6d43d89765395344155c42e8e80520c376c4b0ab185b64aa4636",
+        "thumbnail": "https://i.vimeocdn.com/video/1228024419_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": ""
       },
       {
         "name": "Tập 29",
-        "url": "https://player.vimeo.com/external/594511187.m3u8?s=1f52f76455fe650d67478f95a9542300c5f9632a&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228027553_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671159312/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=5b9b93931cd56c7050ad0fa3f0099ea2b579557a1e3fe6e6a0047a0bc3ce05ec",
+        "thumbnail": "https://i.vimeocdn.com/video/1228024672_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": "671159312"
       },
       {
         "name": "Tập 30",
-        "url": "https://player.vimeo.com/external/594511236.m3u8?s=ef7a8855c0b5444f56f47538784aca8e49937ccc&oauth2_token_id=1520642928",
-        "thumbnail": "https://i.vimeocdn.com/video/1228027737_1920x1080?r=pad",
-        "media_type": "video"
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671159423/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=e742077b7fce65f35f532777f7630a205ff56e0eac484df19eec48ae90df0621",
+        "thumbnail": "https://i.vimeocdn.com/video/1228024997_1920x1080?r=pad",
+        "media_type": "video",
+        "download": true,
+        "fileName": "671159423"
       }
     ]
   },
