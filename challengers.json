@@ -6,183 +6,243 @@
     "data": [
       {
         "name": "Tap 01",
-        "url": "https://player.vimeo.com/external/641754141.m3u8?s=ecdbb0425728df143a3338db98926c46f5c8b5de&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671354573/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=b5ecf059c5518de120a5240c2e52dc996706a4370b63404d0c16cabc1cfb0e05",
         "thumbnail": "https://i.vimeocdn.com/video/1290929877-f0ff0525631ed99fbdcc9dde3d2f34ebcff4aaaf5ba4f1393_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671354573"
       },
       {
         "name": "Tap 02",
-        "url": "https://player.vimeo.com/external/641754213.m3u8?s=3dbd0089eaf06c556d3096a9cac13d9978d20f91&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671354633/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=a0965d47b2ddb8e394c9d140ea32c5dc9de0d667445218ed7abb76cf6f30a001",
         "thumbnail": "https://i.vimeocdn.com/video/1290914374-c49a4ad855e9b1a3734cfd41a0f05d56a427b286f8d1711f1_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671354633"
       },
       {
         "name": "Tap 03",
-        "url": "https://player.vimeo.com/external/641754270.m3u8?s=c28bf7c6c3e6ea4988afe67cc55ed141c63ebd68&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671354663/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=d477b4d9bb2994aab091c584f6e9eccc2ce791252e427c9a8df2abbeab65b5bb",
         "thumbnail": "https://i.vimeocdn.com/video/1290914746-0ed862181cbaead4b180d5706cc0b40326da5d23e2afcc7b7_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671354663"
       },
       {
         "name": "Tap 04",
-        "url": "https://player.vimeo.com/external/641754311.m3u8?s=60d7b56f2347a7a2384b1b0a0c0b39a6c784f0fd&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671354695/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=f2f04d2ebc49f9fcf937895095228df7398406901ea4dc70f5ea6472860a92ca",
         "thumbnail": "https://i.vimeocdn.com/video/1290914634-9e3101df5bfc2974c3e435255a85750d1103e95137b8da5cc_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671354695"
       },
       {
         "name": "Tap 05",
-        "url": "https://player.vimeo.com/external/641754364.m3u8?s=e883812ea082cbd7f4d1129097df987ebd7e1f61&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671354738/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=11e7b7f6ec2533e013efae225982319c9ddf437603e88511fdfac2775fada4b0",
         "thumbnail": "https://i.vimeocdn.com/video/1290914687-f01985fb9947e1a685aaa1d9f7b355edde17ac53f6a417250_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671354738"
       },
       {
         "name": "Tap 06",
-        "url": "https://player.vimeo.com/external/641754443.m3u8?s=cd73c1006a86fe6f8479407a0f37b1746b5e536e&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671354792/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=b83fe4aae0c8c1ff96f832813149a38dd23780cd2f1cb4d0609ed3459a7f7f6a",
         "thumbnail": "https://i.vimeocdn.com/video/1290914932-03b0c5621f3ce0a7889941ae9e048a42064730a212ee94592_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671354792"
       },
       {
         "name": "Tap 07",
-        "url": "https://player.vimeo.com/external/641754534.m3u8?s=4993819a42ff398c70e0c96282ab9c5c6735f14e&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671354857/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=93b1405c78b74eb8b48102a35ee0720b2b68f5b8bf167f1268a4c4ea8a6077ab",
         "thumbnail": "https://i.vimeocdn.com/video/1290915228-292e8c118434576a840d5273d2dc98d2e8eeb824a11709d00_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671354857"
       },
       {
         "name": "Tap 08",
-        "url": "https://player.vimeo.com/external/641754600.m3u8?s=d129e55ced7e87942963ee23b446fd04f22e6e11&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671354900/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=b8d9509a0bd06ea99ed1c5f28abb1ead8bdb26a8e1870d4255c0256be7a7ae78",
         "thumbnail": "https://i.vimeocdn.com/video/1290915217-9eb7d1e5dfa8c442d9ecf95bcef0e473670d6ea7536e7d384_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671354900"
       },
       {
         "name": "Tap 09",
-        "url": "https://player.vimeo.com/external/641754670.m3u8?s=ab00e9a684683762b0b338c002eaec2fde366edd&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671354965/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=9c9d5bf00fc5f3e3cb75f4237ec47dc4d05f1f9754e82c44e031c08717ec3a3e",
         "thumbnail": "https://i.vimeocdn.com/video/1290915468-44009241be2983fbb44be47039fb9aa40f14c1520b51dcf47_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671354965"
       },
       {
         "name": "Tap 10",
-        "url": "https://player.vimeo.com/external/641754754.m3u8?s=5742cc8be4340ab9998dfb22646dfca0cadcd3fd&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355027/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=8ebe4c60ae444fa3c938850e2cdba73ccbcc66bac7c9c954a544afd0d858c28b",
         "thumbnail": "https://i.vimeocdn.com/video/1290915380-3eb0c44c1aaf25b63d56b90ffead09dc5bf3c2b09bf22bf97_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355027"
       },
       {
         "name": "Tap 11",
-        "url": "https://player.vimeo.com/external/641754801.m3u8?s=f821788308604c4b2e225f97747a7673aeba07f9&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355070/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=2c3502ce3fc5656f34d6ffac75832acbdd377fb381951180cf600ceda86f414f",
         "thumbnail": "https://i.vimeocdn.com/video/1290915652-ea7692369a4930283e91e99228363b48a203f3e96dcc1a0e9_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355070"
       },
       {
         "name": "Tap 12",
-        "url": "https://player.vimeo.com/external/641754854.m3u8?s=89b4cd936f8a90f00b367185bb8d2326640a3236&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355113/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=7894ef188d5227a001b73af2407f0e3d40ec4c5b4c7fcaf752db93790f19468e",
         "thumbnail": "https://i.vimeocdn.com/video/1290915759-a048c9b51712c288cd52d01292cf3a88f4ba31769904814ed_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355113"
       },
       {
         "name": "Tap 13",
-        "url": "https://player.vimeo.com/external/641754914.m3u8?s=bad7e5a0044ec589bf20a9d364e7cab6304f43d3&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355152/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=e52dec9707a8595f1b9d8968f73d53e70e36684a31a15355dea2c317cac923da",
         "thumbnail": "https://i.vimeocdn.com/video/1290915856-1e6af1e90a9489673804c87361dfc5b6f4c06b6e70d94da5d_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355152"
       },
       {
         "name": "Tap 14",
-        "url": "https://player.vimeo.com/external/641754954.m3u8?s=d9cb6cb5b5aacaa081cc28cc704bf4434a5fa099&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355182/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=83e52cf958d78cc112b2955c57730f38121c05099945ddd351b2612fc936b6f8",
         "thumbnail": "https://i.vimeocdn.com/video/1290916132-5bf69a284f96a988cad9bb7f4a9f594b46e882f2380aa4548_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355182"
       },
       {
         "name": "Tap 15",
-        "url": "https://player.vimeo.com/external/641755007.m3u8?s=1555e75c5f31b48063b5fd5802cc26df61f28751&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355225/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=1b520d31660afa4564c8578d4e9dbb13d9117483f1e96ee87be3f77c684acd55",
         "thumbnail": "https://i.vimeocdn.com/video/1290916202-2b4ef603eb02a58d16ead3cc4d4f152ce6acf3f44931d7488_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355225"
       },
       {
         "name": "Tap 16",
-        "url": "https://player.vimeo.com/external/641755089.m3u8?s=874d856c0806c5c136051f0312401c962d83a15b&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355282/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=697d189a947e0842c255e554c10b814bc88745266bb99398178df076e55c6d46",
         "thumbnail": "https://i.vimeocdn.com/video/1290916504-b2a76af89d0586826cae06dfd430ecb7d030317ca88d8d8cc_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355282"
       },
       {
         "name": "Tap 17",
-        "url": "https://player.vimeo.com/external/641755149.m3u8?s=76c598f2efde4095fe69584061751a65a136ca2d&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355317/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=b57fdcb104a7227522d4b733979cbc00653483e6e097b658907fd31d8b29a2c3",
         "thumbnail": "https://i.vimeocdn.com/video/1290916542-87aa6f977e43fc8e480521117ebb0496484968cbf4000bdf0_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355317"
       },
       {
         "name": "Tap 18",
-        "url": "https://player.vimeo.com/external/641755193.m3u8?s=97e191fb4cb0ca02535554feb49702310310a2d4&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355357/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=08e83cdb1bdbe4f87d971c83a2850beb838d105240bab35596f19923ed5b0cd5",
         "thumbnail": "https://i.vimeocdn.com/video/1290916591-8794f95baa77de88cfcc063dcc41b100250fe99fdc2fcdc09_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355357"
       },
       {
         "name": "Tap 19",
-        "url": "https://player.vimeo.com/external/641755258.m3u8?s=982fca88651723e59e7cac47787a2a8f278e4976&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355406/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=e8a2bdb51983e5050ac0c6047acc343620bcd49ead598afdb3a0e52484e00bc7",
         "thumbnail": "https://i.vimeocdn.com/video/1290916792-ae43ac33c3ad334444ba2ee97d3815458ba8ac610661c3200_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355406"
       },
       {
         "name": "Tap 20",
-        "url": "https://player.vimeo.com/external/641755304.m3u8?s=51ae0d9df8ed3ba1e968296adb398dd7a8f73252&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355445/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=f598507261c4d192bb17b2bd106ca885de4c55906d5f020ba56b1a341361cd54",
         "thumbnail": "https://i.vimeocdn.com/video/1290917124-9e2b8db0c2f588db680a3dbb89582659074735ea3d1e560ec_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355445"
       },
       {
         "name": "Tap 21",
-        "url": "https://player.vimeo.com/external/641755354.m3u8?s=8c624241ef3baf831a4c72b8499f080ae96b6e99&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355480/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=7239d5474da86f719fa1a1e3cb04e5dfed7f7f9446da8829a198d74f242f3bce",
         "thumbnail": "https://i.vimeocdn.com/video/1290917294-a1bdcf8efa3df5b521669a87fd9a2581feee1e5ceca2299f0_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355480"
       },
       {
         "name": "Tap 22",
-        "url": "https://player.vimeo.com/external/641755402.m3u8?s=faa1d65eb19c7606a1d149d18bd3711871d1753b&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355518/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=c23a37d627aa1bef567e06741da22c600a1d06d6359e9fb698c07dee3baff7be",
         "thumbnail": "https://i.vimeocdn.com/video/1290917290-4a204f031e4d9a4c64b0de0b942b9d3b260047d3d5e34ebc0_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355518"
       },
       {
         "name": "Tap 23",
-        "url": "https://player.vimeo.com/external/641755472.m3u8?s=2ee17b19a3591d3388f70ad3ef06f25dc124a207&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355549/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=9318eed19cd1819c30db78e71233331e68183ba239fedae7860a041cc90e9581",
         "thumbnail": "https://i.vimeocdn.com/video/1290917533-bbd28a9f535641e6f4706517e46ba7a78a7bcee6be19d4ff8_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355549"
       },
       {
         "name": "Tap 24",
-        "url": "https://player.vimeo.com/external/641755561.m3u8?s=f5360167868f37874e8b113b978d543e760138c9&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355598/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=540b79746781d2573dd2ffeb95685cd711711e9fb40f9f9d51ab05e791736abb",
         "thumbnail": "https://i.vimeocdn.com/video/1290918136-c52feb5e89ac2a7f56e79ee79aab60b8d796a19626ffaa4fe_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355598"
       },
       {
         "name": "Tap 25",
-        "url": "https://player.vimeo.com/external/641755604.m3u8?s=68dc553d983ba4003b01104ed5d161ad1b80a66e&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355624/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=ff86893f145debf895bd072cc012fa0879ee462a7a6b51e83bc311d42c9cab07",
         "thumbnail": "https://i.vimeocdn.com/video/1290918125-17770b8ce4e4dfc7c96cbf5c4620cc8342a0e4fc709aace35_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355624"
       },
       {
         "name": "Tap 26",
-        "url": "https://player.vimeo.com/external/641755685.m3u8?s=d3761485b787318e7f98f78ef08381e48376d16e&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355665/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=236158b343c188ed7a62936e3c24b56304f75e0800a6a2f7db0d2293bccad718",
         "thumbnail": "https://i.vimeocdn.com/video/1290918188-3c6486ace8855e8ac0e40be9e8bdc5dc3b17bcbcc3f1c5c72_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355665"
       },
       {
         "name": "Tap 27",
-        "url": "https://player.vimeo.com/external/641755738.m3u8?s=860fea903a1be599d2875c9fe5ffeaf3ff0df87e&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355702/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=3f43eb857d843c3b09bf5cdad832175ac0721c6dd8e4f655316ce3beefc7d1ff",
         "thumbnail": "https://i.vimeocdn.com/video/1290918334-1a37e12ad40d3ebfa4bd4472ac509c471e08171ac2b1f4117_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355702"
       },
       {
         "name": "Tap 28",
-        "url": "https://player.vimeo.com/external/641755782.m3u8?s=35afd15d2bd6989e4fe8822831d0cdaf0df98594&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355739/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=4efcb7bab16a5ae76cd38c15ffbd84c8406bcbface061b7a20ba01dbf49613ae",
         "thumbnail": "https://i.vimeocdn.com/video/1290918786-11e8934dba5bfaa54d7654da4f6b533c9f6fbd6abf5a9ba61_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355739"
       },
       {
         "name": "Tap 29",
-        "url": "https://player.vimeo.com/external/641755819.m3u8?s=e30636406837500120a7fae5051cb536e8629d1e&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355773/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=6d896f8f61eb582587634df070e0e04de583d0c41baf9aa11429008625c2879b",
         "thumbnail": "https://i.vimeocdn.com/video/1290918922-f6e979466bb6238d16720b8ad0b2146e43dbb704c165bc63d_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355773"
       },
       {
         "name": "Tap 30",
-        "url": "https://player.vimeo.com/external/641755869.m3u8?s=88b199b3f83322de6d1a24f10d627ac859f393b9&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671355802/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=1eaea95a59167d537f5cf2f5f07795a49b929945f16b9b75ead79bafeafa7e7f",
         "thumbnail": "https://i.vimeocdn.com/video/1290919183-bc2fd023ca11b0cb47f439d8522eda48e2de77bf890afb4aa_1920x1080?r=pad",
-        "media_type": "video"
+        "media_type": "video",
+        "download": true,
+        "fileName": "671355802"
       }
     ]
   },
