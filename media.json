@@ -243,57 +243,71 @@
         "id": "00",
         "title": "Giới thiệu chuỗi video 14 ngày.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/565162681.m3u8?s=f8273b42224179c3a50831a9bc0a008e6e0fd4ee&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671587959/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=ec565eb9537021c6029b4c29a0b160d4ae77a02b72da5ca95503314e894614d4",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "671587959"
       },
       {
         "id": "01",
         "title": "Tập 01: 5 Kiểu bạn càng chơi càng thụt lùi.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/564432743.m3u8?s=f52079e9c708c029db35c67a304f359279e497c8&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671587779/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=9f3938bc395212f2e8bd13f5ae025b7594fba4cec572ae9808f4a6e1f2981196",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "671587779"
       },
       {
         "id": "02",
         "title": "Tập 02: Tôi không rảnh để quan tâm đến những người ghét mình.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/564432955.m3u8?s=e1ded562f6fe46ac8d8a9c494efac282a74bbde8&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671587823/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=26a19bfbb6afdecbc63112219ddd88aa308c3868400236c91625c0fb2fc28d0e",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "671587823"
       },
       {
         "id": "03",
         "title": "Tập 03: Muốn làm chuyện lớn phải dám nghĩ lớn.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/564433170.m3u8?s=a695e8f712ea7ca670e14b7865dc0e22a0f7034d&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671587868/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=49b49f5878f02472afc89739ff20032d9dcbac313f8eaf51cca34a9d123784e4",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "671587868"
       },
       {
         "id": "04",
         "title": "Tập 04: Niềm tin kiến tạo cuộc đời",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/564433300.m3u8?s=beda35869d7f87be43d761a8999d1bcb82eb8f69&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671587892/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=da21fe3a0e60e524124b98d96dfddaddf671212b0ae882d8c1b0068226855a9e",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "671587892"
       },
       {
         "id": "05",
         "title": "Tập 05: Một cái đầu chứa đầy sợ hãi thì làm gì có chỗ cho khát vọng lớn.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/564433512.m3u8?s=c401d03fa948abe22dcbef1d77238e780f7d90b9&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671587933/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=9896760d419d402856c41ed32875f33b620ce6b2afb025dc68530c6aea18e79d",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "671587933"
       },
       {
         "id": "06",
         "title": "Tập 06: 7 Bước thay thói quen - đổi cuộc đời.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/564433662.m3u8?s=4af99e8a7c2c87292c3f06c06bce3f70f83c432a&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/671587980/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=b2aa17a6637611eed6a454148babb6c6dd17f9773ed4d1bd5c935ec8f5a6b127",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "671587980"
       },
       {
         "id": "07",
