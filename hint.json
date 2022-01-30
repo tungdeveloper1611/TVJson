@@ -2,62 +2,82 @@
   {
     "type": "hanhtrinh",
     "name": "days",
-    "hint": "https://player.vimeo.com/external/597559171.m3u8?s=c77b9aef3186c506df3a553c1ed64818c80de1d6&oauth2_token_id=1520642928",
-    "for": "parent"
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/671578067/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=e51d988107ae822a4e3ec6af3f623fb91890e317b1bf85450e0aa6b91f4a126a",
+    "for": "parent",
+    "download": true,
+    "fileName": "671578067"
   },
   {
     "type": "hanhtrinh",
     "name": "days",
-    "hint": "https://player.vimeo.com/external/615618949.m3u8?s=2e8bdb80b31ea3a7a1459e824ca63cf8efe2e5aa&oauth2_token_id=1520642928",
-    "for": "kid"
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/671370520/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=4ad9d17d483088567f54051b00d878f20af97293709e1a06793d01ffbdc6e203",
+    "for": "kid",
+    "download": true,
+    "fileName": "671370520"
   },
   {
     "type": "tamnhin",
     "name": "tamnhin",
-    "hint": "https://player.vimeo.com/external/597558836.m3u8?s=72278faf4c7d1bb6f86285c483c2fce48d064cfa&oauth2_token_id=1520642928",
-    "for": "parent"
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/671578111/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=ba33ed51847b8d27186e5a5616dc736ded59e52063623a20b2798835827bf52e",
+    "for": "parent",
+    "download": true,
+    "fileName": "671578111"
   },
   {
     "type": "tamnhin",
     "name": "tamnhin",
-    "hint": "https://player.vimeo.com/external/615618996.m3u8?s=6f2eac70f645d3f182ea351dc8c2f8afa30f2d9d&oauth2_token_id=1520642928",
-    "for": "kid"
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/671370571/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=ad48b62ea9b2dc4ec1fdae2019cbc3adc3aa491c42f70140dc2f357acb30237f",
+    "for": "kid",
+    "download": true,
+    "fileName": "671370571"
   },
   {
     "type": "thiep",
     "name": "thiep",
-    "hint": "https://player.vimeo.com/external/597559245.m3u8?s=4b595a2a455e8d4eacfcb45f12283f3ed627ad29&oauth2_token_id=1520642928",
-    "for": "parent"
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/671578133/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=6f5dacd4cc579a55b49254eb2937c4e17b568f4850af70eed71a4fe725b9d171",
+    "for": "parent",
+    "download": true,
+    "fileName": "671578133"
   },
   {
     "type": "thiep",
     "name": "thiep",
-    "hint": "https://player.vimeo.com/external/615619037.m3u8?s=00e1bb24193b4a01fd9a2d3401d1368a9ce85ac1&oauth2_token_id=1520642928",
-    "for": "kid"
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/671370604/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=1d072aa06f63eaf97e8f24192887496a6294e6a3534987e4bd9a891820e648e7",
+    "for": "kid",
+    "download": true,
+    "fileName": "671370604"
   },
   {
     "type": "khobau",
     "name": "khobau",
-    "hint": "https://player.vimeo.com/external/597558919.m3u8?s=7e8dc1ecede64d5cac925e9d0bbd32ff93895f6f&oauth2_token_id=1520642928",
-    "for": "parent"
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/671578091/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=39a3b7f3b9c9e8ed819b2e86cba9b1c77831a44f0bee3ddafc4d7e99ac60a3bf",
+    "for": "parent",
+    "download": true,
+    "fileName": "671578091"
   },
   {
     "type": "khobau",
     "name": "khobau",
-    "hint": "https://player.vimeo.com/external/615618809.m3u8?s=7f58ce33332a29c04feb4f32f4156222bae2b86d&oauth2_token_id=1520642928",
-    "for": "kid"
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/671578020/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=8b31fc217f91d81ac8a68d0a4a1a573c42fbae4a49dad7419debba0b467999d5",
+    "for": "kid",
+    "download": true,
+    "fileName": "671578020"
   },
   {
     "type": "kid",
     "name": "bieton",
-    "hint": "https://player.vimeo.com/external/644207280.m3u8?s=8461d916c9f6cdb6ce7d6f41758b73c2cfad56f1",
-    "for": "kid"
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/671577985/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=267a58224267d65ed1b3881839a8a44b4482b69c45cadddbd178c4f791e76afd",
+    "for": "kid",
+    "download": true,
+    "fileName": "671577985"
   },
   {
     "type": "kid",
     "name": "tutin",
-    "hint": "https://player.vimeo.com/external/597558986.m3u8?s=89d21d95dd4792681b0b3b3768a348cc833c28c4&oauth2_token_id=1520642928",
-    "for": "kid"
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/671578001/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=734a5fda59464df27296b3fb9c02a9999a72e65fd944b6580879dee565e1f72d",
+    "for": "kid",
+    "download": true,
+    "fileName": "671578001"
   },
   {
     "type": "kid",
@@ -68,20 +88,26 @@
   {
     "type": "parent",
     "name": "yeuthuong",
-    "hint": "https://player.vimeo.com/external/597559123.m3u8?s=20bf25b233dbb4bb0e2208d38f07b1c6419c5eda&oauth2_token_id=1520642928",
-    "for": "parent"
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/671578038/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=acfeaff270ea5f6d08d74ab7545e3996d8f2e4fb3d4834634b89e3a01ea46489",
+    "for": "parent",
+    "download": true,
+    "fileName": "671578038"
   },
   {
     "type": "parent",
     "name": "bandoi",
-    "hint": "https://player.vimeo.com/external/597559123.m3u8?s=20bf25b233dbb4bb0e2208d38f07b1c6419c5eda&oauth2_token_id=1520642928",
-    "for": "parent"
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/671578038/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=acfeaff270ea5f6d08d74ab7545e3996d8f2e4fb3d4834634b89e3a01ea46489",
+    "for": "parent",
+    "download": true,
+    "fileName": "671578038"
   },
   {
     "type": "rutthe",
     "name": "rutthe",
-    "hint": "https://player.vimeo.com/external/626247851.m3u8?s=8c03531cf0b27a6f1d6b499161414b8dbb2480d7",
-    "for": "parent"
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/671578150/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=6954f5ccc9b9c520b91fe7d9887af94d1014aa9cd6e0eb29e2bae834641116fc",
+    "for": "parent",
+    "download": true,
+    "fileName": "671578150"
   },
   {
     "type": "todo",
@@ -94,5 +120,13 @@
     "name": "todo",
     "hint": "https://player.vimeo.com/external/626247851.m3u8?s=8c03531cf0b27a6f1d6b499161414b8dbb2480d7",
     "for": "parent"
+  },
+  {
+    "type": "kid",
+    "name": "nhanduc",
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/670768424/rendition/360p/360p.mp4?loc=external&oauth2_token_id=1589506909&signature=4df07ce2be313493de854db13366e841d198f48ae921bfb3087d76a24acf7860",
+    "for": "kid",
+    "download": true,
+    "fileName": "670768424"
   }
 ]
