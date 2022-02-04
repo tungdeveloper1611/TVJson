@@ -15,145 +15,163 @@
         "id": "01",
         "title": "Tập 01: Thủ lĩnh thành nhân chạm thành công.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/597549237.m3u8?s=52174da0021377d1a5131640d3909fbf826fba69&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673108557/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=64612404738a7a628d5a092832d45e4892cf20571ef0abaab638bcae887ec013",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673108557"
       },
       {
         "id": "02",
         "title": "Tập 02: Tâm sự cùng con.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/597549257.m3u8?s=16a26379875d5a803629e6d14217de34ed134544&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673108628/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=9d38c161c8b88d2d85abd8733ad0f7d5dabf1a4efa2c61b4c411be7ed7b6f3c2",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673108628"
       },
       {
         "id": "03",
         "title": "Tập 03: Ăn uống lành mạnh và hợp lý.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263160.m3u8?s=2d31ada3b7b6f233e431fe6d87fd15b1dadfdd04&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673107314/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=05f4ac7fa9db244755b17082f06c53f81d7744a28fbc295602bca2018a0accae",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673107314"
       },
       {
         "id": "04",
         "title": "Tập 04: Đánh thức bác sĩ trong bạn.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263241.m3u8?s=e37244f0d9731cab5c342cb876f60fc20c5002da&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673107361/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=e52a5b395cc1446cca38fefe1a80eb68b648695abe37b90bc59bd4aeddedc46d",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673107361"
       },
       {
         "id": "05",
         "title": "Tập 05: Để có giấc ngủ ngon.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263245.m3u8?s=a9469a431291144a23dc1e42596ebd7358a2a44c&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673107421/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=812401460b3f25ece3456b30e5262c9268c05eb51c29d21de4703a3abc403a46",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673107421"
       },
       {
         "id": "06",
         "title": "Tập 06: Khai thông sáng tạo trong bạn.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263294.m3u8?s=e1e9fc12643d5587004c0b9f32a3dc2c255c9b12&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673107497/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=db50bd5ac89169b8eed918c131d99365aca8fa320649db536086e62b60c893ef",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673107497"
       },
       {
         "id": "07",
         "title": "Tập 07: Không còn trì hoãn.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263346.m3u8?s=ef5d9e9c1873527c24a7150858b6126aa6305907&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673107554/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=51054308fbf46f9e9b53d8067e4b3f6a6734a4f44e668d6d1c2208163581943e",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673107554"
       },
       {
         "id": "08",
         "title": "Tập 08: Làn da trắng và khỏe mạnh.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263385.m3u8?s=8f485cf16a547a318aa33cb60198dbb079b04431&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673107633/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=b120a76eef618d3bd65b5c11acc553c43199133277cd35160edb3984962a6dd2",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673107633"
       },
       {
         "id": "09",
         "title": "Tập 09: Siêu động lực hướng tới mục tiêu.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263434.m3u8?s=137565b5ebecbe0bdbb1ec7a88abceec78bda085&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673107704/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=24666f1178fdbbc74d4e735a543f6a40ae8a994f45978b23796e3e452b1a16ef",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673107704"
       },
       {
         "id": "10",
         "title": "Tập 10: Tăng cường miễn dịch cơ thể.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263475.m3u8?s=a794435a5cd2e1232e428495b93a2e8c999d90ce&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673107768/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=09cd5bceb0150eaf4ae0811e1d58acdf9ebd3b5e04870a94f2b03feb30072bf5",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673107768"
       },
       {
         "id": "11",
         "title": "Tập 11: Tập trung.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263513.m3u8?s=033f0762e658afe8931d6f7a256fceead46ab97e&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673107819/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=91b1c72a4c34d7c7e03821233ab4a2297890944165d5606bf510fc3742ffe463",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673107819"
       },
       {
         "id": "12",
         "title": "Tập 12: Tôi kiên định tôi thành công.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263548.m3u8?s=8207691c5b2653bc157e74fd3c2f6bd33f17f168&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673107899/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=e0cef006450a5ef4ab435176e3f256e7902c4984132bdc9a41da8630bf24b01e",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673107899"
       },
       {
         "id": "13",
         "title": "Tập 13: Tôi sáng tạo tôi thành công.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263641.m3u8?s=a3066dc715712e556ad2f192206a64b900e9fde0&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673107978/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=2f6e9b62cea16b0f043c402398ee75b5d8c416f1a09137f98b07061c1ae7e6a2",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673107978"
       },
       {
         "id": "14",
         "title": "Tập 14: Trí nhớ sắc sảo.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263675.m3u8?s=5c2a1344b03e05ef47a13b7b786116d0a0dd9c7f&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673108033/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=b21abf7aac8861c3c17bdfb7d70e4be0f524ae5abc0f7e43ff548a88b82ddabf",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673108033"
       },
       {
         "id": "15",
         "title": "Tập 15: Từ bỏ thói quen xấu.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263725.m3u8?s=22888b3884728593b12e9e5d406b16631fe978c7&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673108087/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=891ef6fc023f66f07145c737bc0b7b480238a74c9132ccd615c9990ef6513a4a",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673108087"
       },
       {
         "id": "16",
         "title": "Tập 16: Tự tin hết mình.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263793.m3u8?s=a92baa779c8347d72ba20feed44e9c4d35cdd691&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673108173/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=379a772a7299b68a7bd4203e9f12fcd6849ed9826c0b47b05c174d7b424e179a",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673108173"
       },
       {
         "id": "17",
         "title": "Tập 17: Tự tin trước công chúng.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263832.m3u8?s=d08c1a87a8ae713b2278d7f5b38197a699e418c9&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673108280/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=9015a839a172a3693a55989616eb553356f03d2432de86b982b2374c600cb287",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673108280"
       },
       {
         "id": "18",
         "title": "Tập 18: Vô địch thi cử.",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/575263860.m3u8?s=759e5cf25a691ea6d70276a469e340effab4678b&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673108498/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=571d67b826ea76d585cea10185c7570dcd63327d51068116543f3c2e310c4ded",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673108498"
       }
     ]
   },
@@ -173,57 +191,64 @@
         "id": "01",
         "title": "Tập 01: Ý chí mạnh mẽ.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/565894255.m3u8?s=e225acc1bb8489cb2eb092b6edac406fbe7a26fa&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673105466/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=b3c75ce908aa87ed391ce6bee83e41cbbc0a125df44f5b14f0ce1d2267328821",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673105466"
       },
       {
         "id": "02",
         "title": "Tập 02: Suy nghĩ và thói quen tích cực.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/565894568.m3u8?s=9f73b144428ebca1fda07e07e070f35f690bbd92&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673105630/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=a380671e1a0fd0216934276387a17dd8ceabcd7f325abb6cdd136d21acd75ad1",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673105630"
       },
       {
         "id": "03",
         "title": "Tập 03: Trái tim yêu thương.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/565894708.m3u8?s=8b90d9ae7714bcb9de21bd2f31677eb53f7e611b&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673105707/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=e54cbe11ff444f4f402734ce9fb78e412a6c814ba504fd2fcdd3e55219ed1bbf",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673105707"
       },
       {
         "id": "04",
         "title": "Tập 04: Niềm tin vào giá trị bản thân và cuộc sống.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/565894942.m3u8?s=1316e3e8a633516386e20574fa8b8427d6a5749b&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673105902/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=a1c45664378e86532554273455401cc140807c7409b78b2885a432f8fd977772",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673105902"
       },
       {
         "id": "05",
         "title": "Tập 05: Biết cho đi và mang lại giá trị cho người khác.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/565895160.m3u8?s=63a11a9dca8d602a69cdbed3c05cafd97ada0e78&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673106096/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=e3d91adb81dae878a61084563dabced5203898f74ce2c4efea6b74d38c246bdd",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673106096"
       },
       {
         "id": "06",
         "title": "Tập 06: Tình mẫu tử.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/565895415.m3u8?s=529e497e74f18f142640b19eaa698459498d5023&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673106289/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=450476c659768f94efa27344fa3d5d63526c0bafb6e7ceb3e15940a3fad9dc3b",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673106289"
       },
       {
         "id": "07",
         "title": "Tập 07: Hiếu thảo.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/565895753.m3u8?s=ef60e920ee436c232730ae0046d9f23c04601296&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673106546/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=b321b6b666f9af021fb890642b2761d099510322527c478a015c75bffa5517e1",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673106546"
       }
     ]
   },
@@ -313,65 +338,81 @@
         "id": "07",
         "title": "Tập 07: Nhiều chuyện, nói xấu người khác thì mình được gì.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/564433889.m3u8?s=8aec56ce0dc3a47c627439b64bcec1ed57aeaf22&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673066486/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=b51952ded971de0d850a22f614cf1818fada74116823d5ac6104d289c14522de",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "673066486"
       },
       {
         "id": "08",
         "title": "Tập 08: Hãy trân trọng những gì mình đang có.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/564434000.m3u8?s=70439bba93f8ac06a87fb9090bb3e1f7c2363d79&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673066534/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=9115f685f411c910d8c43c8a2812ebb1ae3480c7b8f98958ec48dc8f641ab69f",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "673066534"
       },
       {
         "id": "09",
         "title": "Tập 09: Bí quyết quản lý tài chính cá nhân.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/564434109.m3u8?s=1ebbc40d14d1598aba3478b27987912616ee72ff&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673066569/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=cd6a5be1e39c1dad49816600b8e9e52de10d81441e795ebbbf887ba75ef4275d",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "673066569"
       },
       {
         "id": "10",
         "title": "Tập 10: 3 câu hỏi giúp bạn hiểu ý nghĩa thực sự của đời mình.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/564434399.m3u8?s=6e2206f5b9b931493cd8b232bdb6b11c2d0e6e32&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673066663/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=fb18eeb07dbb80c0906d09ee3d71121285f128f1dd0887a8efde7aad8f5f1f02",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "673066663"
       },
       {
         "id": "11",
         "title": "Tập 11: Bí quyết làm chủ thời gian cuộc đời.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/564434557.m3u8?s=ea0f45227db1aa5fdf3d5d5224220804b62dba9d&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673066731/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=e3038dd350573b19f516ad02b303372606db538338ed76d69637d715943ddfcc",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "673066731"
       },
       {
         "id": "12",
         "title": "Tập 12: Làm thế nào để ngừng đổ lỗi (Người thành công không đổ lỗi).",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/564434725.m3u8?s=0c0ef7bb35b3ac18f17df982cdb5b388e56c6844&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673066782/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=08f8c88f2987a9fcd55e1f7ff6be43bbd9d0b796bdd6e040d4abc522c3f99190",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "673066782"
       },
       {
         "id": "13",
         "title": "Tập 13: Bạn đang lãnh đạo theo phong cách nào.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/564434987.m3u8?s=146cb9a0c7f7b6e516ba3fb60556c5bd3166b343&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673066863/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=197a3cec3fcfc0eec6eb54a28af2f31c3c0171faafe2617eef00a1625bed20fa",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "673066863"
       },
       {
         "id": "14",
         "title": "Tập 14: 5 Bí quyết để có một cuộc đời như ý.",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/564435290.m3u8?s=e46cc5a575ebfa5c33345d2dbffe5c16877e6dc0&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673066988/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=69e0a217b95b8ff93d7d801ac411bb572bef20f980f2c2277816b190f743e221",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "created_at": "1501052383",
+        "download": true,
+        "fileName": "673066988"
       }
     ]
   },
@@ -970,253 +1011,276 @@
         "title": "Mở đầu chuỗi 21 ngày.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509154.m3u8?s=73ab7832d34b6c30500c60364e3e0ce3a56ab261&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673072132/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=da2d145da5190de5ed30b29200054815b8cfe95e15a08e29fde0c321e7c16879",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673072132"
       },
       {
         "id": "01",
         "title": "Tập 01: Cha mẹ ơi hãy cho con quyền được lớn.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509174.m3u8?s=c411dc43709c1b09d01f995bf47d43a243488728&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673072199/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=e56d7a866688ee1d5dc985e31fdcb7ff96da06ea8389feccef235a4ee8f5589f",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673072199"
       },
       {
         "id": "02",
         "title": "Tập 02: 7 Bài học cha mẹ nhất định phải dạy cho con về tình yêu.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509215.m3u8?s=b7e4259810b60e8e0a6d0825a3f01b5e11f66559&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673072334/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=a5759e1e115c97222f1ce84bba4b766e41885dd30794d5385663660cefe9ece7",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673072334"
       },
       {
         "id": "03",
         "title": "Tập 03: Con viết bằng tay trái có sao không.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509284.m3u8?s=2e60d06603f799b8ef16f492801af690511f654a&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673072486/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=4f62f1620c5a151fad90e935524f7a3019733ccff64987c7ac6b8a204a3b6503",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673072486"
       },
       {
         "id": "04",
         "title": "Tập 04: Nếu ba mẹ ly hôn con ở với ai.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509315.m3u8?s=88318d54592329689171669c7ead4817824a2d43&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673072541/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=dbb7e98efc86467addc9844479285070717fd0af6d6d8c0cdab9fbe0ecd74dcb",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673072541"
       },
       {
         "id": "05",
         "title": "Tập 05: Sai lầm lớn nhất của cha mẹ khi nuôi dạy con.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509355.m3u8?s=5a141427622f154fc07c33f380d13153b0258b3d&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673072613/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=02ac1fe4c5fd1989ff7d3b8f5cb2f9aae8974c623cf06b84669e24f691da5c07",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673072613"
       },
       {
         "id": "06",
         "title": "Tập 06: 4 bí quyết dạy con tiết kiệm từ bé.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509383.m3u8?s=ecc282931d50932fdffa9495bbb912a6552ee0ae&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673072707/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=94eaa9a5152569b892fef48104b8c392613496d9d8553eea9a01536bdaa00dff",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673072707"
       },
       {
         "id": "07",
         "title": "Tập 07: 8 điều cha mẹ nhất quyết phải dạy con cái.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509439.m3u8?s=e6b8865b302228682ba4d9ed8fc6d317bd5725ae&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673072798/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=92c2bb79aa32b6d71065d8ae9b195a158753834156cd60265c4fabd42fe4f710",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673072798"
       },
       {
         "id": "08",
         "title": "Tập 08: Cái ghế không có tội, đừng dạy con đổ lỗi.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509504.m3u8?s=9a7b622246c0f6e60d1c64a878f5f00fff271212&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673072951/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=510fdbcb5f9bd425c83b2e607f758b1094d4b343d8fed070079565ded753b099",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673072951"
       },
       {
         "id": "09",
         "title": "Tập 09: Bận cỡ nào cũng đừng bỏ bê con.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509557.m3u8?s=6060533e05ff973c124b9221f5351550a84ace30&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673073029/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=2b1809ca1c1310445b97eb5c5f7b2687719f13b63ad03f4591478cb7dc5b73b5",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673073029"
       },
       {
         "id": "10",
         "title": "Tập 10: Con biết rồi mà nói mãi con không nghe.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509593.m3u8?s=9a12021218b5a07a086254f6a6ab3bc991c1ecff&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673073085/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=365870cd7516e96a117729148e1e34264e81fc271659a6bf34b142713d94e95e",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673073085"
       },
       {
         "id": "11",
         "title": "Tập 11: Thiên tài thay đổi cả thế giới.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509646.m3u8?s=ef74202ddb3612f64c1fca1898d4944d58992a78&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673073182/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=1953e498bad8a33a49792bd303bf1255d1b857836a07af59a89bdede23eb8cdc",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673073182"
       },
       {
         "id": "12",
         "title": "Tập 12: Tại sao con gái thích cha con trai thích mẹ.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509672.m3u8?s=80602cf9e24e78787621575e865b9bba361889d4&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673073222/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=cc036e3e214002eee62fa85ed99a373aa0d480d2fd0772040d78e2af2ad37c88",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673073222"
       },
       {
         "id": "13",
         "title": "Tập 13: Con hư tại mẹ hay tại cha.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509703.m3u8?s=28f407b0b29ba7878accf8a6cc90c8c8850aaa37&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673073274/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=82acc3592e6c75ee3e67efbf12b4a902e2ec65d4a4a922c6a428744a0faae5f6",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673073274"
       },
       {
         "id": "14",
         "title": "Tập 14: Làm gì khi phát hiện con yêu sớm.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509737.m3u8?s=348c978159afaebf21cf1b9dff3b3736f8b41e58&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673073318/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=f3bf3221c76d33f88c99e9f1b42ad465c6b3d48479db96ab2695c81f863c4be6",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673073318"
       },
       {
         "id": "15",
         "title": "Tập 15: Chê bai con trước mặt người khác để làm gì.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509783.m3u8?s=45d1f8b9ea993410140b213ab6e89999cb08ff95&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673073380/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=a3142c5ae0beb8a707aae76e061a5bbb9b135ee280f3cab20a743c3e38b2fe63",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673073380"
       },
       {
         "id": "16",
         "title": "Tập 16: 7 nguyên tắc vàng bảo vệ con trên mạng xã hội.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509819.m3u8?s=c5cd1c73ac23a7328ea67bf0aa86140a4671ae50&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673073436/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=bb4c903d84a7e932b8f24c8468967a1f4074f7072916817b2894f832c7a256ef",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673073436"
       },
       {
         "id": "17",
-        "title": "Tập 16: 7 hậu quả nặng nề khi dạy con bằng đòn roi.",
+        "title": "Tập 17: 7 hậu quả nặng nề khi dạy con bằng đòn roi.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509868.m3u8?s=0c48a6cbcc0ffcdfc3bcaf829e712eae1a115e3d&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673073508/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=90e3445541e9285b698696c5737fe57fddf854f202a09500f190f1c92b6fc18f",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673073508"
       },
       {
         "id": "18",
         "title": "Tập 18: Mẹ ôm điện thoại hay là ôm con.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509934.m3u8?s=76ba210e4650438e74b6128cd6bf01dc262b9d0d&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673073576/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=2f295eb30f6e4a563e8d389ec0db6527b9ae3d6830da60e178d4c46bae446a40",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673073576"
       },
       {
         "id": "19",
         "title": "Tập 19: Con không đi học cho ăn đòn là đúng.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556509989.m3u8?s=c3385a8af314a8c20568dcc7e9a89af35c5ba8b1&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673073621/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=2fc9c9ac36ed65d928040b4b0bcd4d1b1adf4d93ead269e0578962e292d10669",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673073621"
       },
       {
         "id": "20",
         "title": "Tập 20: Sự thật đằng sau một đứa trẻ ngoan.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556510046.m3u8?s=cf0bcb160689be6079992462150798cf2fdfa986&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673073711/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=73d6956d1801e6c666a07643499aedd396a4a272d8914112b7b4f5003d3be781",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673073711"
       },
       {
         "id": "21",
         "title": "Tập 21: Cha mẹ không biết đừng nói con NGU.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556510092.m3u8?s=2785c5b813dd3101e44fbe7391659650ddefbe7a&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673073779/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=6fe41dc7cb0f1f5600ea6ef79e9d0e0ec519f377e51712d31eddc849f423a33c",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673073779"
       },
       {
         "id": "22",
         "title": "Tập đặc biệt: Hồi ức làm cha của Trần Quốc Phúc.",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556510158.m3u8?s=c0e8434d95288be8a5a015b1c8bdd5358f38d728&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673073869/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=b8c15bc45afbae39e0de397d8a0d779c5cae5883156c022e4921e804e036f352",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673073869"
       }
     ]
   },
@@ -1237,330 +1301,360 @@
         "title": "B1: Thư giãn.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559802252.m3u8?s=2ae7613d79a9b5a418e416c94e4f7c53bee80dda&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673447461/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=d396287f2525fa256cb496b561ee62570842a1cff81b0e8c5362634e920e4a61",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673447461"
       },
       {
         "id": "02",
         "title": "B2: Kết nối với nguồn hướng dẫn bên trong bạn.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559802289.m3u8?s=7887eed937a0b6107f5c8c471af60d442d341b3a&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673447507/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=77de5055ee1b351185e49111e8a70149112c5648c7b7934e98b89f9a7465e3f6",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673447507"
       },
       {
         "id": "03",
         "title": "B3: Khám phá chốn linh thiêng trong nội tâm bạn.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559802314.m3u8?s=32d041197357eb8e0a88feb4da2c64b734e22674&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673447541/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=984d204d446f6a42953537fcc39c3f6d438a9411b4827f3b7298582bdd40cbff",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673447541"
       },
       {
         "id": "04",
         "title": "B4: Kết nối với con người khôn ngoan bên trong bạn.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559802377.m3u8?s=5d9c7c7b4a086707a6fe9b05feb7622e79145c14&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673447622/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=d18424f71b40c466a0dc24cc55b67934f0ea24014c19e5efe6addf82260df016",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673447622"
       },
       {
         "id": "05",
         "title": "B5: Kết nối với trí sáng tạo của mình.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559802414.m3u8?s=9da10431fcec1cc1ef067f889bacf9fdedabf5aa&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673447682/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=e267c2759f67d64b415c83c28b581066f1693316c0b3f61b06d488fa1e6df457",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673447682"
       },
       {
         "id": "06",
         "title": "B6: Cảm nghiệm lòng biết ơn.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559802453.m3u8?s=1b4f2cc27c2591a3f185075e38ad3d49baa41a56&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673447743/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=90312bba488072338f0c62ce7dce1633d2e7d87a386c9977c1871bedeae1f486",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673447743"
       },
       {
         "id": "07",
         "title": "B7: Khám phá và hình dung những điều bạn đang cần và muốn.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559802504.m3u8?s=50f0ae60cb1e420302cf542f5d1e77f814060721&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673447795/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=d9435a57c0da8a0b3caa19296d888bff73036f5c022cf7c11013692512750c7b",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673447795"
       },
       {
         "id": "08",
         "title": "B8: Thái độ quyết đoán trong kinh doanh.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803156.m3u8?s=8532900d921db5b4a85130a748ab9a917ceae118&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673447840/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=bdc78840acf6a3232d8a952c43f56d7b4d0c2ecbf934387063ee50937da1dd12",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673447840"
       },
       {
         "id": "09",
         "title": "B9: Thành công.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803203.m3u8?s=4c76a86d018c5327a9051e4fc60ff75d86df9622&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673447892/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=5aa1af143957cb79aa388ce6d4779c95ac1c340bc27204c81a3fe4b3763e50e4",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673447892"
       },
       {
         "id": "10",
         "title": "B10: Nói chuyện trước công chúng.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803248.m3u8?s=dee3d51edd6c3e4a4e9ed8fb9d89660eff1c0e66&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673447921/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=a548c61f7e9b33169500b67a19233216f1fbc119ceca2a839f59674de656257c",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673447921"
       },
       {
         "id": "11",
         "title": "B11: Sự tập trung cao độ.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803277.m3u8?s=33f45b74947fef79e5e9a0f79183d1a4d8ab2c4b&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673447947/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=66d88d169a0b71c4efe7685d30b05680356138a5b83e48ee622dad0f64f501c0",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673447947"
       },
       {
         "id": "12",
         "title": "B12: Tạm biệt thói quen xấu.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803302.m3u8?s=59f21514363eafa97763ee8b71e8c5a0c0e4a577&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673447981/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=c7f0f5c430ffc947195d2d5c77736a61c0f6487e3b84123cfa330fc1280dc082",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673447981"
       },
       {
         "id": "13",
         "title": "B13: Trở nên kiên định.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803348.m3u8?s=b83d51020a448f22662c359c3c706c98d78678ad&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448025/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=0e1608f3b205cf413cdb6361a67de45c6cc22a56cb63608af608c2b16f30b808",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448025"
       },
       {
         "id": "14",
         "title": "B14: Siêu động lực hướng đến mục tiêu.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803372.m3u8?s=781343fc370889a466a50007ed6d8be34328ed09&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448061/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=015859741bb1a6b93e16ad355d4320dd1efea12fc724c18cc2a5c2fa68e6c425",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448061"
       },
       {
         "id": "15",
         "title": "B15: Đi vào giấc ngủ ngon.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803406.m3u8?s=0cdfa1ea55ce2dc43b21e2f4b894505d49c41bac&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448100/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=f64d06bd1be1f3dc1161e3d4126c8e9e88b653148e86687831bc58c639e1b113",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448100"
       },
       {
         "id": "16",
         "title": "B16: Để tình dục thú vị hơn.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803429.m3u8?s=9739328648563fa7c013cc985edd0eeae4b26886&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448133/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=3efb088415f9ad875b86ebf300e797373f8e4fd63004d2654f49b61d40f50805",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448133"
       },
       {
         "id": "17",
         "title": "B17: Giảm cân.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803451.m3u8?s=c69aa81e2f71ff11e288e6e939bbd3125b1d506f&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448174/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=0bd806b1bfe5424d063c578272c9b8e7ad227eb0be13b57b402226f76662a162",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448174"
       },
       {
         "id": "18",
         "title": "B18: Ăn uống lành mạnh và hợp lý.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803488.m3u8?s=6730e8f8461b1b7cbd0aae3fcc676e3c1c709bac&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448221/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=26b12e68764ae4d51d3dee635a03f8f58c03191ee0665dcaae63c5d6fda7e019",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448221"
       },
       {
         "id": "19",
         "title": "B19: Không còn trì hoãn chần chừ.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803512.m3u8?s=053c6d353cfd8be4419ee6c1267ee4806e00def1&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448251/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=579a210f5c64f6745b10b253868eb1d44addb5c2c7aaf6b4d59d2136c8c03ff8",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448251"
       },
       {
         "id": "20",
         "title": "B20: Rời bỏ thuốc lá.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803523.m3u8?s=e441a6c3efd430eec3402904427f86faab83c9d2&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448286/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=f5786517dc3781b95504f69702b6e9051ff65ae9f2f0c15b7b4e70472a8e1520",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448286"
       },
       {
         "id": "21",
         "title": "B21: Tiếp tục hành trình rời bỏ thuốc lá.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803552.m3u8?s=e87035c7293fbdcd04b4c0edb99b30b9187852e2&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448338/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=d0e4f3e3fc1737908cd0914c5ae9a7ca008560072cb4cd48784fea90ad5f20ac",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448338"
       },
       {
         "id": "22",
         "title": "B22: Tự tin hết mình.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803586.m3u8?s=42ecac12b693b0d2ad2440691d8cf7817afdef25&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448383/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=cf3fab7d555639f2376aa9a01144e6f63f83e62bd0311bebfabcce1a9196794f",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448383"
       },
       {
         "id": "23",
         "title": "B23: Làn da trắng sạch và khỏe mạnh.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803613.m3u8?s=015156bbb7325bbea08cfe48105e8a75b9eb859e&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448414/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=fbe8067d6e9b34d4740cb4c735432950c2d1692b5577d4d7f9000a56af286b0b",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448414"
       },
       {
         "id": "24",
         "title": "B24: Vô địch trong thi cử.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803643.m3u8?s=c3b9f9d1a503ab52ed153a3502d040375da1bdad&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448449/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=1206cd0f043f894360885cbdae5075ee233ccc01f8813436ddff849833adac1a",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448449"
       },
       {
         "id": "25",
         "title": "B25: Trí nhớ sắc sảo.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803675.m3u8?s=56c03560696f0f4a365a5f2deae90393d0a71e13&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448488/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=67fbcdc08cb8a905a5591e5f7f390b0f6a8d894c0f2e2738db332a778270639b",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448488"
       },
       {
         "id": "26",
         "title": "B26: Hệ miễn dịch khỏe mạnh.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803698.m3u8?s=f679089e27e3557c267a2cb28914f5b508111b89&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448533/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=d4dab346c376185de6c8d761fe9b9394f6ee9a696df34eabfe2f74889e496456",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448533"
       },
       {
         "id": "27",
         "title": "B27: Chữa lành nhanh chóng.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803722.m3u8?s=be1ec01deac1105b98916a7c7db55c7f445d5ae1&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448567/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=186810c83c2fc3a44dfc88290a86a3f0cf7a8b9aa3b1d2fdb29e9b6942dd9da8",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448567"
       },
       {
         "id": "28",
         "title": "B28: Giải quyết vấn đề theo cách sáng tạo.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803751.m3u8?s=7ff6352f8cf263a72089fb2571980421c79ef8fc&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448604/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=9fc8c79b62c47e49113ccab7f54e8eac60952a3d82c42b59321652a4c56ec5ea",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448604"
       },
       {
         "id": "29",
         "title": "B29: Khai thông sức sáng tạo thiên tài của bạn.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803784.m3u8?s=233219c7a06b26805ba677ce2279115cdf449c6a&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448644/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=2fbd15733185abd62360b30328774310da9d2ed04040b1bb51a0811289bdcf9e",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448644"
       },
       {
         "id": "30",
         "title": "B30: Kiếm nhiều tiền hơn.",
         "description": "",
         "media_type": "1",
-        "url": "https://player.vimeo.com/external/559803811.m3u8?s=a1bf91c76313c2228f11f394c55065c9f815b978&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673448684/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=80f7ae039680458532f75e2affc76d782bdfd308535f7324f0c0b001b48d4773",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1522206074"
+        "download": true,
+        "fileName": "673448684"
       }
     ]
   },
@@ -1847,57 +1941,64 @@
         "id": "01",
         "title": "Hãy cho tôi biết vì sao bạn ở đây",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/561160629.m3u8?s=f6104562ed9f3640f4c0f7054f59656526ca0a60&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673103705/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=15ec6abd4c116f85af197f3dc4efe7c1853d49e1bd0bbde40a707d045b8b3852",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673103705"
       },
       {
         "id": "02",
         "title": "Rõ ràng mới huy hoàng",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/561160979.m3u8?s=9798c5fe584bc7b6119bd0dbe274b27a0278fc9f&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673103967/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=de3db35180ce5145e017f644fbc97e768cd9d8fff2f6bfda1939001590cf1855",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673103967"
       },
       {
         "id": "03",
         "title": "5 Câu hỏi vượt qua sự cố",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/561161438.m3u8?s=53e05660b92be3fcbdf7dc6d2c906508a3e23ff6&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673104317/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=e904e2702954875762b229414244802133ced238dc379dc19e8aa2ee575fa8cc",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673104317"
       },
       {
         "id": "04",
         "title": "Giảm nhiệt cơn giận, tha thứ",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/561161750.m3u8?s=d718c220e673419a9e7243aeed259c688fc8b636&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673104574/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=1174fa96b83810d7f8107fd8541699fe898af5f40b9433b3bf28ac0c689a5661",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673104574"
       },
       {
         "id": "05",
         "title": "Xoa dịu nỗi đau do mâu thuẫn",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/561161994.m3u8?s=b6e763356d3738575426dcdc53b5e34ec3e54238&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673104762/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=ceebac175b89405f5e8c661b092a7726486c381415c54aba3aab03bef78b30bf",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673104762"
       },
       {
         "id": "06",
         "title": "Làm sao bớt lo lắng",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/561162447.m3u8?s=567cd5961e8baaaba68befb8d0b63bcbdc5a1be9&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673105144/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=71a68209994a31852a5e04ef2c92c0c3a278b9b81e65b369e383ea4044721cdc",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673105144"
       },
       {
         "id": "07",
         "title": "Thấy kết quả trước khi bắt đầu",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/561162669.m3u8?s=e43220122794242d287e801195c1ed8fbf44867e&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673105314/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=e6a3a0cab375d52d1c3984cdc2f66a81e7cdff3e9c7d76c043b273e06b657257",
         "invisibled": "0",
-        "created_at": "1501052383"
+        "download": true,
+        "fileName": "673105314"
       }
     ]
   },
@@ -3620,550 +3721,650 @@
         "title": "Biết đủ",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511430.m3u8?s=cc05f293bab105360d1a932a3cdaab93dae9b21a&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067159/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=89579b564f8208ad8ff8d5b59cede53eabfe1883d6e8161ef5688d865dbfb371",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053379"
+        "created_at": "1501053379",
+        "download": true,
+        "fileName": "673067159"
       },
       {
         "id": "160",
         "title": "Biết lỗi",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511460.m3u8?s=3331cbb97e5b1bec833fdac9d6e5554a7f8ac417&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067206/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=b8dcce432dd342c429c054a70c97ac1167bfac45b4a513021b72e6b1d0333dfa",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053392"
+        "created_at": "1501053392",
+        "download": true,
+        "fileName": "673067206"
       },
       {
         "id": "161",
         "title": "Biết ơn",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511487.m3u8?s=88f3e79826e0d0b8edd9e1dfa30edb77dc9b5775&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067253/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=004a769ae0da10f061006616a14fc20fc3de166434bfbe018bd2fccf169335ec",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053403"
+        "created_at": "1501053403",
+        "download": true,
+        "fileName": "673067253"
       },
       {
         "id": "162",
         "title": "Can đảm",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511514.m3u8?s=cf0b74473d2bbdbb13aa41a22b3eacce0b96820f&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067315/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=ed6933a2117004d30b399fc60442c269dec1e90f32512ca309a7b7c1505b06ae",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053413"
+        "created_at": "1501053413",
+        "download": true,
+        "fileName": "673067315"
       },
       {
         "id": "163",
         "title": "Cẩn thận",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511532.m3u8?s=a55940d354c1ba1abace111d95511669e1a907a3&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067363/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=ea751ba5e4dfb7f55164370dd86749c2a411551a07173db99c4bcb97f5dcb756",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053422"
+        "created_at": "1501053422",
+        "download": true,
+        "fileName": "673067363"
       },
       {
         "id": "164",
         "title": "Cầu tiến",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511563.m3u8?s=974bcc53cbad8098e35983a734af744077ea79f2&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067414/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=d1dcb81bfbff99ce05e37a8fdfbff0c7e643bb1573dbbb3ba951c3c37c905309",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053431"
+        "created_at": "1501053431",
+        "download": true,
+        "fileName": "673067414"
       },
       {
         "id": "165",
         "title": "Chăm chỉ",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511590.m3u8?s=fbbd48a0a243c0c7d1f79985ccee95179c25feb4&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067471/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=0f27399e40d1a3b6bb3ca916bed4ea58e2c6121d82f74c8291c048de59c760ca",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053443"
+        "created_at": "1501053443",
+        "download": true,
+        "fileName": "673067471"
       },
       {
         "id": "166",
         "title": "Chân thành",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511618.m3u8?s=5c995196d55000605ad6e49d6f7d243077c7a915&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067512/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=a17e83031af400f5857b912b3a0f07383a2c2d61d0620b9bc9846901bc9487c5",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053474"
+        "created_at": "1501053474",
+        "download": true,
+        "fileName": "673067512"
       },
       {
         "id": "167",
         "title": "Chính kiến",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511649.m3u8?s=f2054205c5770c216d819b27b437d86b5d3ef3cb&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067576/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=5a460ff97539e726ea3c728d29b0106fd79385574631b259874d9a74d182ccb9",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053487"
+        "created_at": "1501053487",
+        "download": true,
+        "fileName": "673067576"
       },
       {
         "id": "168",
         "title": "Chính trực",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511685.m3u8?s=20d4120a2bfe6b890a7c6cebdd83e14dcf97c2a7&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067635/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=ad54b62d3b3879d568809807541cbf8c7a57b741569fccc738575beaf83d0adc",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053505"
+        "created_at": "1501053505",
+        "download": true,
+        "fileName": "673067635"
       },
       {
         "id": "169",
         "title": "Chủ động",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511708.m3u8?s=c4e6ceb2e3b0f9fa4df9b5127064b651f94615a1&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067668/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=6c57dee61c4e08bb301b7b19c40cfb5ba3ffcd6afd94bec6648902c70901434c",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053514"
+        "created_at": "1501053514",
+        "download": true,
+        "fileName": "673067668"
       },
       {
         "id": "170",
         "title": "Đam mê",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511746.m3u8?s=4a463d3338071e3c48def71976a64ab5785d88df&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067724/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=116cc4195394f2842a7fa1c5b854a1cb6c1252f3fbeed5f58a467e84f4d127cd",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053524"
+        "created_at": "1501053524",
+        "download": true,
+        "fileName": "673067724"
       },
       {
         "id": "171",
         "title": "Điềm đạm",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511791.m3u8?s=99e92aa1e8bd352381e973729fe10e5afdf1b168&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067765/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=e77ff36beb54a88ccfdd0a9032b6cba26474ec1a316d52b2fb024da880f0ec52",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053534"
+        "created_at": "1501053534",
+        "download": true,
+        "fileName": "673067765"
       },
       {
         "id": "172",
         "title": "Độc lập",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511824.m3u8?s=7c705ded12925bfb8e35c16332574f9fff5db14e&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067818/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=e29229264ca5e622949b11ddeed4abfbd11ff6716b826dce15166d27d75f4f7f",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053544"
+        "created_at": "1501053544",
+        "download": true,
+        "fileName": "673067818"
       },
       {
         "id": "173",
         "title": "Động lực",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511847.m3u8?s=4c88d0d169016f49e44de5d45cba872486ed91fd&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067868/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=a2c58ce2018190e595b54fb1ea1a10203e5520aa3e602e6aacb2899de39ce197",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053553"
+        "created_at": "1501053553",
+        "download": true,
+        "fileName": "673067868"
       },
       {
         "id": "174",
         "title": "Giúp đỡ",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511871.m3u8?s=c53fe1f2c70950259728b74dc88a293e501c4765&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067915/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=dbab0afa28538581d4a363cae306ebb2120c00e2e608ab7fb3b993541d0d949d",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053565"
+        "created_at": "1501053565",
+        "download": true,
+        "fileName": "673067915"
       },
       {
         "id": "175",
         "title": "Hiếu thảo",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511895.m3u8?s=056904b0f1c9e18098ab957d672214099ea9bba8&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673067961/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=5bed2e51b82a1fa1531f6f349afa7d69fabd04cc8d2b26a2ab4498f17f79f5ac",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053574"
+        "created_at": "1501053574",
+        "download": true,
+        "fileName": "673067961"
       },
       {
         "id": "176",
         "title": "Học hỏi",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511914.m3u8?s=e24db24a47fc5cf2bdb45ba6046a0aa7197325c2&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068017/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=10b13e872928f53a1fddaa90ec4ab41090dc01fa943b5b1785d74f0a258190f0",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053583"
+        "created_at": "1501053583",
+        "download": true,
+        "fileName": "673068017"
       },
       {
         "id": "177",
         "title": "Hợp tác",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511952.m3u8?s=d6b7b098988851ba319d2f3dafd358b11e5b7990&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068076/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=7e8627d28311b6a4b67c5426560e5a01d1c2fe8bede097f596afc711fc4c6236",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053593"
+        "created_at": "1501053593",
+        "download": true,
+        "fileName": "673068076"
       },
       {
         "id": "178",
         "title": "Hưng phấn",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556511980.m3u8?s=f3a437a2a6b3a16eb7d7b1b5a3b7dd1c84de42b5&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068124/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=bff159a22c87edeb18369560a37a666d46549e36a124e9a19964ee55ff6a3a7f",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053603"
+        "created_at": "1501053603",
+        "download": true,
+        "fileName": "673068124"
       },
       {
         "id": "179",
         "title": "Khát vọng",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512042.m3u8?s=327a00ffe5532f33e129cc4a5a6f6f5351a24faa&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068156/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=0bfb617203531827dea20d19fba9eb2cdff373ce660671b4a98759d4e57a96f3",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053613"
+        "created_at": "1501053613",
+        "download": true,
+        "fileName": "673068156"
       },
       {
         "id": "180",
         "title": "Khen tặng",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512086.m3u8?s=226a9540c870217aac19d30eb361a71f883bba03&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068187/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=41f796012995b270f25c623c3c79da963ba21572ef93ed268ed9c5da55b5cad8",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053622"
+        "created_at": "1501053622",
+        "download": true,
+        "fileName": "673068187"
       },
       {
         "id": "181",
         "title": "Khiêm tốn",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512131.m3u8?s=8af8d57d99ff84a97055b95c5d43b48d10dd8dfd&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068229/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=e4d3d1cf653f8016fb44806ee10ff5c6943094be7e69f2436da93d697073e6fb",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053634"
+        "created_at": "1501053634",
+        "download": true,
+        "fileName": "673068229"
       },
       {
         "id": "182",
         "title": "Khoan dung",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512148.m3u8?s=17a697ebb139823b4344988404c82f5ee8e6aede&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068276/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=1b773f6ad7bf5118c9c0c8ef5e206e4f1f558e1c6bcd23e9a1d2d59093670d28",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053644"
+        "created_at": "1501053644",
+        "download": true,
+        "fileName": "673068276"
       },
       {
         "id": "183",
         "title": "Kiên trì",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512184.m3u8?s=16d19049e29f3f68205fbba1b6d627c5fd3b51c0&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068317/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=0f11ad97bba7a42d669b2b2ce82506c30b3d5fba35a10858bd94efeccf30364d",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053654"
+        "created_at": "1501053654",
+        "download": true,
+        "fileName": "673068317"
       },
       {
         "id": "184",
         "title": "Kỷ luật",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512200.m3u8?s=852d53e0d1997d8835cbede802bb29fe0e8c873c&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068362/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=c1e77c8de2e80aab3495ce6bd9697f1b1c344b85dfce560a91a6ab3be41929e0",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053664"
+        "created_at": "1501053664",
+        "download": true,
+        "fileName": "673068362"
       },
       {
         "id": "185",
         "title": "Làm mới",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512256.m3u8?s=cba0fdfbe89caed91cde61299b406f9683428bd1&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068392/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=a59092cc142e96f8b6ec96da01bc3ebaaef2d6c92db2e57b08781d834349301f",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053674"
+        "created_at": "1501053674",
+        "download": true,
+        "fileName": "673068392"
       },
       {
         "id": "186",
         "title": "Lắng nghe",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512296.m3u8?s=a8dbe668b79520e456a14089d45a8aca6923f4b5&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068439/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=dc01fef53a96d92340c1c792fa2a2e4a9158fd097c932d22b1dc228f1ecef460",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053683"
+        "created_at": "1501053683",
+        "download": true,
+        "fileName": "673068439"
       },
       {
         "id": "187",
         "title": "Lễ độ",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512319.m3u8?s=230c2e8d974c3a8b77533bec64ccdb1cf0d6de29&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068478/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=d711881349d9e76fd9ec37f815740e609d29f26dbfe966ef798ee58c0b062944",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053695"
+        "created_at": "1501053695",
+        "download": true,
+        "fileName": "673068478"
       },
       {
         "id": "188",
         "title": "Linh hoạt",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512364.m3u8?s=04af750c3d0d865a351a87423b2397cb58c19ad9&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068532/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=e8aff7cc15b589f82a6abacea5e20fed79311c5d99f42f99339fb6b338449fdb",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053720"
+        "created_at": "1501053720",
+        "download": true,
+        "fileName": "673068532"
       },
       {
         "id": "189",
         "title": "Mạnh mẽ",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512401.m3u8?s=8d33afc6afa548ea293bb813d88ca80066a048a0&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068587/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=fbe916b2a433f07d567c60b74911ff008788aa5f118e1d94914969c1367b396c",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053729"
+        "created_at": "1501053729",
+        "download": true,
+        "fileName": "673068587"
       },
       {
         "id": "190",
         "title": "Nhanh gọn",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512433.m3u8?s=b72f73331fde06ce5818e09ab69c8875e0c8bafa&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068628/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=5da53f9ba5e90b9506d2573fea8d01b14aebc3944fdb0008a3b10f89d259e110",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053739"
+        "created_at": "1501053739",
+        "download": true,
+        "fileName": "673068628"
       },
       {
         "id": "191",
         "title": "Nhiệt tình",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512450.m3u8?s=33a728ff131e0aec7e9ea408f48a86d2c034509f&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068672/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=0dce1a66724929b5fd86e62e1743f8eb08b0dd36a44f19c5a51e892cb5b94970",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053748"
+        "created_at": "1501053748",
+        "download": true,
+        "fileName": "673068672"
       },
       {
         "id": "192",
         "title": "Niềm tin",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512516.m3u8?s=661f2048d3e08330eb8785a44a6f21adce2924eb&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068711/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=23b16a512b277e5929b9bacf1a72f5bdac306f8b17e749314d76630ef65d2000",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053760"
+        "created_at": "1501053760",
+        "download": true,
+        "fileName": "673068711"
       },
       {
         "id": "193",
         "title": "Phụng sự",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512545.m3u8?s=b195a6788883d0fe1bd731259cc163898595287b&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068765/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=5bed0309d3986e2185ab9c399d74204c4a4979e0713cd9dac868fdeb76b86b6c",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053771"
+        "created_at": "1501053771",
+        "download": true,
+        "fileName": "673068765"
       },
       {
         "id": "194",
         "title": "Quan tâm",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512562.m3u8?s=11dc1398fc0024f4becfcd6bdcddd44aad80ac51&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068807/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=08e8be38390a7d5f495c36f603f1c4c0b382e220a8c2458c63cae29d72f5ad29",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053781"
+        "created_at": "1501053781",
+        "download": true,
+        "fileName": "673068807"
       },
       {
         "id": "195",
         "title": "Quyết đoán",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512589.m3u8?s=3ce1bb137eb86cd82226f688616a6aede370fd65&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068850/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=cb9383487ee4c5c081f8fc1d8d389473564d333703865ee5ae030e0e70f1280b",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053794"
+        "created_at": "1501053794",
+        "download": true,
+        "fileName": "673068850"
       },
       {
         "id": "196",
         "title": "Rõ ràng",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512612.m3u8?s=ef45daf4a0917ef82c4ce2d530c7dce79f72e43e&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068886/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=74049c33c89e5892bd6c55c25b8dcd3b3df9dafaabc0e894cdb614200faeddeb",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053803"
+        "created_at": "1501053803",
+        "download": true,
+        "fileName": "673068886"
       },
       {
         "id": "197",
         "title": "Sáng tạo",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512640.m3u8?s=0408febafb1eb818bfc10348625069aefa4f656f&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068948/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=b8bdab9503e05a58dff454044f7d17ba46f64e3dec886e023708b8bc85ca6835",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053813"
+        "created_at": "1501053813",
+        "download": true,
+        "fileName": "673068948"
       },
       {
         "id": "198",
         "title": "Tận tâm",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512668.m3u8?s=c55d968c22b4bd2779071732183e38bce142f0f3&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673068994/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=6951c3c74a7b43680c9b7be8e4497c70247795ba6c454f383192c3989e1ccc2a",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053823"
+        "created_at": "1501053823",
+        "download": true,
+        "fileName": "673068994"
       },
       {
         "id": "199",
         "title": "Tập trung",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512704.m3u8?s=725254db62b7c9426b9e87ce8f5381dd32de5c9e&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673069040/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=e5a0cc333b4719805ea5608c47420f50f84e4faaf6731def4fda1522e81f6969",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053832"
+        "created_at": "1501053832",
+        "download": true,
+        "fileName": "673069040"
       },
       {
         "id": "200",
         "title": "Thân thiện",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512731.m3u8?s=7021ac7813eebd24603e449b5e344a559427439c&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673069083/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=71c9d2be0cdc0ea00addf36fc401c8fd3eb0669784920aaa20bb3254ded65bd6",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053851"
+        "created_at": "1501053851",
+        "download": true,
+        "fileName": "673069083"
       },
       {
         "id": "201",
         "title": "Tiết kiệm",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512750.m3u8?s=966af125b32d6c0b8d442797a649c7e39962df36&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673069139/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=ca6eb1d312dfe53e5b6a0b4dcf7100b013bf8524984f2f1944dceffd53a94cde",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053862"
+        "created_at": "1501053862",
+        "download": true,
+        "fileName": "673069139"
       },
       {
         "id": "202",
         "title": "Tôn trọng",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512784.m3u8?s=c50da027fb013bfcee901147478c198c373e181b&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673069197/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=26ca76c59e870de72e6b85fd6fcc7752d44de8b05e44916e1eca14d79c038a98",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053872"
+        "created_at": "1501053872",
+        "download": true,
+        "fileName": "673069197"
       },
       {
         "id": "203",
         "title": "Trách nhiệm",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512809.m3u8?s=7be5c29e15f6232b785be817cc53e09f7d7386eb&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673069239/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=fe5dbfeb6f2b52e3059b13354c419cf7171b4fe78f1f4149a9c7334bbe7fa580",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053931"
+        "created_at": "1501053931",
+        "download": true,
+        "fileName": "673069239"
       },
       {
         "id": "204",
         "title": "Tự tin",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512841.m3u8?s=df419b6fddbd2700def43b762385b3323066a99b&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673069303/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=138706ea9f2391c4239a57c4ba83e961da50dc91293fc7d969f474c0086bfa4f",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053938"
+        "created_at": "1501053938",
+        "download": true,
+        "fileName": "673069303"
       },
       {
         "id": "205",
         "title": "Tự trọng",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512863.m3u8?s=3e04bba08fbdcd37623988ff59e05157e7c788f8&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673069345/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=93ac69713bf10a061044a3cab0be040e94cc0d6be028eb6ca42f1a2381a00d71",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053948"
+        "created_at": "1501053948",
+        "download": true,
+        "fileName": "673069345"
       },
       {
         "id": "206",
         "title": "Tươi cười",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512887.m3u8?s=974e4320a0183f75ef315cd21f585209d383e41d&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673069388/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=1d918f247c5f1f5a61655f3ef737a3da460f73eff647d754d94d59b053569bd5",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053960"
+        "created_at": "1501053960",
+        "download": true,
+        "fileName": "673069388"
       },
       {
         "id": "207",
         "title": "Uy tín",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512909.m3u8?s=170a0405827b80aa7437b1f10f29c49315aea5ef&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673069441/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=f438d6c289866eb285e92c9080a118db683c7cf2bdf3a10f229108319fe6b3aa",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053970"
+        "created_at": "1501053970",
+        "download": true,
+        "fileName": "673069441"
       },
       {
         "id": "208",
         "title": "Yêu thương",
         "description": "",
         "media_type": "2",
-        "url": "https://player.vimeo.com/external/556512933.m3u8?s=ab98464432ac0c34b910b6a3606e86c80997ab16&oauth2_token_id=1520642928",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/673069488/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=91461fd94101a9f5ad53fc38aaa6b69b5ca590fb5ed29f92a1a09815f215376f",
         "img_before": "",
         "img_after": "",
         "invisibled": "0",
-        "created_at": "1501053980"
+        "created_at": "1501053980",
+        "download": true,
+        "fileName": "673069488"
       }
     ]
   }
