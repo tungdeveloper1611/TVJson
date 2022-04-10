@@ -9,7 +9,8 @@
     "code": "",
     "price": "299",
     "type": "kid",
-    "media": []
+    "media": [],
+    "membership": true
   },
   {
     "title": "Táo Ứng Xử",
@@ -21,7 +22,8 @@
     "code": "",
     "price": "299",
     "type": "kid",
-    "media": []
+    "media": [],
+    "membership": true
   },
   {
     "title": "Táo Bản Lĩnh",
@@ -33,7 +35,8 @@
     "code": "",
     "price": "299",
     "type": "kid",
-    "media": []
+    "media": [],
+    "membership": true
   },
   {
     "title": "Táo Biết Ơn",
@@ -45,6 +48,7 @@
     "code": "",
     "price": "299",
     "type": "kid",
-    "media": []
+    "media": [],
+    "membership": true
   }
 ]
