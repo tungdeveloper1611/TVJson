@@ -1,0 +1,86 @@
+{
+  "title": "Thiệp",
+  "type": "thiep",
+  "data": [
+    {
+      "name": "Cảm ơn",
+      "url": "",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "",
+      "icon": "",
+      "detail": ""
+    },
+    {
+      "name": "Xin lỗi",
+      "url": "",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "",
+      "icon": "",
+      "detail": ""
+    },
+    {
+      "name": "Chúc mừng",
+      "url": "",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "",
+      "icon": "",
+      "detail": ""
+    },
+    {
+      "name": "Chia sẻ",
+      "url": "",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "",
+      "icon": "",
+      "detail": ""
+    },
+    {
+      "name": "Cảm kích",
+      "url": "",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "",
+      "icon": "",
+      "detail": ""
+    },
+    {
+      "name": "Quà tặng",
+      "url": "",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "",
+      "icon": "",
+      "detail": ""
+    },
+    {
+      "name": "Lời mời",
+      "url": "",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "",
+      "icon": "",
+      "detail": ""
+    },
+    {
+      "name": "none",
+      "url": "",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "",
+      "icon": "",
+      "detail": ""
+    }
+  ]
+}
