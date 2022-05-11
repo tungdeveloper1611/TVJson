@@ -19,28 +19,32 @@
       "new": true,
       "hot": true,
       "date": 1652851423,
-      "color": "#000"
+      "color": "#000",
+      "title": "Tiêu đề sách 01"
     },
     {
       "cover": "https://lh3.googleusercontent.com/pw/AM-JKLWYB4TYStfpvycbvOHz6QqbCbJ548hGkdhaVuAFAT5modQUz-c1rsrEa_n_dS9hASSsQJHRN4RY4SJQ8dpBzHPbginTnJ205tTIMiR_12Uq_6jLvLB_lpvLqHrQQZw0sBr8EqTaV0V147yKEz45GTn9=w1000-no-tmp.jpg",
       "new": true,
       "hot": true,
       "date": 1647408223,
-      "color": "#000"
+      "color": "#000",
+      "title": "Tiêu đề sách 02"
     },
     {
       "cover": "https://lh3.googleusercontent.com/pw/AM-JKLWYB4TYStfpvycbvOHz6QqbCbJ548hGkdhaVuAFAT5modQUz-c1rsrEa_n_dS9hASSsQJHRN4RY4SJQ8dpBzHPbginTnJ205tTIMiR_12Uq_6jLvLB_lpvLqHrQQZw0sBr8EqTaV0V147yKEz45GTn9=w1000-no-tmp.jpg",
       "new": true,
       "hot": true,
       "date": 1644643423,
-      "color": "#000"
+      "color": "#000",
+      "title": "Tiêu đề sách 03"
     },
     {
       "cover": "https://lh3.googleusercontent.com/pw/AM-JKLWYB4TYStfpvycbvOHz6QqbCbJ548hGkdhaVuAFAT5modQUz-c1rsrEa_n_dS9hASSsQJHRN4RY4SJQ8dpBzHPbginTnJ205tTIMiR_12Uq_6jLvLB_lpvLqHrQQZw0sBr8EqTaV0V147yKEz45GTn9=w1000-no-tmp.jpg",
       "new": true,
       "hot": true,
       "date": 1641792223,
-      "color": "#000"
+      "color": "#000",
+      "title": "Tiêu đề sách 04"
     }
   ],
   "stories": [
