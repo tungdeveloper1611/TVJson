@@ -19,7 +19,7 @@
       "new": true,
       "hot": true,
       "date": 1652851423,
-      "color": "#000",
+      "color": "#f15a25",
       "title": "Tiêu đề sách 01"
     },
     {
@@ -27,7 +27,7 @@
       "new": true,
       "hot": true,
       "date": 1647408223,
-      "color": "#000",
+      "color": "#ed1b24",
       "title": "Tiêu đề sách 02"
     },
     {
@@ -35,7 +35,7 @@
       "new": true,
       "hot": true,
       "date": 1644643423,
-      "color": "#000",
+      "color": "#652d90",
       "title": "Tiêu đề sách 03"
     },
     {
@@ -43,7 +43,7 @@
       "new": true,
       "hot": true,
       "date": 1641792223,
-      "color": "#000",
+      "color": "#16a085",
       "title": "Tiêu đề sách 04"
     }
   ],
