@@ -19,7 +19,8 @@
       "new": true,
       "hot": true,
       "date": 1652851423,
-      "color": "#f15a25",
+      "color": "#fff",
+      "tintColor": "#f15a25",
       "title": "Tiêu đề sách 01",
       "topics": ["0", "1"]
     },
@@ -28,7 +29,8 @@
       "new": true,
       "hot": true,
       "date": 1647408223,
-      "color": "#ed1b24",
+      "color": "#fff",
+      "tintColor": "#ed1b24",
       "title": "Tiêu đề sách 02",
       "topics": ["0", "1"]
     },
@@ -37,7 +39,8 @@
       "new": true,
       "hot": true,
       "date": 1644643423,
-      "color": "#652d90",
+      "color": "#fff",
+      "tintColor": "#652d90",
       "title": "Tiêu đề sách 03",
       "topics": ["0", "1", "2"]
     },
@@ -46,7 +49,8 @@
       "new": true,
       "hot": true,
       "date": 1641792223,
-      "color": "#16a085",
+      "color": "#fff",
+      "tintColor": "#16a085",
       "title": "Tiêu đề sách 04",
       "topics": ["0", "2", "3"]
     }
@@ -69,25 +73,29 @@
     {
       "id": "0",
       "title": "TÌNH CẢM GIA ĐÌNH",
-      "color": "#000",
+      "color": "#fff",
+      "tintColor": "#d9e021",
       "cover": "https://lh3.googleusercontent.com/TbJkOWYvp4tuyoyha1qAHfT0NLPHG4zQ_-3z8qcXRyjuTaLqa_LMuWE5gpS-PiA1dqpvCUlrL8k5CjrkAL3Vb_wLoS_sV85bpNUulVg0Lcybu1mTrRqdZ6xuogjc43fdTi_Ji0KZcHV7g9EFT9Ip7VcH-qz9n1wCJl-CBj43_t35Ue4bLTqaPjADiXR8h0NiAnQ38R3UN6olx1eNrbLgw00J9OvuIXtw_G4joUYdn6P4T9DA1ltW1ns5uLEmCWQ1AnXj7ffNVaeKdx7uA6UPQ9BCdiEZws90_FPKG8xqfGemZr63rYqinis60OzYPW7Tw7T4KdjqvSWA0uU6l-96IUATyyw6Tbaqsa-jGZ2tES0GiikC27SWF7OSgsBty47G_nMWO1ZWXq87PyDRgoLPbAoOlNqC2N-sSPfhxwbaeYnSoT6UuXjjDH0j0_U-oQTY5JXd8syg0pviocYi_pJtKPxDRMjujmwDsm19iq65n39jI6d4JLzU0rAPzIHGFzILpLoUgxSHo6v2nhs4EHR-11OR82wRG5hhKhAnCGyQYzjP31eruS4NZWFmmjNIRAava7oWpCjpBuxBIUPUrVKYjodbW4iL_0a6SXlcMQ9CP-JEazANI640Em7w5uvrWnWEuDS64EyBTFt0XATFHb1IgEI10bMJA7NbJiMQnMKEIHcQ-2MfVFOrV4wKHLudORKyek_N5rN06kGG0RDYSnYQweoPhyTzpYDos4Dy-VLS_2x8uzKeFr5uASB9SU9kuMYXBDBW0wnUdCHQ7ibkNbqxqb7DG88qk_g31Ui3u0Jc38nygZ9TeNrLnMBtsJ3b0GMGjyW8Lf6ewqVKwac4YwsSFzcXBipyYXuk6Qf4i6c=w1000-no-tmp.jpg"
     },
     {
       "id": "1",
-      "title": "TÌNH CẢM GIA ĐÌNH",
-      "color": "#000",
+      "title": "PHONG CÁCH SỐNG",
+      "color": "#fff",
+      "tintColor": "#3ab54b",
       "cover": "https://lh3.googleusercontent.com/TbJkOWYvp4tuyoyha1qAHfT0NLPHG4zQ_-3z8qcXRyjuTaLqa_LMuWE5gpS-PiA1dqpvCUlrL8k5CjrkAL3Vb_wLoS_sV85bpNUulVg0Lcybu1mTrRqdZ6xuogjc43fdTi_Ji0KZcHV7g9EFT9Ip7VcH-qz9n1wCJl-CBj43_t35Ue4bLTqaPjADiXR8h0NiAnQ38R3UN6olx1eNrbLgw00J9OvuIXtw_G4joUYdn6P4T9DA1ltW1ns5uLEmCWQ1AnXj7ffNVaeKdx7uA6UPQ9BCdiEZws90_FPKG8xqfGemZr63rYqinis60OzYPW7Tw7T4KdjqvSWA0uU6l-96IUATyyw6Tbaqsa-jGZ2tES0GiikC27SWF7OSgsBty47G_nMWO1ZWXq87PyDRgoLPbAoOlNqC2N-sSPfhxwbaeYnSoT6UuXjjDH0j0_U-oQTY5JXd8syg0pviocYi_pJtKPxDRMjujmwDsm19iq65n39jI6d4JLzU0rAPzIHGFzILpLoUgxSHo6v2nhs4EHR-11OR82wRG5hhKhAnCGyQYzjP31eruS4NZWFmmjNIRAava7oWpCjpBuxBIUPUrVKYjodbW4iL_0a6SXlcMQ9CP-JEazANI640Em7w5uvrWnWEuDS64EyBTFt0XATFHb1IgEI10bMJA7NbJiMQnMKEIHcQ-2MfVFOrV4wKHLudORKyek_N5rN06kGG0RDYSnYQweoPhyTzpYDos4Dy-VLS_2x8uzKeFr5uASB9SU9kuMYXBDBW0wnUdCHQ7ibkNbqxqb7DG88qk_g31Ui3u0Jc38nygZ9TeNrLnMBtsJ3b0GMGjyW8Lf6ewqVKwac4YwsSFzcXBipyYXuk6Qf4i6c=w1000-no-tmp.jpg"
     },
     {
       "id": "2",
-      "title": "TÌNH CẢM GIA ĐÌNH",
-      "color": "#000",
+      "title": "NUÔI DƯỠNG TRÍ TUỆ",
+      "color": "#fff",
+      "tintColor": "#f15a25",
       "cover": "https://lh3.googleusercontent.com/TbJkOWYvp4tuyoyha1qAHfT0NLPHG4zQ_-3z8qcXRyjuTaLqa_LMuWE5gpS-PiA1dqpvCUlrL8k5CjrkAL3Vb_wLoS_sV85bpNUulVg0Lcybu1mTrRqdZ6xuogjc43fdTi_Ji0KZcHV7g9EFT9Ip7VcH-qz9n1wCJl-CBj43_t35Ue4bLTqaPjADiXR8h0NiAnQ38R3UN6olx1eNrbLgw00J9OvuIXtw_G4joUYdn6P4T9DA1ltW1ns5uLEmCWQ1AnXj7ffNVaeKdx7uA6UPQ9BCdiEZws90_FPKG8xqfGemZr63rYqinis60OzYPW7Tw7T4KdjqvSWA0uU6l-96IUATyyw6Tbaqsa-jGZ2tES0GiikC27SWF7OSgsBty47G_nMWO1ZWXq87PyDRgoLPbAoOlNqC2N-sSPfhxwbaeYnSoT6UuXjjDH0j0_U-oQTY5JXd8syg0pviocYi_pJtKPxDRMjujmwDsm19iq65n39jI6d4JLzU0rAPzIHGFzILpLoUgxSHo6v2nhs4EHR-11OR82wRG5hhKhAnCGyQYzjP31eruS4NZWFmmjNIRAava7oWpCjpBuxBIUPUrVKYjodbW4iL_0a6SXlcMQ9CP-JEazANI640Em7w5uvrWnWEuDS64EyBTFt0XATFHb1IgEI10bMJA7NbJiMQnMKEIHcQ-2MfVFOrV4wKHLudORKyek_N5rN06kGG0RDYSnYQweoPhyTzpYDos4Dy-VLS_2x8uzKeFr5uASB9SU9kuMYXBDBW0wnUdCHQ7ibkNbqxqb7DG88qk_g31Ui3u0Jc38nygZ9TeNrLnMBtsJ3b0GMGjyW8Lf6ewqVKwac4YwsSFzcXBipyYXuk6Qf4i6c=w1000-no-tmp.jpg"
     },
     {
       "id": "3",
-      "title": "TÌNH CẢM GIA ĐÌNH",
+      "title": "CHỦ ĐỀ KHÁC",
       "color": "#000",
+      "tintColor": "##f1c40f",
       "cover": "https://lh3.googleusercontent.com/TbJkOWYvp4tuyoyha1qAHfT0NLPHG4zQ_-3z8qcXRyjuTaLqa_LMuWE5gpS-PiA1dqpvCUlrL8k5CjrkAL3Vb_wLoS_sV85bpNUulVg0Lcybu1mTrRqdZ6xuogjc43fdTi_Ji0KZcHV7g9EFT9Ip7VcH-qz9n1wCJl-CBj43_t35Ue4bLTqaPjADiXR8h0NiAnQ38R3UN6olx1eNrbLgw00J9OvuIXtw_G4joUYdn6P4T9DA1ltW1ns5uLEmCWQ1AnXj7ffNVaeKdx7uA6UPQ9BCdiEZws90_FPKG8xqfGemZr63rYqinis60OzYPW7Tw7T4KdjqvSWA0uU6l-96IUATyyw6Tbaqsa-jGZ2tES0GiikC27SWF7OSgsBty47G_nMWO1ZWXq87PyDRgoLPbAoOlNqC2N-sSPfhxwbaeYnSoT6UuXjjDH0j0_U-oQTY5JXd8syg0pviocYi_pJtKPxDRMjujmwDsm19iq65n39jI6d4JLzU0rAPzIHGFzILpLoUgxSHo6v2nhs4EHR-11OR82wRG5hhKhAnCGyQYzjP31eruS4NZWFmmjNIRAava7oWpCjpBuxBIUPUrVKYjodbW4iL_0a6SXlcMQ9CP-JEazANI640Em7w5uvrWnWEuDS64EyBTFt0XATFHb1IgEI10bMJA7NbJiMQnMKEIHcQ-2MfVFOrV4wKHLudORKyek_N5rN06kGG0RDYSnYQweoPhyTzpYDos4Dy-VLS_2x8uzKeFr5uASB9SU9kuMYXBDBW0wnUdCHQ7ibkNbqxqb7DG88qk_g31Ui3u0Jc38nygZ9TeNrLnMBtsJ3b0GMGjyW8Lf6ewqVKwac4YwsSFzcXBipyYXuk6Qf4i6c=w1000-no-tmp.jpg"
     }
   ],
