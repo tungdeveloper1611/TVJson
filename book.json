@@ -22,6 +22,8 @@
       "color": "#fff",
       "tintColor": "#f15a25",
       "title": "Tiêu đề sách 01",
+      "author": "Trần Quốc Phúc",
+      "design": "Sáng tạo Olympus",
       "topics": ["0", "1"]
     },
     {
@@ -32,6 +34,8 @@
       "color": "#fff",
       "tintColor": "#ed1b24",
       "title": "Tiêu đề sách 02",
+      "author": "Trần Quốc Phúc",
+      "design": "Sáng tạo Olympus",
       "topics": ["0", "1"]
     },
     {
@@ -42,6 +46,8 @@
       "color": "#fff",
       "tintColor": "#652d90",
       "title": "Tiêu đề sách 03",
+      "author": "Trần Quốc Phúc",
+      "design": "Sáng tạo Olympus",
       "topics": ["0", "1", "2"]
     },
     {
@@ -52,6 +58,8 @@
       "color": "#fff",
       "tintColor": "#16a085",
       "title": "Tiêu đề sách 04",
+      "author": "Trần Quốc Phúc",
+      "design": "Sáng tạo Olympus",
       "topics": ["0", "2", "3"]
     }
   ],
