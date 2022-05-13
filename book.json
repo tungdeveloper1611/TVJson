@@ -127,5 +127,50 @@
       "cover": "https://lh3.googleusercontent.com/TbJkOWYvp4tuyoyha1qAHfT0NLPHG4zQ_-3z8qcXRyjuTaLqa_LMuWE5gpS-PiA1dqpvCUlrL8k5CjrkAL3Vb_wLoS_sV85bpNUulVg0Lcybu1mTrRqdZ6xuogjc43fdTi_Ji0KZcHV7g9EFT9Ip7VcH-qz9n1wCJl-CBj43_t35Ue4bLTqaPjADiXR8h0NiAnQ38R3UN6olx1eNrbLgw00J9OvuIXtw_G4joUYdn6P4T9DA1ltW1ns5uLEmCWQ1AnXj7ffNVaeKdx7uA6UPQ9BCdiEZws90_FPKG8xqfGemZr63rYqinis60OzYPW7Tw7T4KdjqvSWA0uU6l-96IUATyyw6Tbaqsa-jGZ2tES0GiikC27SWF7OSgsBty47G_nMWO1ZWXq87PyDRgoLPbAoOlNqC2N-sSPfhxwbaeYnSoT6UuXjjDH0j0_U-oQTY5JXd8syg0pviocYi_pJtKPxDRMjujmwDsm19iq65n39jI6d4JLzU0rAPzIHGFzILpLoUgxSHo6v2nhs4EHR-11OR82wRG5hhKhAnCGyQYzjP31eruS4NZWFmmjNIRAava7oWpCjpBuxBIUPUrVKYjodbW4iL_0a6SXlcMQ9CP-JEazANI640Em7w5uvrWnWEuDS64EyBTFt0XATFHb1IgEI10bMJA7NbJiMQnMKEIHcQ-2MfVFOrV4wKHLudORKyek_N5rN06kGG0RDYSnYQweoPhyTzpYDos4Dy-VLS_2x8uzKeFr5uASB9SU9kuMYXBDBW0wnUdCHQ7ibkNbqxqb7DG88qk_g31Ui3u0Jc38nygZ9TeNrLnMBtsJ3b0GMGjyW8Lf6ewqVKwac4YwsSFzcXBipyYXuk6Qf4i6c=w1000-no-tmp.jpg"
     }
   ],
-  "new": {}
+  "videos": [
+    {
+      "title": "Cuốn sách Tớ Yêu Thương",
+      "author": "Trần Quốc Phúc",
+      "design": "Sáng tạo Olympus",
+      "description": "Sách “Tớ ước mơ” khơi dậy tinh thần nuôi dưỡng, chinh phục hoài bão\n\nVới chủ đề “Tớ ước mơ”, trẻ sẽ lắng nghe câu chuyện của những nhân vật giàu tri thức và khát khao khẳng định giá trị bản thân đáng ngưỡng mộ.\n\nChắc hẳn trẻ sẽ ấn tượng với màn giải mưu kế thông minh của Trạng nguyên Nguyễn Hiền, cảm kích với pha xử lý khéo léo của tướng Lưu Dung trong tình huống nguy cấp hay xúc động với tinh thần hiếu học của bạn nhỏ Trọng Nhân, Mỗi câu chuyện sẽ là một dịp vun đắp trong trẻ sự ham học hỏi, biết cách nuôi dưỡng ước mơ và nỗ lực đến cùng để biến chúng thành hiện thực.",
+      "url": "https://player.vimeo.com/progressive_redirect/playback/678505539/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=61cf7e6228d79360b11ee08d7e3703da46fb66ca993ad2b5964861c248d87e3a",
+      "thumbnail": "https://i.vimeocdn.com/video/1375031602-17ced8262a06dba9b03e8322d3e84fd0fe8871a42e4eae90dc9550f0fe3d21f9-d?mw=1600&mh=900&q=70",
+      "media_type": "video",
+      "download": true,
+      "fileName": "678505539"
+    },
+    {
+      "title": "Ứng Xử Tập 02",
+      "author": "Trần Quốc Phúc",
+      "design": "Sáng tạo Olympus",
+      "description": "Sách “Tớ ước mơ” khơi dậy tinh thần nuôi dưỡng, chinh phục hoài bão\n\nVới chủ đề “Tớ ước mơ”, trẻ sẽ lắng nghe câu chuyện của những nhân vật giàu tri thức và khát khao khẳng định giá trị bản thân đáng ngưỡng mộ.\n\nChắc hẳn trẻ sẽ ấn tượng với màn giải mưu kế thông minh của Trạng nguyên Nguyễn Hiền, cảm kích với pha xử lý khéo léo của tướng Lưu Dung trong tình huống nguy cấp hay xúc động với tinh thần hiếu học của bạn nhỏ Trọng Nhân, Mỗi câu chuyện sẽ là một dịp vun đắp trong trẻ sự ham học hỏi, biết cách nuôi dưỡng ước mơ và nỗ lực đến cùng để biến chúng thành hiện thực.",
+      "url": "https://player.vimeo.com/progressive_redirect/playback/678505673/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=4eaf18d224fcfe2c9971e31f6288c62d8e9f028121f43b1886f8eda8d818c276",
+      "thumbnail": "https://i.vimeocdn.com/video/1375031829-a3279aef6c0da99e5ba6fdca3fe433881349a519a73d5ee7bb7daa767d11151b-d?mw=1600&mh=900&q=70",
+      "media_type": "video",
+      "download": true,
+      "fileName": "678505673"
+    },
+    {
+      "title": "Ứng Xử Tập 03",
+      "author": "Trần Quốc Phúc",
+      "design": "Sáng tạo Olympus",
+      "description": "Sách “Tớ ước mơ” khơi dậy tinh thần nuôi dưỡng, chinh phục hoài bão\n\nVới chủ đề “Tớ ước mơ”, trẻ sẽ lắng nghe câu chuyện của những nhân vật giàu tri thức và khát khao khẳng định giá trị bản thân đáng ngưỡng mộ.\n\nChắc hẳn trẻ sẽ ấn tượng với màn giải mưu kế thông minh của Trạng nguyên Nguyễn Hiền, cảm kích với pha xử lý khéo léo của tướng Lưu Dung trong tình huống nguy cấp hay xúc động với tinh thần hiếu học của bạn nhỏ Trọng Nhân, Mỗi câu chuyện sẽ là một dịp vun đắp trong trẻ sự ham học hỏi, biết cách nuôi dưỡng ước mơ và nỗ lực đến cùng để biến chúng thành hiện thực.",
+      "url": "https://player.vimeo.com/progressive_redirect/playback/678505778/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=b3a3e5f1c30ffc60f1341ec4d970adf7679361933e351ef9af52817859f5dd04",
+      "thumbnail": "https://i.vimeocdn.com/video/1375032056-4a15bd84657a03729fc27be8f3eb8442fc4de6d0754308b1b29a5a9c82e453d7-d?mw=1600&mh=900&q=70",
+      "media_type": "video",
+      "download": true,
+      "fileName": "678505778"
+    },
+    {
+      "title": "Ứng Xử Tập 04",
+      "author": "Trần Quốc Phúc",
+      "design": "Sáng tạo Olympus",
+      "description": "Sách “Tớ ước mơ” khơi dậy tinh thần nuôi dưỡng, chinh phục hoài bão\n\nVới chủ đề “Tớ ước mơ”, trẻ sẽ lắng nghe câu chuyện của những nhân vật giàu tri thức và khát khao khẳng định giá trị bản thân đáng ngưỡng mộ.\n\nChắc hẳn trẻ sẽ ấn tượng với màn giải mưu kế thông minh của Trạng nguyên Nguyễn Hiền, cảm kích với pha xử lý khéo léo của tướng Lưu Dung trong tình huống nguy cấp hay xúc động với tinh thần hiếu học của bạn nhỏ Trọng Nhân, Mỗi câu chuyện sẽ là một dịp vun đắp trong trẻ sự ham học hỏi, biết cách nuôi dưỡng ước mơ và nỗ lực đến cùng để biến chúng thành hiện thực.",
+      "url": "https://player.vimeo.com/progressive_redirect/playback/678505894/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=fa514229b9dc8f5e1e955401076463cacd11bb66ffe6bf7bb1ce1d92e4356b2b",
+      "thumbnail": "https://i.vimeocdn.com/video/1375032859-69b68b05ad21f13b64e20d482efb8bd53ece5c6cfb917a927778eac6fdf4414a-d?mw=1600&mh=900&q=70",
+      "media_type": "video",
+      "download": true,
+      "fileName": "678505894"
+    }
+  ]
 }
