@@ -118,7 +118,7 @@
     },
     {
       "id": "07",
-      "cover": "https://lh3.googleusercontent.com/pw/AM-JKLWEk_kKai0rOT8KKKyPaKrhttps://lh3.googleusercontent.com/pw/AM-JKLWDZUdaB2CfF_K3OCu9j2VQFCQBTdLDGiDROVi2zA6U3wQ4Q9XFz6oLQFrwHomodmmG7Vuf2upaix9AYjDrhJggEMybCeN_kx7wHvFrQpOdC_TuAdOVAY0NujJVSYrjJAIp5yshbvXqL2YDOG6n_VFz=w1000-no-tmp.jpg",
+      "cover": "https://lh3.googleusercontent.com/4rwNalfvEKFj4Nqy9kKz8k2KqkKxZX0ADPxg1L_4x8lCAlNxW8-zHXoA1G3uEkZcTEpOETR5d8il5EhQIpVaTdvuMT4SLrkxwXznBrfWRRWz8HA7thTKYFHmDxNLpoIvZ78SJ4qSD6fP5MsbUFq0fwF92_hNjEOjQFP6-lkL7Y-MzrykKCotix63HBbEhF3PtdvYxOTNaRRM7HuvGS9Bzj6AIuaomYb0xmaiYIOylZEJYcqP9YxvG6CAkVX7AiasUtJYdthxRtF-4nAI_XZwHcJJ0yH8jeyOne9cP2STQcbil1OofhPBGH40eNIgdA_EgvJJqLK5bjw8w-qYVKJ7Wp5I2Sa02U9eXsr8zxlMXIOGHAE8-LFLxNAtpghaZQZ9Nxkondnfwv6CrX2sfFlU9xh94uRtnAulccSLcWA5TvP_iSOhVl1fXuFWRWpDS6rxenjS2tMX_QtDDISFHGgUWi2s9YE3LPlUzGwOXt9CiwsTty1mDyXLVOFltVc3PjHL5zKXaRxeN0CHssT7UO1l42BiyhgjDjI8qrUPfvtiVX4R1x4yukM9Ga4tc_XSac9_Ed4rwZg_DgetGgqVAUVIqTsM30iK8OWFaE0IPFFK9ZAG9OLSTnVyTiAAlbjBWM-z2_BtOSqcu5lU74KtR8bmsvG2RXY2s5plmcs7QZY9KX2TyGx8uQeIp1sW7lm-AZj5dOEhH2tJ14eMvMblKn50xtRUTb8iXsDwuze4iIqqrBDsEU2Y95b4p82s3pi_wsC1oTLBxGTYdfyo3Hs4cgC1-z-hSoIRl1N8H295yS8mCI36o6DWLQrdsTlaY6d1qAsyTL5Qxg=w1000-no-tmp.jpg",
       "new": true,
       "hot": true,
       "date": 1654495264,
@@ -185,24 +185,6 @@
       "topics": ["1"],
       "url": "",
       "srt": "https://raw.githubusercontent.com/tungdeveloper1611/TVJson/main/srt/10.srt",
-      "download": true,
-      "fileName": ""
-    },
-    {
-      "id": "11",
-      "cover": "https://lh3.googleusercontent.com/pw/AM-JKLUrx8VPUxslGyRO-gB8laj81X6XFbtGQ0t65MpoTAK0LwM0VEUoJPwbsZZHHcd-CwcUK4wz-aQKfDxT3IMaxwtD7n5SpEVwBfdHUrtLmMqQckIyHHUCjyGnSRP5TAkfBaNWGqs8H9dCVh5MUY47x6v1=w1000-no-tmp.jpg",
-      "new": true,
-      "hot": true,
-      "date": 1654495264,
-      "color": "#fff",
-      "tintColor": "#f15a25",
-      "title": "Cuộc phiêu lưu của Peter Pan",
-      "author": "James Matthew Barrie",
-      "design": "Nhà xuất bản trẻ",
-      "description": "Peter Pan - một nhân vật hư cấu của nhà văn James Matthew Barrie, mang hình hài của một thiếu niên 15-16 tuổi biết bay, luôn muốn vui chơi và hưởng thụ cuộc sống, chính vì thế cậu luôn tìm cách chối bỏ “sự trưởng thành” và mãi mãi không chịu lớn lên.\n\nCậu sống ở vùng đất Neverland thần tiên cùng các “Lost boys” - Những cậu bé đi lạc và cô tiên Tinkerbell. Xung quanh Peter không chỉ có bè bạn mà còn có những kẻ luôn thù ghét và tìm cách hãm hại cậu. Sau những chuyến vui chơi, Peter vô tình quen biết Wendy - một cô bé đáng yêu sống ở London. Cậu có cảm tình đặc biệt với Wendy và mời cô bé đến Neverland cùng sống với mình.",
-      "topics": ["1"],
-      "url": "",
-      "srt": "https://raw.githubusercontent.com/tungdeveloper1611/TVJson/main/srt/11.srt",
       "download": true,
       "fileName": ""
     },
