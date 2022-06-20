@@ -533,16 +533,54 @@
   ],
   "stories": [
     {
-      "cover": "https://lh3.googleusercontent.com/pw/AM-JKLWKShmUhVVZvjowEXgw3Nk2ZzM9dw_mCFQSXg6oI-PtUJE84cnGGBVgDDn1ifhoTChA14E_qw_HJAv39SJtOXesLK1iwuPYcOhri_yS3xc2R5qiTaeexNUZycp4KIxmsTXX8E1AKUf19gxfZXs0ih9w=w1000-no-tmp.jpg"
+      "id": "01",
+      "cover": "https://lh3.googleusercontent.com/pw/AM-JKLWQXHYj7OrB_miKFgDGhNnh9AzkptfZp9LgiiGBPeWUT5kBVQ7jEfR1hQ9pClCZnrvaci8ZKMorHkPmG8mK3986nEoCHoIHaZgMVt6Ih9_96FDyvtOlsC_P5u145TtkazxZ-9ug_wajPyhyqSghhIrt=w1000-no-tmp.jpg",
+      "date": 1655696685,
+      "title": "Tớ yêu thương",
+      "author": "Trần Quốc Phúc ",
+      "design": "Táo Vàng",
+      "description": "Đến với chủ đề “Tớ yêu thương“, trẻ sẽ làm quen với 17 câu chuyện ý nghĩa về tình yêu thương và sự sẻ chia với người xung quanh.\n\nMỗi mẩu chuyện sẽ là một lát cắt của cuộc sống mà ở đó, trẻ thấy được xung quanh luôn có những hoàn cảnh khó khăn, bất hạnh cần đến sự giúp đỡ. Đó có thể là những bạn nhỏ mồ côi trong mùa đông rét buốt, là cậu trẻ khuyết tật với khát khao được vui đùa như các bạn đồng trang lứa, Từ đó, trẻ cảm nhận rõ hơn vai trò của tinh thần tương thân tương ái trong cuộc sống, học cách giúp đỡ người khác trong khả năng của mình.",
+      "topics": ["1"]
     },
     {
-      "cover": "https://lh3.googleusercontent.com/pw/AM-JKLWKShmUhVVZvjowEXgw3Nk2ZzM9dw_mCFQSXg6oI-PtUJE84cnGGBVgDDn1ifhoTChA14E_qw_HJAv39SJtOXesLK1iwuPYcOhri_yS3xc2R5qiTaeexNUZycp4KIxmsTXX8E1AKUf19gxfZXs0ih9w=w1000-no-tmp.jpg"
+      "id": "02",
+      "cover": "https://lh3.googleusercontent.com/pw/AM-JKLUK9g9n6N0Vu5Qo7KImY0wV9rKLjZe2jt7eL253I3qbzfYW12NNuxLI8gRYgIhXET78Ar2Y2eaCIJsJeYTVr8TI7DInyH4GZLxD4SZPXV_xwHr5-Jd2ROBX4YKTLC-SCCkNKgoDieN5tYGLIqZWApqE=w1000-no-tmp.jpg",
+      "date": 1655696685,
+      "title": "Tớ ước mơ",
+      "author": "Trần Quốc Phúc ",
+      "design": "Táo Vàng",
+      "description": "Với chủ đề “Tớ ước mơ“, trẻ sẽ lắng nghe câu chuyện của những nhân vật giàu tri thức và khát khao khẳng định giá trị bản thân đáng ngưỡng mộ.\n\nChắc hẳn trẻ sẽ ấn tượng với màn giải mưu kế thông minh của Trạng nguyên Nguyễn Hiền, cảm kích với pha xử lý khéo léo của tướng Lưu Dung trong tình huống nguy cấp hay xúc động với tinh thần hiếu học của bạn nhỏ Trọng Nhân, Mỗi câu chuyện sẽ là một dịp vun đắp trong trẻ sự ham học hỏi, biết cách nuôi dưỡng ước mơ và nỗ lực đến cùng để biến chúng thành hiện thực.",
+      "topics": ["1"]
     },
     {
-      "cover": "https://lh3.googleusercontent.com/pw/AM-JKLWKShmUhVVZvjowEXgw3Nk2ZzM9dw_mCFQSXg6oI-PtUJE84cnGGBVgDDn1ifhoTChA14E_qw_HJAv39SJtOXesLK1iwuPYcOhri_yS3xc2R5qiTaeexNUZycp4KIxmsTXX8E1AKUf19gxfZXs0ih9w=w1000-no-tmp.jpg"
+      "id": "03",
+      "cover": "https://lh3.googleusercontent.com/pw/AM-JKLUtGVGkO20N8efkHTFDYZ1WHGPZmHPI3m0aFkL_k0qt3z3fNHiDbGShkWt8ZhFQrIF-PYjlyCbjoKuABIhs5bjGO8x1uP1qvrS90oJQPq_7Kwr_6ViDG7-PWWnqkACTxllnWOhTcEcqEjP4dQuJT2ZI=w1000-no-tmp.jpg",
+      "date": 1655696685,
+      "title": "Tớ thông thái",
+      "author": "Trần Quốc Phúc ",
+      "design": "Táo Vàng",
+      "description": "Thông qua lối ứng xử của nhân vật, trẻ sẽ rèn luyện được sự khéo léo, thông minh trong các tình huống khó khăn, biết tự giác học tập, tìm hiểu kiến thức qua những tấm gương sáng hay chủ động nhờ đến sự giúp đỡ khi cần, Qua sách “Tớ thông thái”, trẻ sẽ thêm tò mò và khao khát trải nghiệm những điều mới mẻ trong cuộc sống.",
+      "topics": ["1"]
     },
     {
-      "cover": "https://lh3.googleusercontent.com/pw/AM-JKLWKShmUhVVZvjowEXgw3Nk2ZzM9dw_mCFQSXg6oI-PtUJE84cnGGBVgDDn1ifhoTChA14E_qw_HJAv39SJtOXesLK1iwuPYcOhri_yS3xc2R5qiTaeexNUZycp4KIxmsTXX8E1AKUf19gxfZXs0ih9w=w1000-no-tmp.jpg"
+      "id": "04",
+      "cover": "https://lh3.googleusercontent.com/pw/AM-JKLWs1ZxFmW9z0_tAnvllzClZ-y7G3jXwJFwiC1DNnNRu7cDKcgj_9MtFVXIQBO0SbMIxdyuaR8kOD3jAqzewrEdLyzQzTuwYEy0hmZi7ugX_OlPyvllhhv8Zqw7ILrcoJelBXJM1l79G81TUBRv-y4Pd=w1000-no-tmp.jpg",
+      "date": 1655696685,
+      "title": "Tớ có thói quen tốt",
+      "author": "Trần Quốc Phúc ",
+      "design": "Táo Vàng",
+      "description": "Đến với chủ đề “Tớ có thói quen tốt“, trẻ sẽ học hỏi và nuôi dưỡng những thói quen tích cực trong cuộc sống hằng ngày.\n\nCác bài học bổ ích thông qua 16 mẫu chuyện hay có thể kể đến như: chăm luyện tập thể thao nâng cao sức khỏe, làm việc kiên trì đến cùng để có kết quả tốt nhất, đi ngủ đúng giờ, ăn uống điều độ, Nhờ đó, trẻ sẽ tự giác hơn trong chăm sóc và phát triển bản thân.",
+      "topics": ["1"]
+    },
+    {
+      "id": "05",
+      "cover": "https://lh3.googleusercontent.com/pw/AM-JKLUjybTAqTVgHbcTzlCr_LNhVDiB_xIDSmKOX5ilSM1zmjomxaLSWx1CMNWYSriIM8yo2_5K0bkDbRJXV40E3tGCgz30Fm24_xVkveZiFEqAuGJ4RgegFN3kAtzKDUYnN7GFQixkvsX63w5CSIawpwJn=w1000-no-tmp.jpg",
+      "date": 1655696685,
+      "title": "Tớ biết ơn",
+      "author": "Trần Quốc Phúc ",
+      "design": "Táo Vàng",
+      "description": "Xuất phát từ truyền thống “Uống nước nhớ nguồn“ đáng quý của dân tộc Việt, chủ đề “Tớ biết ơn“ là trải nghiệm nuôi dưỡng nhân cách quan trọng dành cho trẻ.\n\n Không chỉ dạy trẻ cách đón nhận, biết ơn người đã giúp đỡ mình như ông bà, cha mẹ hay những người xung quanh, sách “Tớ biết ơn“ còn cho trẻ biết trân quý những món đồ vật đã từng đồng hành, ghi nhận công dụng mà nó mang lại để luôn nâng niu và gìn giữ.",
+      "topics": ["1"]
     }
   ],
   "topics": [
