@@ -1,42 +1,42 @@
 1
-00:02:14,463 --> 00:02:18,603
-cảm ơn các con luôn chăm chỉ
-ham học hỏi và cố gắng không
+00:00:00,000 --> 00:00:03,783
+Bạn đang nghe cuốn sách Tớ ước
+mơ được độc quyền tại ứng dụng
 
 2
-00:02:09,963 --> 00:02:14,463
-trẻ cảm ơn phụ huynh đã tin
-tưởng và lựa chọn cùng với đó
-
-3
-00:01:51,023 --> 00:01:55,563
-thông thái lòng yêu thương và
-những thói quen tốt cùng với đó
-
-4
-00:02:01,143 --> 00:02:05,403
-tôi gửi lời cảm ơn những cộng
-sự Táo Vàng nỗ lực và tâm huyết
-
-5
-00:01:30,623 --> 00:01:34,463
-chất tốt cho bé hội tụ trong
-từng trang sách là những câu
-
-6
 00:00:03,783 --> 00:00:08,043
 học tập Táo Vàng tác giả Trần
 Quốc Phúc nhà xuất bản đại học
 
-7
-00:00:57,103 --> 00:01:01,003
-những áp lực khi nuôi dạy con
-đồng thời tạo nên niềm vui và
+3
+00:00:08,043 --> 00:00:14,163
+quốc gia thành phố Hồ Chí Minh.
+Tớ ước mơ hãy cứ khát khao hãy
 
-8
+4
 00:00:14,163 --> 00:00:21,203
 cứ dạy khờ. Hai mươi câu chuyện
 dạy con ước mơ và hoài bão
+
+5
+00:00:22,063 --> 00:00:28,083
+lời ngõ cha mẹ thân mến khi bạn
+cầm trên tay bộ sách này tôi
+
+6
+00:00:28,083 --> 00:00:31,563
+biết bạn đã có một hành trình
+đầy thú vị khi nuôi dạy những
+
+7
+00:00:31,563 --> 00:00:34,983
+đứa con của mình là kỷ lục gia
+thế giới với hành trình mười
+
+8
+00:00:34,983 --> 00:00:38,163
+năm đồng hành cùng cha mẹ
+chuyển đổi tôi cũng là một
 
 9
 00:00:38,163 --> 00:00:41,763
@@ -44,49 +44,49 @@ người cha nên phần nào hiểu
 được rằng xen lẫn trong những
 
 10
-00:00:00,000 --> 00:00:03,783
-Bạn đang nghe cuốn sách Tớ ước
-mơ được độc quyền tại ứng dụng
-
-11
-00:01:05,263 --> 00:01:09,943
-thực hiện sứ mệnh ấy chưa dừng
-lại ở đó tôi nhận ra rằng con
-
-12
-00:01:26,663 --> 00:01:30,623
-trọn bộ năm quyển sách tổng hợp
-những câu chuyện rèn luyện phẩm
-
-13
-00:00:31,563 --> 00:00:34,983
-đứa con của mình là kỷ lục gia
-thế giới với hành trình mười
-
-14
 00:00:41,763 --> 00:00:45,903
 cảm xúc hạnh phúc bạn vẫn còn
 những nỗi lo lắng trăn trở và
 
+11
+00:00:45,903 --> 00:00:49,263
+buồn phiền khi không biết dạy
+con thế nào cho đúng cách không
+
+12
+00:00:49,263 --> 00:00:52,983
+biết nói sao cho trẻ hợp tác và
+càng hoang mang hơn trong việc
+
+13
+00:00:52,983 --> 00:00:57,103
+lựa chọn cách dạy phù hợp cho
+con trẻ nhằm giúp cho giảm tải
+
+14
+00:00:57,103 --> 00:01:01,003
+những áp lực khi nuôi dạy con
+đồng thời tạo nên niềm vui và
+
 15
-00:01:42,383 --> 00:01:46,103
-mười hạt giống phẩm chất thành
-công để các bé thực hành theo
+00:01:01,003 --> 00:01:05,263
+sự gắn kết hơn nữa với trẻ tôi
+đã tạo ra ứng dụng táo vàng để
 
 16
-00:01:55,563 --> 00:02:01,143
-mã QR để có thể tải và sử dụng
-miễn phí Táo Vàng sau tất cả
+00:01:05,263 --> 00:01:09,943
+thực hiện sứ mệnh ấy chưa dừng
+lại ở đó tôi nhận ra rằng con
 
 17
-00:01:34,463 --> 00:01:38,543
-chuyện nhỏ với ngôn từ trực
-quan dễ hiểu tương ứng với từng
+00:01:09,943 --> 00:01:12,883
+phát triển hành vi rất nhanh
+thông qua những câu chuyện kể
 
 18
-00:01:20,743 --> 00:01:26,663
-đó là lý do tôi tạo ra bộ sách
-chọn thành nhân chạm thành với
+00:01:12,883 --> 00:01:16,843
+thay vì bạn nói rất nhiều chỉ
+cần kể cho con nghe câu chuyện
 
 19
 00:01:16,843 --> 00:01:20,743
@@ -94,74 +94,74 @@ về những hành động tốt con tự
 khắc sẽ hành động như bản năng
 
 20
-00:02:18,603 --> 00:02:22,683
-ngừng để tiếp thu những ý nghĩa
-lớn lao được truyền tải qua
+00:01:20,743 --> 00:01:26,663
+đó là lý do tôi tạo ra bộ sách
+chọn thành nhân chạm thành với
 
 21
+00:01:26,663 --> 00:01:30,623
+trọn bộ năm quyển sách tổng hợp
+những câu chuyện rèn luyện phẩm
+
+22
+00:01:30,623 --> 00:01:34,463
+chất tốt cho bé hội tụ trong
+từng trang sách là những câu
+
+23
+00:01:34,463 --> 00:01:38,543
+chuyện nhỏ với ngôn từ trực
+quan dễ hiểu tương ứng với từng
+
+24
 00:01:38,543 --> 00:01:42,383
 phẩm chất thú vị ở chỗ trong
 từng quyển sách tôi tặng kèm
 
-22
-00:00:28,083 --> 00:00:31,563
-biết bạn đã có một hành trình
-đầy thú vị khi nuôi dạy những
-
-23
-00:00:45,903 --> 00:00:49,263
-buồn phiền khi không biết dạy
-con thế nào cho đúng cách không
-
-24
-00:02:05,403 --> 00:02:09,963
-để cùng tạo nên bộ sách này để
-bộ sách có thể đến được với con
-
 25
+00:01:42,383 --> 00:01:46,103
+mười hạt giống phẩm chất thành
+công để các bé thực hành theo
+
+26
 00:01:46,103 --> 00:01:51,023
 nhờ đó các con sẽ dám ước mơ
 lớn rèn luyện lòng biết ơn sự
 
-26
-00:01:09,943 --> 00:01:12,883
-phát triển hành vi rất nhanh
-thông qua những câu chuyện kể
-
 27
-00:01:12,883 --> 00:01:16,843
-thay vì bạn nói rất nhiều chỉ
-cần kể cho con nghe câu chuyện
+00:01:51,023 --> 00:01:55,563
+thông thái lòng yêu thương và
+những thói quen tốt cùng với đó
 
 28
-00:00:22,063 --> 00:00:28,083
-lời ngõ cha mẹ thân mến khi bạn
-cầm trên tay bộ sách này tôi
+00:01:55,563 --> 00:02:01,143
+mã QR để có thể tải và sử dụng
+miễn phí Táo Vàng sau tất cả
 
 29
-00:00:52,983 --> 00:00:57,103
-lựa chọn cách dạy phù hợp cho
-con trẻ nhằm giúp cho giảm tải
+00:02:01,143 --> 00:02:05,403
+tôi gửi lời cảm ơn những cộng
+sự Táo Vàng nỗ lực và tâm huyết
 
 30
-00:00:49,263 --> 00:00:52,983
-biết nói sao cho trẻ hợp tác và
-càng hoang mang hơn trong việc
+00:02:05,403 --> 00:02:09,963
+để cùng tạo nên bộ sách này để
+bộ sách có thể đến được với con
 
 31
-00:01:01,003 --> 00:01:05,263
-sự gắn kết hơn nữa với trẻ tôi
-đã tạo ra ứng dụng táo vàng để
+00:02:09,963 --> 00:02:14,463
+trẻ cảm ơn phụ huynh đã tin
+tưởng và lựa chọn cùng với đó
 
 32
-00:00:34,983 --> 00:00:38,163
-năm đồng hành cùng cha mẹ
-chuyển đổi tôi cũng là một
+00:02:14,463 --> 00:02:18,603
+cảm ơn các con luôn chăm chỉ
+ham học hỏi và cố gắng không
 
 33
-00:00:08,043 --> 00:00:14,163
-quốc gia thành phố Hồ Chí Minh.
-Tớ ước mơ hãy cứ khát khao hãy
+00:02:18,603 --> 00:02:22,683
+ngừng để tiếp thu những ý nghĩa
+lớn lao được truyền tải qua
 
 34
 00:02:22,683 --> 00:02:25,823
