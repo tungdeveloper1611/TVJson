@@ -1390,50 +1390,155 @@
       "cover": "https://lh3.googleusercontent.com/TbJkOWYvp4tuyoyha1qAHfT0NLPHG4zQ_-3z8qcXRyjuTaLqa_LMuWE5gpS-PiA1dqpvCUlrL8k5CjrkAL3Vb_wLoS_sV85bpNUulVg0Lcybu1mTrRqdZ6xuogjc43fdTi_Ji0KZcHV7g9EFT9Ip7VcH-qz9n1wCJl-CBj43_t35Ue4bLTqaPjADiXR8h0NiAnQ38R3UN6olx1eNrbLgw00J9OvuIXtw_G4joUYdn6P4T9DA1ltW1ns5uLEmCWQ1AnXj7ffNVaeKdx7uA6UPQ9BCdiEZws90_FPKG8xqfGemZr63rYqinis60OzYPW7Tw7T4KdjqvSWA0uU6l-96IUATyyw6Tbaqsa-jGZ2tES0GiikC27SWF7OSgsBty47G_nMWO1ZWXq87PyDRgoLPbAoOlNqC2N-sSPfhxwbaeYnSoT6UuXjjDH0j0_U-oQTY5JXd8syg0pviocYi_pJtKPxDRMjujmwDsm19iq65n39jI6d4JLzU0rAPzIHGFzILpLoUgxSHo6v2nhs4EHR-11OR82wRG5hhKhAnCGyQYzjP31eruS4NZWFmmjNIRAava7oWpCjpBuxBIUPUrVKYjodbW4iL_0a6SXlcMQ9CP-JEazANI640Em7w5uvrWnWEuDS64EyBTFt0XATFHb1IgEI10bMJA7NbJiMQnMKEIHcQ-2MfVFOrV4wKHLudORKyek_N5rN06kGG0RDYSnYQweoPhyTzpYDos4Dy-VLS_2x8uzKeFr5uASB9SU9kuMYXBDBW0wnUdCHQ7ibkNbqxqb7DG88qk_g31Ui3u0Jc38nygZ9TeNrLnMBtsJ3b0GMGjyW8Lf6ewqVKwac4YwsSFzcXBipyYXuk6Qf4i6c=w1000-no-tmp.jpg"
     }
   ],
-  "videos": [
+  "videos": [],
+  "animes": [
     {
-      "title": "Cuốn sách Tớ Yêu Thương",
-      "author": "Trần Quốc Phúc",
-      "design": "Sáng tạo Olympus",
-      "description": "Sách “Tớ ước mơ” khơi dậy tinh thần nuôi dưỡng, chinh phục hoài bão\n\nVới chủ đề “Tớ ước mơ”, trẻ sẽ lắng nghe câu chuyện của những nhân vật giàu tri thức và khát khao khẳng định giá trị bản thân đáng ngưỡng mộ.\n\nChắc hẳn trẻ sẽ ấn tượng với màn giải mưu kế thông minh của Trạng nguyên Nguyễn Hiền, cảm kích với pha xử lý khéo léo của tướng Lưu Dung trong tình huống nguy cấp hay xúc động với tinh thần hiếu học của bạn nhỏ Trọng Nhân, Mỗi câu chuyện sẽ là một dịp vun đắp trong trẻ sự ham học hỏi, biết cách nuôi dưỡng ước mơ và nỗ lực đến cùng để biến chúng thành hiện thực.",
-      "url": "https://player.vimeo.com/progressive_redirect/playback/678505539/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=61cf7e6228d79360b11ee08d7e3703da46fb66ca993ad2b5964861c248d87e3a",
-      "thumbnail": "https://i.vimeocdn.com/video/1375031602-17ced8262a06dba9b03e8322d3e84fd0fe8871a42e4eae90dc9550f0fe3d21f9-d?mw=1600&mh=900&q=70",
-      "media_type": "video",
-      "download": true,
-      "fileName": "678505539"
+      "id": "01",
+      "cover": "",
+      "date": 1655696685,
+      "color": "#fff",
+      "tintColor": "#f15a25",
+      "title": "Các bộ phim hoạt hình được yêu thích nhất",
+      "author": "Trần Quốc Phúc ",
+      "design": "Táo Vàng",
+      "videos": [
+        {
+          "id": "01",
+          "title": "Táo ham ăn",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/724113976/rendition/360p/file.mp4?loc=external&oauth2_token_id=1589506909&signature=9b941f7a7dea6ebebb2ea13a2ec3d39f0239abfe172581980f78f4f7135b7a8c",
+          "thumbnail": "https://i.vimeocdn.com/video/1458020305-e5444ba68af5ced4771e365ecc2cc3cf785ac08a3ef0bdc7c007925fb1e91f77-d_640x360?r=pad",
+          "download": true,
+          "fileName": "724113976"
+        },
+        {
+          "id": "02",
+          "title": "Táo biết nhận lỗi",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/724114004/rendition/360p/file.mp4?loc=external&oauth2_token_id=1589506909&signature=be453ec1b37c7c711ef2038252f18dd50696cb81d0c080139f5016851af35a86",
+          "thumbnail": "https://i.vimeocdn.com/video/1458007046-2cf627648bf22463fe2e98553710978712f2fe227eaeb002185c6eb44c93fdfb-d_640x360?r=pad",
+          "download": true,
+          "fileName": "724114004"
+        },
+        {
+          "id": "03",
+          "title": "Điểm 10 của Táo",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/724114027/rendition/360p/file.mp4?loc=external&oauth2_token_id=1589506909&signature=00328dd47eee4b3868953df15775b9e2b0cfaebf50776e4469212c7948f297fd",
+          "thumbnail": "https://i.vimeocdn.com/video/1458020993-376be93c27316e8083dccb27572d18a59b0e1480e0d81cb46f79b626afa3d8c2-d_640x360?r=pad",
+          "download": true,
+          "fileName": "724114027"
+        },
+        {
+          "id": "04",
+          "title": "Sự bừa bộn tai hại của Măng Cụt",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/724114052/rendition/360p/file.mp4?loc=external&oauth2_token_id=1589506909&signature=5b67306ddf235b1ecaa878ab024f0cb5af2b7a58e8d0463a0cd21c7d8ebf0345",
+          "thumbnail": "https://i.vimeocdn.com/video/1458021421-d7b3067849f3b7b121f1f9faba51a09468e06368ce4eb3c0e4bd9a4fbae57877-d_640x360?r=pad",
+          "download": true,
+          "fileName": "724114052"
+        },
+        {
+          "id": "05",
+          "title": "Bài học nhớ đời của Dứa",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/724114072/rendition/360p/file.mp4?loc=external&oauth2_token_id=1589506909&signature=e3b656581640e2ee915e6e5518070d5030ddcfed6644d53dbb40b8cd8839056d",
+          "thumbnail": "https://i.vimeocdn.com/video/1458007133-1a954e366243615c2fb3ea648cc0d64b9d2c7e2095804be4aa91f10cb8a12f33-d_640x360?r=pad",
+          "download": true,
+          "fileName": "724114072"
+        }
+      ]
     },
     {
-      "title": "Ứng Xử Tập 02",
-      "author": "Trần Quốc Phúc",
-      "design": "Sáng tạo Olympus",
-      "description": "Sách “Tớ ước mơ” khơi dậy tinh thần nuôi dưỡng, chinh phục hoài bão\n\nVới chủ đề “Tớ ước mơ”, trẻ sẽ lắng nghe câu chuyện của những nhân vật giàu tri thức và khát khao khẳng định giá trị bản thân đáng ngưỡng mộ.\n\nChắc hẳn trẻ sẽ ấn tượng với màn giải mưu kế thông minh của Trạng nguyên Nguyễn Hiền, cảm kích với pha xử lý khéo léo của tướng Lưu Dung trong tình huống nguy cấp hay xúc động với tinh thần hiếu học của bạn nhỏ Trọng Nhân, Mỗi câu chuyện sẽ là một dịp vun đắp trong trẻ sự ham học hỏi, biết cách nuôi dưỡng ước mơ và nỗ lực đến cùng để biến chúng thành hiện thực.",
-      "url": "https://player.vimeo.com/progressive_redirect/playback/678505673/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=4eaf18d224fcfe2c9971e31f6288c62d8e9f028121f43b1886f8eda8d818c276",
-      "thumbnail": "https://i.vimeocdn.com/video/1375031829-a3279aef6c0da99e5ba6fdca3fe433881349a519a73d5ee7bb7daa767d11151b-d?mw=1600&mh=900&q=70",
-      "media_type": "video",
-      "download": true,
-      "fileName": "678505673"
+      "id": "02",
+      "cover": "",
+      "date": 1655696685,
+      "color": "#fff",
+      "tintColor": "#f15a25",
+      "title": "Cùng Táo ngược dòng lịch sử",
+      "author": "Trần Quốc Phúc ",
+      "design": "Táo Vàng",
+      "videos": [
+        {
+          "id": "01",
+          "title": "Bé Táo so tài cùng Trạng Lường Lương Thế Vinh",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/724114187/rendition/360p/file.mp4?loc=external&oauth2_token_id=1589506909&signature=bd441f7751ad43c429663a1ba1692b91be4c9a3e07a4ccb1335643b49b6cc047",
+          "thumbnail": "https://i.vimeocdn.com/video/1458022846-3358a6c6694fc3295692e9edc4589b9edcff9a36dff10632aecaf7d5ac7ae4fb-d_640x360?r=pad",
+          "download": true,
+          "fileName": "724114187"
+        },
+        {
+          "id": "02",
+          "title": "Bé Táo xuyên không gặp Trần Quốc Toản",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/724114228/rendition/360p/file.mp4?loc=external&oauth2_token_id=1589506909&signature=88f8534860b44ef43c1e8bb11852f08e1b8be36b0697040743dd209e51a01a77",
+          "thumbnail": "https://i.vimeocdn.com/video/1458022735-c1c69e583849723796cf5035ebb14342091b2eedf7fb641a2f7398dbe185f0de-d_640x360?r=pad",
+          "download": true,
+          "fileName": "724114228"
+        },
+        {
+          "id": "03",
+          "title": "Bé Táo ngược dòng lịch sử cùng Cao Bá Quát",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/724114247/rendition/360p/file.mp4?loc=external&oauth2_token_id=1589506909&signature=007bca7004ba8924808faabf26a3fd29854aaf0adf4291d820f97240c3967c76",
+          "thumbnail": "https://i.vimeocdn.com/video/1458022980-b3a523bcf5d2848269c97cf7c01884c2dcd22cdbf88ef8c644f44603736c4283-d_640x360?r=pad",
+          "download": true,
+          "fileName": "724114247"
+        }
+      ]
     },
     {
-      "title": "Ứng Xử Tập 03",
-      "author": "Trần Quốc Phúc",
-      "design": "Sáng tạo Olympus",
-      "description": "Sách “Tớ ước mơ” khơi dậy tinh thần nuôi dưỡng, chinh phục hoài bão\n\nVới chủ đề “Tớ ước mơ”, trẻ sẽ lắng nghe câu chuyện của những nhân vật giàu tri thức và khát khao khẳng định giá trị bản thân đáng ngưỡng mộ.\n\nChắc hẳn trẻ sẽ ấn tượng với màn giải mưu kế thông minh của Trạng nguyên Nguyễn Hiền, cảm kích với pha xử lý khéo léo của tướng Lưu Dung trong tình huống nguy cấp hay xúc động với tinh thần hiếu học của bạn nhỏ Trọng Nhân, Mỗi câu chuyện sẽ là một dịp vun đắp trong trẻ sự ham học hỏi, biết cách nuôi dưỡng ước mơ và nỗ lực đến cùng để biến chúng thành hiện thực.",
-      "url": "https://player.vimeo.com/progressive_redirect/playback/678505778/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=b3a3e5f1c30ffc60f1341ec4d970adf7679361933e351ef9af52817859f5dd04",
-      "thumbnail": "https://i.vimeocdn.com/video/1375032056-4a15bd84657a03729fc27be8f3eb8442fc4de6d0754308b1b29a5a9c82e453d7-d?mw=1600&mh=900&q=70",
-      "media_type": "video",
-      "download": true,
-      "fileName": "678505778"
-    },
-    {
-      "title": "Ứng Xử Tập 04",
-      "author": "Trần Quốc Phúc",
-      "design": "Sáng tạo Olympus",
-      "description": "Sách “Tớ ước mơ” khơi dậy tinh thần nuôi dưỡng, chinh phục hoài bão\n\nVới chủ đề “Tớ ước mơ”, trẻ sẽ lắng nghe câu chuyện của những nhân vật giàu tri thức và khát khao khẳng định giá trị bản thân đáng ngưỡng mộ.\n\nChắc hẳn trẻ sẽ ấn tượng với màn giải mưu kế thông minh của Trạng nguyên Nguyễn Hiền, cảm kích với pha xử lý khéo léo của tướng Lưu Dung trong tình huống nguy cấp hay xúc động với tinh thần hiếu học của bạn nhỏ Trọng Nhân, Mỗi câu chuyện sẽ là một dịp vun đắp trong trẻ sự ham học hỏi, biết cách nuôi dưỡng ước mơ và nỗ lực đến cùng để biến chúng thành hiện thực.",
-      "url": "https://player.vimeo.com/progressive_redirect/playback/678505894/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=fa514229b9dc8f5e1e955401076463cacd11bb66ffe6bf7bb1ce1d92e4356b2b",
-      "thumbnail": "https://i.vimeocdn.com/video/1375032859-69b68b05ad21f13b64e20d482efb8bd53ece5c6cfb917a927778eac6fdf4414a-d?mw=1600&mh=900&q=70",
-      "media_type": "video",
-      "download": true,
-      "fileName": "678505894"
+      "id": "03",
+      "cover": "",
+      "date": 1655696685,
+      "color": "#fff",
+      "tintColor": "#f15a25",
+      "title": "50 hạt giống Táo Vàng",
+      "author": "Trần Quốc Phúc ",
+      "design": "Táo Vàng",
+      "videos": [
+        {
+          "id": "01",
+          "title": "Bí kíp luyện rồng của Táo",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/724114365/rendition/360p/file.mp4?loc=external&oauth2_token_id=1589506909&signature=12c4a60fbe3bf28dfeddd6f140cddab982387ffeb441d8e89cb375a9fa22bbf4",
+          "thumbnail": "https://i.vimeocdn.com/video/1458007729-768362e8f2780ea19882f16cbe3fc778f408df0042dc4380eb2c79398798d867-d_640x360?r=pad",
+          "download": true,
+          "fileName": "724114365"
+        },
+        {
+          "id": "02",
+          "title": "Người thầy vĩ đại",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/724114391/rendition/360p/file.mp4?loc=external&oauth2_token_id=1589506909&signature=57a1b5fe4de8fde58b0b727984863b49076d68ee068a95d0fd62f17159a7c3b4",
+          "thumbnail": "https://i.vimeocdn.com/video/1458007919-4289004aff9e447b4e24c3d3dac3813f2a5e18a41b4954f67f5f32f221d4787f-d_640x360?r=pad",
+          "download": true,
+          "fileName": "724114391"
+        },
+        {
+          "id": "03",
+          "title": "Bài học về sự biết đủ của Bé Táo",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/724114426/rendition/360p/file.mp4?loc=external&oauth2_token_id=1589506909&signature=7bd1a79118c412c6cf6efef1e41ebe11c26e380f97300eff1151bbdddc2976c7",
+          "thumbnail": "https://i.vimeocdn.com/video/1458008022-003cc17d2954406d4e2337b3d0c53c00b2f7777196eb01fa08e0a357a56ac392-d_640x360?r=pad",
+          "download": true,
+          "fileName": "724114426"
+        },
+        {
+          "id": "04",
+          "title": "Bé Táo trở thành thủ lĩnh canh vườn",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/724114460/rendition/360p/file.mp4?loc=external&oauth2_token_id=1589506909&signature=a4624574ed160871f6b2e903779e836fa93572ad3ac652f770ab8d0e8b9bef30",
+          "thumbnail": "https://i.vimeocdn.com/video/1458007940-740651ccd16935d28fe6bdc7c7fc811da18f3f83c74d1961bbc755daa685cec5-d_640x360?r=pad",
+          "download": true,
+          "fileName": "724114460"
+        },
+        {
+          "id": "05",
+          "title": "Món quà Noel bất ngờ của Bé Táo",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/724114475/rendition/360p/file.mp4?loc=external&oauth2_token_id=1589506909&signature=b8a09ca3b02f6115240ebaa090e62c8c25712ec92a0a59a7863ec53323dc50ee",
+          "thumbnail": "https://i.vimeocdn.com/video/1458008027-a14d0dacb412614c450e177005dc647668c283627603e7502c3e124601bd26f0-d_640x360?r=pad",
+          "download": true,
+          "fileName": "724114475"
+        },
+        {
+          "id": "06",
+          "title": "Nụ cười kì diệu của hạt giống tươi cười",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/724114493/rendition/360p/file.mp4?loc=external&oauth2_token_id=1589506909&signature=1a42e24e0e4ecf761111a25e07a6425eceb80e0d2e83d3cd61c068487a41323f",
+          "thumbnail": "https://i.vimeocdn.com/video/1458008115-96f3817abb5442a1b7f6835d9f7800ddfbcff5d5bfae6d5fa8975f0e0e02c62b-d_640x360?r=pad",
+          "download": true,
+          "fileName": "724114493"
+        }
+      ]
     }
   ],
   "price": {

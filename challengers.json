@@ -861,11 +861,11 @@
       },
       {
         "name": "Tập 30",
-        "url": "https://player.vimeo.com/progressive_redirect/playback/678507968/rendition/360p?loc=external&oauth2_token_id=1589506909&signature=86ff78194271dd811d0980fcf3e8f6f60fe81d062f4b66234d603f89d138d9ec",
+        "url": "https://player.vimeo.com/progressive_redirect/playback/724113702/rendition/360p/file.mp4?loc=external&signature=4eac2861bebdb27ba717a4ff68e2066ad6e17def4f16f25218e77466ae1f068e",
         "thumbnail": "https://i.vimeocdn.com/video/1228024997_1920x1080?r=pad",
         "media_type": "video",
         "download": true,
-        "fileName": "678507968"
+        "fileName": "724113702"
       }
     ],
     "icon": [
