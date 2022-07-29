@@ -1,20 +1,20 @@
 [
-    {
+  {
     "icon": "phone-in-talk",
     "label": "0906639715",
     "link": "tel:0906639715",
     "color": "#16a085"
-    },
-    {
+  },
+  {
     "icon": "phone-in-talk",
-    "label": "0902822197",
-    "link": "tel:0906639715",
+    "label": "0906382092",
+    "link": "tel:0906382092",
     "color": "#16a085"
-    },
-    {
+  },
+  {
     "icon": "facebook-messenger",
     "label": "Facebook Táo Vàng",
     "link": "http://m.me/taovang.edu.vn/",
     "color": "#006AFF"
-    }
+  }
 ]
