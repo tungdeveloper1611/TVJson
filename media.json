@@ -7,6 +7,7 @@
     "code": "",
     "price": "100",
     "membership": true,
+    "exception": false,
     "kid": true,
     "parent": false,
     "type": "audio",
@@ -183,6 +184,7 @@
     "code": "",
     "price": "5",
     "membership": true,
+    "exception": false,
     "kid": true,
     "parent": false,
     "type": "video",
@@ -260,6 +262,7 @@
     "code": "",
     "price": "5",
     "membership": false,
+    "exception": true,
     "kid": false,
     "parent": true,
     "type": "video",
@@ -424,6 +427,7 @@
     "code": "",
     "price": "199",
     "membership": false,
+    "exception": true,
     "kid": false,
     "parent": true,
     "type": "audio",
@@ -802,6 +806,7 @@
     "code": "",
     "price": "149",
     "membership": true,
+    "exception": false,
     "kid": false,
     "parent": true,
     "type": "audio",
@@ -1102,6 +1107,7 @@
     "code": "",
     "price": "1000",
     "membership": true,
+    "exception": false,
     "kid": false,
     "parent": true,
     "type": "video",
@@ -1392,6 +1398,7 @@
     "code": "",
     "price": "1000",
     "membership": true,
+    "exception": false,
     "kid": false,
     "parent": true,
     "type": "audio",
@@ -1766,6 +1773,7 @@
     "code": "",
     "price": "1000",
     "membership": true,
+    "exception": false,
     "kid": false,
     "parent": true,
     "type": "audio",
@@ -2079,6 +2087,7 @@
     "code": "",
     "price": "1000",
     "membership": true,
+    "exception": false,
     "kid": false,
     "parent": true,
     "type": "video",
@@ -2155,6 +2164,7 @@
     "img": "https://lh3.googleusercontent.com/pw/AM-JKLXWvcBRmE-7eHxrvYcnPhdAdWrAnnUpXKIeFi8SvUx_Mjpu-mxAMDEaPjKA3_EKS-SfRyFPvavdqF6ibN3aSjnp7tl3eWu65zO7mUU8imHmWs93blVi7GjJaIGA3wP0Ea9kkMwGb9fuMDw6du76BJ-A=w1024-h1032-no?authuser=0",
     "price": "1000",
     "membership": true,
+    "exception": false,
     "type": "audio",
     "media": [
       {
@@ -2727,6 +2737,7 @@
     "img": "https://lh3.googleusercontent.com/pw/AM-JKLV6DLckxTUHahp2Li8SrKBiciIbqFATnCI3OxtjLTxI10sZvQ4oTlNZ4U4KtkLbpxQIfrJ0rrhgGwzVo2nMVKx4N5VrUCu4GI7jWPoNHlQXws46LsbkoSuBA3QpK--iPdU2MIhN2UuZTWBGtp5pnSqc=w1024-h1032-no?authuser=0",
     "price": "1000",
     "membership": true,
+    "exception": false,
     "type": "audio",
     "media": [
       {
@@ -3299,6 +3310,7 @@
     "img": "https://lh3.googleusercontent.com/pw/AM-JKLXBZQ5m7HqW-qhGLAxSXfIkrg5Qt73ozQ2q1vIlCOt4Gj5NLhJh48F6cMHbp2L6N2re4s_HS-ZB-3QoB0x_nbD8RmnH523UqZDUr_4b3NFHQZA_bwiChx0lmFrq9eL2ZePvPoyaxwswEaX3dZOaN56d=w1024-h1032-no?authuser=0",
     "price": "2000",
     "membership": true,
+    "exception": false,
     "type": "audio",
     "media": [
       {
@@ -3860,6 +3872,7 @@
     "code": "",
     "price": "2000",
     "membership": false,
+    "exception": true,
     "type": "video",
     "media": [
       {
