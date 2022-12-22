@@ -3871,7 +3871,7 @@
     "img": "https://lh3.googleusercontent.com/pw/AM-JKLXnLZBjfwuEpfzWZ78EWEnaB0c_Es4Efw6I5QpjOhURVrAvmYcq9JFPEbXWnayBlmoDLwWRkUKMIeXnf09nZytG-GcgYOjOm-gw92q2bVrpRu3UHKbN_1rhwM_XOI1zcP2A59MyKQ5kWxmCzYvyBv57=w1024-h1032-no?authuser=0",
     "code": "",
     "price": "2000",
-    "membership": false,
+    "membership": true,
     "exception": true,
     "type": "video",
     "media": [
