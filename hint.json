@@ -126,14 +126,14 @@
   {
     "type": "todo",
     "name": "todo",
-    "hint": "https://player.vimeo.com/external/626247851.m3u8?s=8c03531cf0b27a6f1d6b499161414b8dbb2480d7",
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/731212255/rendition/360p/file.mp4?loc=external&signature=42962e2aef00f6922e239d746f8eacd2fb11dc7aedd45d692bbdd3930be70c02",
     "for": "kid",
     "touch": "modal"
   },
   {
     "type": "todo",
     "name": "todo",
-    "hint": "https://player.vimeo.com/external/626247851.m3u8?s=8c03531cf0b27a6f1d6b499161414b8dbb2480d7",
+    "hint": "https://player.vimeo.com/progressive_redirect/playback/731212255/rendition/360p/file.mp4?loc=external&signature=42962e2aef00f6922e239d746f8eacd2fb11dc7aedd45d692bbdd3930be70c02",
     "for": "parent",
     "touch": "modal"
   },
