@@ -1,6 +1,12 @@
 [
   {
     "icon": "phone-in-talk",
+    "label": "Chăm sóc khách hàng",
+    "link": "tel:0906639715",
+    "color": "#16a085"
+  },
+  {
+    "icon": "phone-in-talk",
     "label": "Coach Anh Thơ",
     "link": "tel:0965835259",
     "color": "#16a085"
