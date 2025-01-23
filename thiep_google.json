@@ -1,0 +1,110 @@
+{
+  "title": "Thiệp",
+  "type": "thiep",
+  "data": [
+    {
+      "name": "Cảm ơn",
+      "url": "https://storage.googleapis.com/tao-vang-b7d29.appspot.com/videos/704388036.mp4",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "704388036",
+      "color": "#fec842",
+      "borderColor": "#faaf41",
+      "back": 1,
+      "icon": "https://lh3.googleusercontent.com/pw/AM-JKLV3rCpRKukXtRIMIBqz19hlIiwtj5507krsmvLICbSv0w2_4OdJOLRr2VEgNI-g7IhlJc3UFBpFSKSW-O4f_JwUewM11Hae2V0IyrdhWqUydZqvPA000TaAXpGeM-sUydI09SqDSAHemD9zGtUZwgBk=w1000-no-tmp.jpg",
+      "detail": "https://lh3.googleusercontent.com/pw/AM-JKLVdmnChhxT4mck5WKuuvaXmSl2ZAiVsBnjuHAxkmVwdmJDMnNrqdF_9TmF_JAzCL-Dr4RSi2Ae5WjEEy-GM9FbcQ1VM-MliaIpl1CdZGMdoyQa_0xT8mDiV4lHh9bhravqXAKcFgiKDsv9UVM4BP8Zo=w1000-no-tmp.jpg"
+    },
+    {
+      "name": "Xin lỗi",
+      "url": "https://storage.googleapis.com/tao-vang-b7d29.appspot.com/videos/704388257.mp4",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "704388257",
+      "color": "#039f4b",
+      "borderColor": "#bfd741",
+      "back": 0,
+      "icon": "https://lh3.googleusercontent.com/pw/AM-JKLV-HC43-2_uq_wWEt8okvB5yNpEzG7F8Wh7WySDw3H68LXTAAtiqTPgX_gg4Rtrtgox5TPQ8cQFwJK6nQXbXPUIgSvZYnPMi5rLMuUbKad28o07yaFR9RavzKjCf1j4PHZVyAu-_7kNDRL0gubb5j64=w1000-no-tmp.jpg",
+      "detail": "https://lh3.googleusercontent.com/pw/AM-JKLUpQhvltIoiSTAiFoY2OBHbxSYW_6KHTEPPQJcuD7cekJUZB75VU4SIKF2Uc7S3_qNxbJoDcd1-gO4gFol3G7Hfg7gGW-zOUlIcESXGZLAjAB40tgwiHOO08cI3NqBLzsF6iIiotlwSht7uvF3qxAec=w1000-no-tmp.jpg"
+    },
+    {
+      "name": "Chúc mừng",
+      "url": "https://storage.googleapis.com/tao-vang-b7d29.appspot.com/videos/704388093.mp4",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "704388093",
+      "color": "#652d90",
+      "borderColor": "#ed297b",
+      "back": 3,
+      "icon": "https://lh3.googleusercontent.com/pw/AM-JKLV5LQLxz6zaTgV9esGuVjzm9QHcleNCAgGmXND_XJOO9ChQBu3HaeJW2wNSYrJ3maulLjhB3K8O9IuwVgLibdPu-RYWuhA-pu1r7S6ZZ0uOhfF1oRQllvsnD0q6e-aYJuOVtMF3Mf8qW7HxQzP-fbuG=w1000-no-tmp.jpg",
+      "detail": "https://lh3.googleusercontent.com/pw/AM-JKLX5n6XMXRFbtj_InglY5dtjGvIW7a6y53u-t2LC8kTY01NTEXLXpwcDA_EZzKPRcYQ6Gio9y_XD-yX8I-2c8PdEqF9Aup3oG0wikOwyIQFuZ8o8-j7xfjWDKkJA20rchVzeCIeHSf9rgAEJhm0ysr6U=w1000-no-tmp.jpg"
+    },
+    {
+      "name": "Chia sẻ",
+      "url": "https://storage.googleapis.com/tao-vang-b7d29.appspot.com/videos/704388070.mp4",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "704388070",
+      "color": "#ed7785",
+      "borderColor": "#ed297b",
+      "back": 1,
+      "icon": "https://lh3.googleusercontent.com/pw/AM-JKLXL1YG_Qe90Sv5SfuYBe1KB-F34zxZ-O4A-m2V1wufcVmpXJrwaPmJXcfw5SRV348irI53eLSqyYXMIF9pPrBBCmTH3aMg1hPriBEZv9zXNV7-GQAMH4e1JV2QbXGqgp4w6uHYnZBdcJYey62w20tsm=w1000-no-tmp.jpg",
+      "detail": "https://lh3.googleusercontent.com/pw/AM-JKLX80xj6f6qQnIrnhGivbTPwxznH5ZK3_NLwTz_9IR5o78mJHX77wLv6nuCaYnSAVcKIR6HnGNpZHziZvYpkBiD3gXuNJ-haPBxjtgPRU76qP-oEh82ukj5StWy9q2ka0Cc_jWs65bJMQHo2PwO8_9-G=w1000-no-tmp.jpg"
+    },
+    {
+      "name": "Cảm kích",
+      "url": "https://storage.googleapis.com/tao-vang-b7d29.appspot.com/videos/704387996.mp4",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "704387996",
+      "color": "#00a69c",
+      "borderColor": "#018683",
+      "back": 3,
+      "icon": "https://lh3.googleusercontent.com/pw/AM-JKLW0Ysw78LTBiHyYR3HNtIDxaZYts838WDTdIM4pGVogq6s3ZmWRFzaFMg9ebe7usGwrzuCI9biQxV7bK4NKHe8rcyt1EsQDWIMqf3cvxJ4xOCFLdIl2zYQBi5GtjAwtorci1jCLnRacteAPYNJHzPjA=w1000-no-tmp.jpg",
+      "detail": "https://lh3.googleusercontent.com/pw/AM-JKLWT1J-dCVTPDIiDAQcBdPmjCNOAMCN655q5Dp9rRjiO9PEkHXZdi93i9XMS2vKVfb59rnrb3nbNnO2o-MnwKeXADE_DERPzQrXw3MNkL_c476pBrh5FOUC_yqqHkgyIUlRIDbzuh3kyE4h0wAzsc_7D=w1000-no-tmp.jpg"
+    },
+    {
+      "name": "Quà tặng",
+      "url": "https://storage.googleapis.com/tao-vang-b7d29.appspot.com/videos/704388229.mp4",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "704388229",
+      "color": "#f68a1e",
+      "borderColor": "#f05a28",
+      "back": 1,
+      "icon": "https://lh3.googleusercontent.com/pw/AM-JKLWeLkTrX_msP3XgaR-ZLanvQhdrtWjlLqy5f2YFcnN0hGTqpsZ_wNZQEnSSXnQ_6UZ8WclthMe8lE7xP-5NMBokDqm1s2Htu6GZJBcs87EXjhORfP1O19rkEIIS7sntYpo03biUZ7kcpC4IWTR6ImlU=w1000-no-tmp.jpg",
+      "detail": "https://lh3.googleusercontent.com/pw/AM-JKLViNgqxCHs-kYS5su-vLtHD0xQBA7RDSwTCs02KnwJq5kBeAVQ-u1yMx4jF7LHGfRko9QthZdP6uPoe23QUhUE-zDAVtlJQOeV_LuYsE3cBqjKoa6E3FZx3WPjNeUtB83y5XIZ8Px8J4YBO0TsMviHb=w1000-no-tmp.jpg"
+    },
+    {
+      "name": "Lời mời",
+      "url": "https://storage.googleapis.com/tao-vang-b7d29.appspot.com/videos/704388175.mp4",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "704388175",
+      "color": "#f12b22",
+      "borderColor": "#f18f22",
+      "back": 2,
+      "icon": "https://lh3.googleusercontent.com/pw/AM-JKLX1g1kDQQbl4K4FLntJZSyWYce0KFE8sBfwjolxlO5zqMjOehbR43S1oyCtMxrOcr2eApXQv5KI5qydXJnSIxidz-RxH33AmyBkA5J20489uF0NuEWds7DwWFlsJhBbEbmVSBOGCK7JSs2U92Mwrmfb=w1000-no-tmp.jpg",
+      "detail": "https://lh3.googleusercontent.com/pw/AM-JKLUD3toVdgM81BY6jUkEUBlI7V79YGW9Du5MlFcMYbQ2RAHx07vRyjkq2oru-D7G8_1VxTTmKbZgxBCAI9Pjw17jF3fcJ8TVltuxEf5_vAxrwzJV5XJtyPErZ0BMhg8iQ7v6wdeM3S3cJ5cO_6ih_-oZ=w1000-no-tmp.jpg"
+    },
+    {
+      "name": "none",
+      "url": "https://storage.googleapis.com/tao-vang-b7d29.appspot.com/videos/704388204.mp4",
+      "thumbnail": "",
+      "media_type": "audio",
+      "download": true,
+      "fileName": "704388204",
+      "color": "#8bc43f",
+      "borderColor": "#38b349",
+      "back": 0,
+      "icon": "https://lh3.googleusercontent.com/pw/AM-JKLXbVLEK6gxn_MnTu1ZKjoWuKuLXOgqZ3CFNVbxwcApBJ349b_3e5W2wPPyF44D6_ThSuDJYntLiRLuYteovmcir9JMAG0cDqO93FisXTo0QEbb-XH-zdNK3udMeSl5czPKi1ZK-FnDy3ZLJiG0F-O5s=w1000-no-tmp.jpg",
+      "detail": "https://lh3.googleusercontent.com/pw/AM-JKLWZUEWNJRerkJS0WOYjN6kMB6nAN5h17CkwAgqiJl7bCYD6s6oUuN-rK-PHqYCUdUHgkOC_MJlHIFFPmou8X7c7svhCNLCq4gzvbQDUeAJINOAEuacpVwHBEzr4lk4NtuDP-SI72uhlg18kHNjt1pOU=w1000-no-tmp.jpg"
+    }
+  ]
+}
